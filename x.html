@@ -1,0 +1,1817 @@
+<div class="content">
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="ranking_tabs quik-tabs">
+        <ul class="d-none d-md-block nav nav-pills quicktabs-tabs" role="tablist">
+          <li class="d-md-block d-none nav-item first"
+            onclick="Drupal.behaviors.qs_rankings_datatables.rankingTabs(this, 1)">
+            <a href="#university-rankings" role="tab" data-toggle="tab"
+              class="nav-link active quicktabs-tab-rankings_tabs-0 add_padding quick-navsj"><i class="fal fa-trophy-alt"
+                aria-hidden="true"></i>
+              University rankings
+            </a>
+          </li>
+          <li class="d-none d-md-block nav-item last"
+            onclick="Drupal.behaviors.qs_rankings_datatables.rankingTabs(this, 2)">
+            <a href="#university-rankings-indicators" role="tab" data-toggle="tab"
+              class="nav-link quicktabs-tab-rankings_tabs-1 add_padding quick-navsj"><i class="fal fa-analytics"
+                aria-hidden="true"></i>Ranking indicators</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane tab-pane_js active" id="ranking-tab">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="_qs-ranking-data-header ">
+            <div class="row">
+              <div id="sortbyrankingfirstload"
+                class="col-lg-1 col-md-2 col-sm-2 col-2 text-center sort_by_ranking asc _mobile-width-320px padding5">
+                <span class="_click-function sort_by_ranking active"
+                  onclick="Drupal.behaviors.qs_rankings_datatables.sortbyranking(this, 'ranking')">
+                  <span class="_mobile-width position-relative-i">
+                    <i class="fal fa-arrow-up" aria-hidden="true"></i>
+                    <i class="fal fa-arrow-down" aria-hidden="true"></i> <span class="fixd-width-mobile">Rank</span>
+                  </span>
+                </span>
+              </div>
+              <div class="dagger-col col-lg-1 col-md-1 col-sm-1 col-1 hide-this-in-mobile-indi"></div>
+              <div class="col-lg-4 col-md-7 col-sm-5 col-3 sort_by_university _mobile-width-320px padding5 asc">
+                <span class="_click-function sort_by_ranking alphabets asc"
+                  onclick="Drupal.behaviors.qs_rankings_datatables.sortbyranking(this, 'university')">
+                  <i class="fal fa-arrow-up" aria-hidden="true"></i>
+                  <i class="fal fa-arrow-down" aria-hidden="true"></i>
+                  University
+                </span>
+              </div>
+              <div
+                class="col-lg-2 col-md-2 col-sm-3 col-6 text-center sort_by_university _mobile-width-320px padding5 asc  ">
+                <span class="asc _click-function hide-this-in-mobile-indi"
+                  onclick="Drupal.behaviors.qs_rankings_datatables.sortbyranking(this, 'overallscore')"><i
+                    class="fal fa-arrow-up" aria-hidden="true"></i><i class="fal fa-arrow-down"
+                    aria-hidden="true"></i>Overall Score</span>
+
+                <div class="pane-quicktabs-rankings-tabs">
+                  <div class="_typehtml-div-sorting _typehtml-div-sorting_js">
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-12">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="ranking-data-load">
+        <div class="row ind ">
+          <div class="col-lg-12">
+            <div class="_qs-ranking-data-row normal-row">
+              <div class="row">
+                <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                  <div class="_univ-rank hide-this-in-mobile-indi ">1</div>
+                  <div class="_univ-rank show-this-in-mobile-indi ">
+                    1
+                    <div class="dagger-icon mobile-dagger"><img class="d-none"
+                        src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon"></div>
+                  </div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                  <div class="dagger-icon"><img class="d-none" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg"
+                      alt="Dagger Icon">
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                  <div class="university-rank-row  ">
+                    <span class="logo-wrapper ">
+                      <img src="/sites/default/files/massachusetts-institute-of-technology-mit_410_small.jpg">
+                    </span>
+                    <div class="univ-details-right-pos">
+                      <div class="td-wrap"><a href="/universities/massachusetts-institute-technology-mit"
+                          class="uni-link">Massachusetts Institute of Technology (MIT) </a>
+                      </div>
+                      <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                        Cambridge,&nbsp;United States</div>
+                      <div class="stars d-none">
+                        <span class="ranking-star">
+                          <i class="fal fa-star" aria-hidden="true"></i>
+                        </span>
+                        <span class="rating_number"> </span> <span class="qs-stars-font">QS
+                          Stars</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                  <span class="overall-score-span hide-this-in-mobile-indi"> 96.4 </span>
+                  <span class="overall-score-span show-this-in-mobile-indi"> 96.4 </span>
+                </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row ind ">
+          <div class="col-lg-12">
+            <div class="_qs-ranking-data-row normal-row">
+              <div class="row">
+                <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                  <div class="_univ-rank hide-this-in-mobile-indi ">2</div>
+                  <div class="_univ-rank show-this-in-mobile-indi ">
+                    2
+                    <div class="dagger-icon mobile-dagger"><img class="d-none"
+                        src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon"></div>
+                  </div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                  <div class="dagger-icon"><img class="d-none" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg"
+                      alt="Dagger Icon">
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                  <div class="university-rank-row  ">
+                    <span class="logo-wrapper ">
+                      <img src="/sites/default/files/harvard-university_253_small.jpg">
+                    </span>
+                    <div class="univ-details-right-pos">
+                      <div class="td-wrap"><a href="/universities/harvard-university" class="uni-link">Harvard
+                          University</a></div>
+                      <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                        Cambridge,&nbsp;United States</div>
+                      <div class="stars d-none">
+                        <span class="ranking-star">
+                          <i class="fal fa-star" aria-hidden="true"></i>
+                        </span>
+                        <span class="rating_number"> </span> <span class="qs-stars-font">QS
+                          Stars</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                  <span class="overall-score-span hide-this-in-mobile-indi"> 96.3 </span>
+                  <span class="overall-score-span show-this-in-mobile-indi"> 96.3 </span>
+                </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row ind ">
+          <div class="col-lg-12">
+            <div class="_qs-ranking-data-row normal-row">
+              <div class="row">
+                <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                  <div class="_univ-rank hide-this-in-mobile-indi ">3</div>
+                  <div class="_univ-rank show-this-in-mobile-indi ">
+                    3
+                    <div class="dagger-icon mobile-dagger"><img class="d-none"
+                        src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon"></div>
+                  </div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                  <div class="dagger-icon"><img class="d-none" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg"
+                      alt="Dagger Icon">
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                  <div class="university-rank-row  ">
+                    <span class="logo-wrapper ">
+                      <img src="/sites/default/files/university-of-cambridge_95_small.jpg">
+                    </span>
+                    <div class="univ-details-right-pos">
+                      <div class="td-wrap"><a href="/universities/university-cambridge" class="uni-link">University of
+                          Cambridge</a></div>
+                      <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                        Cambridge,&nbsp;United Kingdom</div>
+                      <div class="stars d-none">
+                        <span class="ranking-star">
+                          <i class="fal fa-star" aria-hidden="true"></i>
+                        </span>
+                        <span class="rating_number"> </span> <span class="qs-stars-font">QS
+                          Stars</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                  <span class="overall-score-span hide-this-in-mobile-indi"> 95.8 </span>
+                  <span class="overall-score-span show-this-in-mobile-indi"> 95.8 </span>
+                </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row need-section-margin dynamic-block-ranking-1" position="3" customblock="true">
+          <div class="_ifdfp_1 _ifdfp_1_divcss scroll-in-mobile td-wrap col-lg-12">
+            <div id="js-dfp-tag-responsive_ad_1" class="text-center" style="">
+              <script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_1" type="text/html">
+                     googletag.cmd.push(function () {
+                     googletag.display('js-dfp-tag-responsive_ad_1');
+                    });
+                   </script>
+              <div
+                id="google_ads_iframe_8070/Topuni-Web/university-rankings/university-subject-rankings/2022/natural-sciences_0__container__"
+                style="border: 0pt none; width: 970px; height: 0px;"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row ind ">
+          <div class="col-lg-12">
+            <div class="_qs-ranking-data-row normal-row">
+              <div class="row">
+                <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                  <div class="_univ-rank hide-this-in-mobile-indi ">4</div>
+                  <div class="_univ-rank show-this-in-mobile-indi ">
+                    4
+                    <div class="dagger-icon mobile-dagger"><img class="d-none"
+                        src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon"></div>
+                  </div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                  <div class="dagger-icon"><img class="d-none" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg"
+                      alt="Dagger Icon">
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                  <div class="university-rank-row  ">
+                    <span class="logo-wrapper ">
+                      <img src="/sites/default/files/university-of-oxford_478_small.jpg">
+                    </span>
+                    <div class="univ-details-right-pos">
+                      <div class="td-wrap"><a href="/universities/university-oxford" class="uni-link">University of
+                          Oxford</a></div>
+                      <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                        Oxford,&nbsp;United Kingdom</div>
+                      <div class="stars d-none">
+                        <span class="ranking-star">
+                          <i class="fal fa-star" aria-hidden="true"></i>
+                        </span>
+                        <span class="rating_number"> </span> <span class="qs-stars-font">QS
+                          Stars</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                  <span class="overall-score-span hide-this-in-mobile-indi"> 95.2 </span>
+                  <span class="overall-score-span show-this-in-mobile-indi"> 95.2 </span>
+                </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row ind ">
+          <div class="col-lg-12">
+            <div class="_qs-ranking-data-row normal-row">
+              <div class="row">
+                <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                  <div class="_univ-rank hide-this-in-mobile-indi ">5</div>
+                  <div class="_univ-rank show-this-in-mobile-indi ">
+                    5
+                    <div class="dagger-icon mobile-dagger"><img class="d-none"
+                        src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon"></div>
+                  </div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                  <div class="dagger-icon"><img class="d-none" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg"
+                      alt="Dagger Icon">
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                  <div class="university-rank-row  ">
+                    <span class="logo-wrapper ">
+                      <img src="/sites/default/files/stanford-university_573_small.jpg">
+                    </span>
+                    <div class="univ-details-right-pos">
+                      <div class="td-wrap"><a href="/universities/stanford-university" class="uni-link">Stanford
+                          University</a></div>
+                      <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                        Stanford,&nbsp;United States</div>
+                      <div class="stars d-none">
+                        <span class="ranking-star">
+                          <i class="fal fa-star" aria-hidden="true"></i>
+                        </span>
+                        <span class="rating_number"> </span> <span class="qs-stars-font">QS
+                          Stars</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                  <span class="overall-score-span hide-this-in-mobile-indi"> 94 </span>
+                  <span class="overall-score-span show-this-in-mobile-indi"> 94 </span>
+                </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row ind ">
+          <div class="col-lg-12">
+            <div class="_qs-ranking-data-row normal-row">
+              <div class="row">
+                <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                  <div class="_univ-rank hide-this-in-mobile-indi ">6</div>
+                  <div class="_univ-rank show-this-in-mobile-indi ">
+                    6
+                    <div class="dagger-icon mobile-dagger"><img class="d-none"
+                        src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon"></div>
+                  </div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                  <div class="dagger-icon"><img class="d-none" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg"
+                      alt="Dagger Icon">
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                  <div class="university-rank-row  ">
+                    <span class="logo-wrapper ">
+                      <img src="/sites/default/files/eth-zurich-swiss-federal-institute-of-technology_201_small.jpg">
+                    </span>
+                    <div class="univ-details-right-pos">
+                      <div class="td-wrap"><a href="/universities/eth-zurich" class="uni-link">ETH
+                          Zurich</a></div>
+                      <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                        Zürich,&nbsp;Switzerland</div>
+                      <div class="stars d-none">
+                        <span class="ranking-star">
+                          <i class="fal fa-star" aria-hidden="true"></i>
+                        </span>
+                        <span class="rating_number"> </span> <span class="qs-stars-font">QS
+                          Stars</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                  <span class="overall-score-span hide-this-in-mobile-indi"> 93.9 </span>
+                  <span class="overall-score-span show-this-in-mobile-indi"> 93.9 </span>
+                </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row ind ">
+          <div class="col-lg-12">
+            <div class="_qs-ranking-data-row normal-row">
+              <div class="row">
+                <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                  <div class="_univ-rank hide-this-in-mobile-indi ">7</div>
+                  <div class="_univ-rank show-this-in-mobile-indi ">
+                    7
+                    <div class="dagger-icon mobile-dagger"><img class="d-none"
+                        src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon"></div>
+                  </div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                  <div class="dagger-icon"><img class="d-none" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg"
+                      alt="Dagger Icon">
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                  <div class="university-rank-row  ">
+                    <span class="logo-wrapper ">
+                      <img src="/sites/default/files/california-institute-of-technology-caltech_94_small.jpg">
+                    </span>
+                    <div class="univ-details-right-pos">
+                      <div class="td-wrap"><a href="/universities/california-institute-technology-caltech"
+                          class="uni-link">California Institute of Technology (Caltech)</a>
+                      </div>
+                      <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                        Pasadena,&nbsp;United States</div>
+                      <div class="stars d-none">
+                        <span class="ranking-star">
+                          <i class="fal fa-star" aria-hidden="true"></i>
+                        </span>
+                        <span class="rating_number"> </span> <span class="qs-stars-font">QS
+                          Stars</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                  <span class="overall-score-span hide-this-in-mobile-indi"> 93.4 </span>
+                  <span class="overall-score-span show-this-in-mobile-indi"> 93.4 </span>
+                </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row ind ">
+          <div class="col-lg-12">
+            <div class="_qs-ranking-data-row normal-row">
+              <div class="row">
+                <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                  <div class="_univ-rank hide-this-in-mobile-indi ">8</div>
+                  <div class="_univ-rank show-this-in-mobile-indi ">
+                    8
+                    <div class="dagger-icon mobile-dagger"><img class="d-none"
+                        src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon"></div>
+                  </div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                  <div class="dagger-icon"><img class="d-none" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg"
+                      alt="Dagger Icon">
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                  <div class="university-rank-row  ">
+                    <span class="logo-wrapper ">
+                      <img src="/sites/default/files/university-of-california-berkeley-ucb_84_small.jpg">
+                    </span>
+                    <div class="univ-details-right-pos">
+                      <div class="td-wrap"><a href="/universities/university-california-berkeley-ucb"
+                          class="uni-link">University of California, Berkeley (UCB)</a></div>
+                      <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                        Berkeley,&nbsp;United States</div>
+                      <div class="stars d-none">
+                        <span class="ranking-star">
+                          <i class="fal fa-star" aria-hidden="true"></i>
+                        </span>
+                        <span class="rating_number"> </span> <span class="qs-stars-font">QS
+                          Stars</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                  <span class="overall-score-span hide-this-in-mobile-indi"> 93.3 </span>
+                  <span class="overall-score-span show-this-in-mobile-indi"> 93.3 </span>
+                </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row ind ">
+          <div class="col-lg-12">
+            <div class="_qs-ranking-data-row normal-row">
+              <div class="row">
+                <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                  <div class="_univ-rank hide-this-in-mobile-indi ">9</div>
+                  <div class="_univ-rank show-this-in-mobile-indi ">
+                    9
+                    <div class="dagger-icon mobile-dagger"><img class="d-none"
+                        src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon"></div>
+                  </div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                  <div class="dagger-icon"><img class="d-none" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg"
+                      alt="Dagger Icon">
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                  <div class="university-rank-row  ">
+                    <span class="logo-wrapper ">
+                      <img src="/sites/default/files/imperial-college-london_592560cf2aeae70239af4be8_small.jpg">
+                    </span>
+                    <div class="univ-details-right-pos">
+                      <div class="td-wrap"><a href="/universities/imperial-college-london" class="uni-link">Imperial
+                          College London</a></div>
+                      <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                        London,&nbsp;United Kingdom</div>
+                      <div class="stars d-none">
+                        <span class="ranking-star">
+                          <i class="fal fa-star" aria-hidden="true"></i>
+                        </span>
+                        <span class="rating_number"> </span> <span class="qs-stars-font">QS
+                          Stars</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                  <span class="overall-score-span hide-this-in-mobile-indi"> 91.5 </span>
+                  <span class="overall-score-span show-this-in-mobile-indi"> 91.5 </span>
+                </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row ind ">
+          <div class="col-lg-12">
+            <div class="_qs-ranking-data-row normal-row">
+              <div class="row">
+                <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                  <div class="_univ-rank hide-this-in-mobile-indi ">10</div>
+                  <div class="_univ-rank show-this-in-mobile-indi ">
+                    10
+                    <div class="dagger-icon mobile-dagger"><img class="d-none"
+                        src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon"></div>
+                  </div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                  <div class="dagger-icon"><img class="d-none" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg"
+                      alt="Dagger Icon">
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                  <div class="university-rank-row  ">
+                    <span class="logo-wrapper ">
+                      <img src="/sites/default/files/the-university-of-tokyo_615_small.jpg">
+                    </span>
+                    <div class="univ-details-right-pos">
+                      <div class="td-wrap"><a href="/universities/university-tokyo" class="uni-link">The University of
+                          Tokyo</a></div>
+                      <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i> Tokyo,&nbsp;Japan
+                      </div>
+                      <div class="stars d-none">
+                        <span class="ranking-star">
+                          <i class="fal fa-star" aria-hidden="true"></i>
+                        </span>
+                        <span class="rating_number"> </span> <span class="qs-stars-font">QS
+                          Stars</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                  <span class="overall-score-span hide-this-in-mobile-indi"> 90.1 </span>
+                  <span class="overall-score-span show-this-in-mobile-indi"> 90.1 </span>
+                </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row need-section-margin dynamic-block-ranking-2" position="10" customblock="true">
+          <div class="_ifdfp_1 td-wrap col-lg-12 _ifdfp_1_divcss scroll-in-mobile">
+            <div id="js-dfp-tag-responsive_ad_2" class="text-center" style="">
+              <script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_2" type="text/html">
+                     googletag.cmd.push(function () {
+                     googletag.display('js-dfp-tag-responsive_ad_2');
+                    });
+                   </script>
+              <div
+                id="google_ads_iframe_8070/Topuni-Web/university-rankings/university-subject-rankings/2022/natural-sciences_1__container__"
+                style="border: 0pt none; width: 970px; height: 0px;"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="ranking-data-0" class="d-none">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="no-ranking-results-found text-center">
+              No data found on applied filters. <a href="javascript:void(0)"
+                onclick="Drupal.behaviors.qs_rankings_datatables.qsRankMasterfiltersReset()">Clear
+                Filters</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div role="tabpanel" class="tab-pane tab-pane_js  quicktabs-hide " id="indicator-tab">
+      <div id="ranking-data-load_ind">
+
+        <div id="ranking-data-load_ind">
+          <div class="row ind-row">
+            <div class="col-lg-12">
+              <div class="_qs-ranking-data-header-new-white normal-row">
+                <div class="row">
+                  <div class="col-lg-5 _right_background">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding">
+                        <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js">
+                          <div class="row">
+                            <div class="col-lg-3 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank ">1</div>
+                            </div>
+                            <div class="col-lg-9 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                <div class="td-wrap">
+                                  <div class="td-wrap-in"><a href="/universities/massachusetts-institute-technology-mit"
+                                      class="uni-link">Massachusetts Institute of Technology (MIT) </a></div>
+                                </div>
+                                <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                                  Cambridge,&nbsp;United States</div>
+                                <div class="stars d-none">
+                                  <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                  </span>
+                                  <span class="rating_number"> </span> <span class="qs-stars-font">QS Stars</span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-7 no-left-margin-padding">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding ">
+                        <div
+                          class="_scrollable_div all-columns-by-js dxnew-container-institutes _scrollable_div_withdata move-all-js common_height_js_0"
+                          style="height: 80px;">
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind overall">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">96.4</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_15">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">91.1</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_69">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">92.6</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_70">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">97.3</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_76">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">97.8</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_77">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">98.2</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row ind-row">
+            <div class="col-lg-12">
+              <div class="_qs-ranking-data-header-new-white normal-row">
+                <div class="row">
+                  <div class="col-lg-5 _right_background">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding">
+                        <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js">
+                          <div class="row">
+                            <div class="col-lg-3 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank ">2</div>
+                            </div>
+                            <div class="col-lg-9 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                <div class="td-wrap">
+                                  <div class="td-wrap-in"><a href="/universities/harvard-university"
+                                      class="uni-link">Harvard University</a></div>
+                                </div>
+                                <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                                  Cambridge,&nbsp;United States</div>
+                                <div class="stars d-none">
+                                  <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                  </span>
+                                  <span class="rating_number"> </span> <span class="qs-stars-font">QS Stars</span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-7 no-left-margin-padding">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding ">
+                        <div
+                          class="_scrollable_div all-columns-by-js dxnew-container-institutes _scrollable_div_withdata move-all-js common_height_js_1"
+                          style="height: 80px;">
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind overall">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">96.3</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_15">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">95</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_69">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">89.5</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_70">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">98.2</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_76">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">96.6</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_77">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">100</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row ind-row">
+            <div class="col-lg-12">
+              <div class="_qs-ranking-data-header-new-white normal-row">
+                <div class="row">
+                  <div class="col-lg-5 _right_background">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding">
+                        <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js">
+                          <div class="row">
+                            <div class="col-lg-3 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank ">3</div>
+                            </div>
+                            <div class="col-lg-9 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                <div class="td-wrap">
+                                  <div class="td-wrap-in"><a href="/universities/university-cambridge"
+                                      class="uni-link">University of Cambridge</a></div>
+                                </div>
+                                <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                                  Cambridge,&nbsp;United Kingdom</div>
+                                <div class="stars d-none">
+                                  <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                  </span>
+                                  <span class="rating_number"> </span> <span class="qs-stars-font">QS Stars</span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-7 no-left-margin-padding">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding ">
+                        <div
+                          class="_scrollable_div all-columns-by-js dxnew-container-institutes _scrollable_div_withdata move-all-js common_height_js_2"
+                          style="height: 80px;">
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind overall">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">95.8</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_15">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">91.9</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_69">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">92.1</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_70">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">94.8</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_76">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">97.1</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_77">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">98.6</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row need-section-margin dynamic-block-ranking-1" position="3" customblock="true">
+            <div class="_ifdfp_1 _ifdfp_1_divcss scroll-in-mobile td-wrap col-lg-12">
+              <div id="js-dfp-tag-responsive_ad_1" class="text-center" style="">
+                <script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_1" type="text/html">
+                        googletag.cmd.push(function () {
+                        googletag.display('js-dfp-tag-responsive_ad_1');
+                       });
+                      </script>
+                <div
+                  id="google_ads_iframe_8070/Topuni-Web/university-rankings/university-subject-rankings/2022/natural-sciences_0__container__"
+                  style="border: 0pt none; width: 970px; height: 0px;"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row ind-row">
+            <div class="col-lg-12">
+              <div class="_qs-ranking-data-header-new-white normal-row">
+                <div class="row">
+                  <div class="col-lg-5 _right_background">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding">
+                        <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js">
+                          <div class="row">
+                            <div class="col-lg-3 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank ">4</div>
+                            </div>
+                            <div class="col-lg-9 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                <div class="td-wrap">
+                                  <div class="td-wrap-in"><a href="/universities/university-oxford"
+                                      class="uni-link">University of Oxford</a></div>
+                                </div>
+                                <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                                  Oxford,&nbsp;United Kingdom</div>
+                                <div class="stars d-none">
+                                  <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                  </span>
+                                  <span class="rating_number"> </span> <span class="qs-stars-font">QS Stars</span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-7 no-left-margin-padding">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding ">
+                        <div
+                          class="_scrollable_div all-columns-by-js dxnew-container-institutes _scrollable_div_withdata move-all-js common_height_js_3"
+                          style="height: 80px;">
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind overall">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">95.2</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_15">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">95.6</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_69">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">86.9</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_70">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">94.6</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_76">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">96.4</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_77">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">99.1</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row ind-row">
+            <div class="col-lg-12">
+              <div class="_qs-ranking-data-header-new-white normal-row">
+                <div class="row">
+                  <div class="col-lg-5 _right_background">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding">
+                        <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js">
+                          <div class="row">
+                            <div class="col-lg-3 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank ">5</div>
+                            </div>
+                            <div class="col-lg-9 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                <div class="td-wrap">
+                                  <div class="td-wrap-in"><a href="/universities/stanford-university"
+                                      class="uni-link">Stanford University</a></div>
+                                </div>
+                                <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                                  Stanford,&nbsp;United States</div>
+                                <div class="stars d-none">
+                                  <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                  </span>
+                                  <span class="rating_number"> </span> <span class="qs-stars-font">QS Stars</span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-7 no-left-margin-padding">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding ">
+                        <div
+                          class="_scrollable_div all-columns-by-js dxnew-container-institutes _scrollable_div_withdata move-all-js common_height_js_4"
+                          style="height: 80px;">
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind overall">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">94</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_15">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">78.9</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_69">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">92.1</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_70">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">99.3</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_76">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">95.6</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_77">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">95.7</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row ind-row">
+            <div class="col-lg-12">
+              <div class="_qs-ranking-data-header-new-white normal-row">
+                <div class="row">
+                  <div class="col-lg-5 _right_background">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding">
+                        <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js">
+                          <div class="row">
+                            <div class="col-lg-3 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank ">6</div>
+                            </div>
+                            <div class="col-lg-9 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                <div class="td-wrap">
+                                  <div class="td-wrap-in"><a href="/universities/eth-zurich" class="uni-link">ETH
+                                      Zurich</a></div>
+                                </div>
+                                <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                                  Zürich,&nbsp;Switzerland</div>
+                                <div class="stars d-none">
+                                  <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                  </span>
+                                  <span class="rating_number"> </span> <span class="qs-stars-font">QS Stars</span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-7 no-left-margin-padding">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding ">
+                        <div
+                          class="_scrollable_div all-columns-by-js dxnew-container-institutes _scrollable_div_withdata move-all-js common_height_js_5"
+                          style="height: 80px;">
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind overall">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">93.9</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_15">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">91</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_69">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">86.9</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_70">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">93.7</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_76">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">98.7</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_77">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">91</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row ind-row">
+            <div class="col-lg-12">
+              <div class="_qs-ranking-data-header-new-white normal-row">
+                <div class="row">
+                  <div class="col-lg-5 _right_background">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding">
+                        <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js">
+                          <div class="row">
+                            <div class="col-lg-3 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank ">7</div>
+                            </div>
+                            <div class="col-lg-9 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                <div class="td-wrap">
+                                  <div class="td-wrap-in"><a
+                                      href="/universities/california-institute-technology-caltech"
+                                      class="uni-link">California Institute of Technology (Caltech)</a></div>
+                                </div>
+                                <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                                  Pasadena,&nbsp;United States</div>
+                                <div class="stars d-none">
+                                  <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                  </span>
+                                  <span class="rating_number"> </span> <span class="qs-stars-font">QS Stars</span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-7 no-left-margin-padding">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding ">
+                        <div
+                          class="_scrollable_div all-columns-by-js dxnew-container-institutes _scrollable_div_withdata move-all-js common_height_js_6"
+                          style="height: 80px;">
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind overall">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">93.4</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_15">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">78.2</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_69">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">90.1</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_70">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">96</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_76">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">100</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_77">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">88.3</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row ind-row">
+            <div class="col-lg-12">
+              <div class="_qs-ranking-data-header-new-white normal-row">
+                <div class="row">
+                  <div class="col-lg-5 _right_background">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding">
+                        <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js">
+                          <div class="row">
+                            <div class="col-lg-3 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank ">8</div>
+                            </div>
+                            <div class="col-lg-9 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                <div class="td-wrap">
+                                  <div class="td-wrap-in"><a href="/universities/university-california-berkeley-ucb"
+                                      class="uni-link">University of California, Berkeley (UCB)</a></div>
+                                </div>
+                                <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                                  Berkeley,&nbsp;United States</div>
+                                <div class="stars d-none">
+                                  <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                  </span>
+                                  <span class="rating_number"> </span> <span class="qs-stars-font">QS Stars</span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-7 no-left-margin-padding">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding ">
+                        <div
+                          class="_scrollable_div all-columns-by-js dxnew-container-institutes _scrollable_div_withdata move-all-js common_height_js_7"
+                          style="height: 80px;">
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind overall">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">93.3</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_15">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">90.5</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_69">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">87.4</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_70">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">98</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_76">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">95.7</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_77">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">90.9</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row ind-row">
+            <div class="col-lg-12">
+              <div class="_qs-ranking-data-header-new-white normal-row">
+                <div class="row">
+                  <div class="col-lg-5 _right_background">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding">
+                        <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js">
+                          <div class="row">
+                            <div class="col-lg-3 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank ">9</div>
+                            </div>
+                            <div class="col-lg-9 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                <div class="td-wrap">
+                                  <div class="td-wrap-in"><a href="/universities/imperial-college-london"
+                                      class="uni-link">Imperial College London</a></div>
+                                </div>
+                                <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                                  London,&nbsp;United Kingdom</div>
+                                <div class="stars d-none">
+                                  <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                  </span>
+                                  <span class="rating_number"> </span> <span class="qs-stars-font">QS Stars</span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-7 no-left-margin-padding">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding ">
+                        <div
+                          class="_scrollable_div all-columns-by-js dxnew-container-institutes _scrollable_div_withdata move-all-js common_height_js_8"
+                          style="height: 80px;">
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind overall">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">91.5</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_15">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">92.9</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_69">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">85.4</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_70">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">90.6</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_76">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">94.7</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_77">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">89.5</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row ind-row">
+            <div class="col-lg-12">
+              <div class="_qs-ranking-data-header-new-white normal-row">
+                <div class="row">
+                  <div class="col-lg-5 _right_background">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding">
+                        <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js">
+                          <div class="row">
+                            <div class="col-lg-3 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank ">10</div>
+                            </div>
+                            <div class="col-lg-9 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                <div class="td-wrap">
+                                  <div class="td-wrap-in"><a href="/universities/university-tokyo" class="uni-link">The
+                                      University of Tokyo</a></div>
+                                </div>
+                                <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i>
+                                  Tokyo,&nbsp;Japan</div>
+                                <div class="stars d-none">
+                                  <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                  </span>
+                                  <span class="rating_number"> </span> <span class="qs-stars-font">QS Stars</span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-7 no-left-margin-padding">
+                    <div class="row">
+                      <div class="col-lg-12 no-right-padding ">
+                        <div
+                          class="_scrollable_div all-columns-by-js dxnew-container-institutes _scrollable_div_withdata move-all-js common_height_js_9"
+                          style="height: 80px;">
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind overall">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">90.1</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_15">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">85.6</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_69">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">88.9</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_70">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">88.3</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_76">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">93</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="_smallblocksfix-width _mt_not_scrollbar sort_by_university asc move-all-js">
+                            <div class="_data-set">
+                              <div class="overall-score-span-ind ind_77">
+                                <span>
+                                  <div class="td-wrap">
+                                    <div class="td-wrap-in">88.6</div>
+                                  </div>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row need-section-margin dynamic-block-ranking-2" position="10" customblock="true">
+            <div class="_ifdfp_1 td-wrap col-lg-12 _ifdfp_1_divcss scroll-in-mobile">
+              <div id="js-dfp-tag-responsive_ad_2" class="text-center" style="">
+                <script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_2" type="text/html">
+                        googletag.cmd.push(function () {
+                        googletag.display('js-dfp-tag-responsive_ad_2');
+                       });
+                      </script>
+                <div
+                  id="google_ads_iframe_8070/Topuni-Web/university-rankings/university-subject-rankings/2022/natural-sciences_1__container__"
+                  style="border: 0pt none; width: 970px; height: 0px;"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

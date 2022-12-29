@@ -1,0 +1,5032 @@
+[
+  {
+    "World Rank": "1",
+    "University name": "Massachusetts Institute of Technology (MIT)",
+    "Overall Score": "96.4",
+    "International Research Network": "91.1",
+    "H-Index citations": "92.6",
+    "Citations per paper": "97.3",
+    "Academic reputation": "97.8",
+    "Employer Reputation": "98.2"
+  },
+  {
+    "World Rank": "2",
+    "University name": "Harvard University",
+    "Overall Score": "96.3",
+    "International Research Network": "95",
+    "H-Index citations": "89.5",
+    "Citations per paper": "98.2",
+    "Academic reputation": "96.6",
+    "Employer Reputation": "100"
+  },
+  {
+    "World Rank": "3",
+    "University name": "University of Cambridge",
+    "Overall Score": "95.8",
+    "International Research Network": "91.9",
+    "H-Index citations": "92.1",
+    "Citations per paper": "94.8",
+    "Academic reputation": "97.1",
+    "Employer Reputation": "98.6"
+  },
+  {
+    "World Rank": "4",
+    "University name": "University of Oxford",
+    "Overall Score": "95.2",
+    "International Research Network": "95.6",
+    "H-Index citations": "86.9",
+    "Citations per paper": "94.6",
+    "Academic reputation": "96.4",
+    "Employer Reputation": "99.1"
+  },
+  {
+    "World Rank": "5",
+    "University name": "Stanford University",
+    "Overall Score": "94",
+    "International Research Network": "78.9",
+    "H-Index citations": "92.1",
+    "Citations per paper": "99.3",
+    "Academic reputation": "95.6",
+    "Employer Reputation": "95.7"
+  },
+  {
+    "World Rank": "6",
+    "University name": "ETH Zurich",
+    "Overall Score": "93.9",
+    "International Research Network": "91",
+    "H-Index citations": "86.9",
+    "Citations per paper": "93.7",
+    "Academic reputation": "98.7",
+    "Employer Reputation": "91"
+  },
+  {
+    "World Rank": "7",
+    "University name": "California Institute of Technology (Caltech)",
+    "Overall Score": "93.4",
+    "International Research Network": "78.2",
+    "H-Index citations": "90.1",
+    "Citations per paper": "96",
+    "Academic reputation": "100",
+    "Employer Reputation": "88.3"
+  },
+  {
+    "World Rank": "8",
+    "University name": "University of California, Berkeley (UCB)",
+    "Overall Score": "93.3",
+    "International Research Network": "90.5",
+    "H-Index citations": "87.4",
+    "Citations per paper": "98",
+    "Academic reputation": "95.7",
+    "Employer Reputation": "90.9"
+  },
+  {
+    "World Rank": "9",
+    "University name": "Imperial College London",
+    "Overall Score": "91.5",
+    "International Research Network": "92.9",
+    "H-Index citations": "85.4",
+    "Citations per paper": "90.6",
+    "Academic reputation": "94.7",
+    "Employer Reputation": "89.5"
+  },
+  {
+    "World Rank": "10",
+    "University name": "The University of Tokyo",
+    "Overall Score": "90.1",
+    "International Research Network": "85.6",
+    "H-Index citations": "88.9",
+    "Citations per paper": "88.3",
+    "Academic reputation": "93",
+    "Employer Reputation": "88.6"
+  },
+  {
+    "World Rank": "=11",
+    "University name": "EPFL",
+    "Overall Score": "88.7",
+    "International Research Network": "77.6",
+    "H-Index citations": "80.1",
+    "Citations per paper": "94",
+    "Academic reputation": "94.2",
+    "Employer Reputation": "85.6"
+  },
+  {
+    "World Rank": "=11",
+    "University name": "Princeton University",
+    "Overall Score": "88.7",
+    "International Research Network": "74.8",
+    "H-Index citations": "87.9",
+    "Citations per paper": "100",
+    "Academic reputation": "91.7",
+    "Employer Reputation": "81.7"
+  },
+  {
+    "World Rank": "13",
+    "University name": "Nanyang Technological University, Singapore (NTU)",
+    "Overall Score": "88.1",
+    "International Research Network": "76.5",
+    "H-Index citations": "85.2",
+    "Citations per paper": "91.2",
+    "Academic reputation": "88.1",
+    "Employer Reputation": "93.8"
+  },
+  {
+    "World Rank": "14",
+    "University name": "Sorbonne University",
+    "Overall Score": "87.9",
+    "International Research Network": "99.2",
+    "H-Index citations": "96.3",
+    "Citations per paper": "89.5",
+    "Academic reputation": "86",
+    "Employer Reputation": "78.3"
+  },
+  {
+    "World Rank": "15",
+    "University name": "National University of Singapore (NUS)",
+    "Overall Score": "87.8",
+    "International Research Network": "68.1",
+    "H-Index citations": "78.9",
+    "Citations per paper": "91.9",
+    "Academic reputation": "89.4",
+    "Employer Reputation": "98.1"
+  },
+  {
+    "World Rank": "16",
+    "University name": "Lomonosov Moscow State University",
+    "Overall Score": "87.5",
+    "International Research Network": "88.6",
+    "H-Index citations": "83.4",
+    "Citations per paper": "70.7",
+    "Academic reputation": "90.3",
+    "Employer Reputation": "96.9"
+  },
+  {
+    "World Rank": "17",
+    "University name": "Universit\u00e9 PSL",
+    "Overall Score": "87.2",
+    "International Research Network": "84.2",
+    "H-Index citations": "98.4",
+    "Citations per paper": "90.2",
+    "Academic reputation": "85.2",
+    "Employer Reputation": "82.2"
+  },
+  {
+    "World Rank": "18",
+    "University name": "University of California, Los Angeles (UCLA)",
+    "Overall Score": "87",
+    "International Research Network": "77.7",
+    "H-Index citations": "81.5",
+    "Citations per paper": "92",
+    "Academic reputation": "89.2",
+    "Employer Reputation": "87.8"
+  },
+  {
+    "World Rank": "19",
+    "University name": "University of Chicago",
+    "Overall Score": "86.7",
+    "International Research Network": "80.9",
+    "H-Index citations": "88.2",
+    "Citations per paper": "99.5",
+    "Academic reputation": "86.5",
+    "Employer Reputation": "79.1"
+  },
+  {
+    "World Rank": "20",
+    "University name": "Universit Paris-Saclay",
+    "Overall Score": "86.3",
+    "International Research Network": "84.2",
+    "H-Index citations": "96.1",
+    "Citations per paper": "87.1",
+    "Academic reputation": "84.3",
+    "Employer Reputation": "83.6"
+  },
+  {
+    "World Rank": "21",
+    "University name": "Peking University",
+    "Overall Score": "86.2",
+    "International Research Network": "70.4",
+    "H-Index citations": "88.7",
+    "Citations per paper": "90.1",
+    "Academic reputation": "89.1",
+    "Employer Reputation": "83.3"
+  },
+  {
+    "World Rank": "22",
+    "University name": "Institut Polytechnique de Paris",
+    "Overall Score": "85.9",
+    "International Research Network": "85.4",
+    "H-Index citations": "89.2",
+    "Citations per paper": "88",
+    "Academic reputation": "84.8",
+    "Employer Reputation": "84.4"
+  },
+  {
+    "World Rank": "23",
+    "University name": "Tsinghua University",
+    "Overall Score": "85.8",
+    "International Research Network": "68.7",
+    "H-Index citations": "88.9",
+    "Citations per paper": "86.5",
+    "Academic reputation": "88.5",
+    "Employer Reputation": "86"
+  },
+  {
+    "World Rank": "24",
+    "University name": "University of Toronto",
+    "Overall Score": "85.5",
+    "International Research Network": "78.9",
+    "H-Index citations": "85.9",
+    "Citations per paper": "90.8",
+    "Academic reputation": "87.3",
+    "Employer Reputation": "80.9"
+  },
+  {
+    "World Rank": "25",
+    "University name": "Kyoto University",
+    "Overall Score": "84.7",
+    "International Research Network": "77.5",
+    "H-Index citations": "83.2",
+    "Citations per paper": "87",
+    "Academic reputation": "88.6",
+    "Employer Reputation": "79.8"
+  },
+  {
+    "World Rank": "26",
+    "University name": "University of British Columbia",
+    "Overall Score": "84.6",
+    "International Research Network": "83.7",
+    "H-Index citations": "82.8",
+    "Citations per paper": "89.4",
+    "Academic reputation": "85.2",
+    "Employer Reputation": "81.8"
+  },
+  {
+    "World Rank": "27",
+    "University name": "Australian National University (ANU)",
+    "Overall Score": "84.2",
+    "International Research Network": "79.3",
+    "H-Index citations": "81.9",
+    "Citations per paper": "91.5",
+    "Academic reputation": "84",
+    "Employer Reputation": "83.2"
+  },
+  {
+    "World Rank": "28",
+    "University name": "Technical University of Munich",
+    "Overall Score": "84",
+    "International Research Network": "75.6",
+    "H-Index citations": "83.2",
+    "Citations per paper": "88.8",
+    "Academic reputation": "88.6",
+    "Employer Reputation": "76.1"
+  },
+  {
+    "World Rank": "29",
+    "University name": "Seoul National University",
+    "Overall Score": "83.9",
+    "International Research Network": "71.1",
+    "H-Index citations": "78.9",
+    "Citations per paper": "84.1",
+    "Academic reputation": "86.9",
+    "Employer Reputation": "87.8"
+  },
+  {
+    "World Rank": "30",
+    "University name": "Tokyo Institute of Technology (Tokyo Tech)",
+    "Overall Score": "83.8",
+    "International Research Network": "82.5",
+    "H-Index citations": "76.5",
+    "Citations per paper": "82.1",
+    "Academic reputation": "88.4",
+    "Employer Reputation": "82.2"
+  },
+  {
+    "World Rank": "31",
+    "University name": "Yale University",
+    "Overall Score": "83.7",
+    "International Research Network": "66.2",
+    "H-Index citations": "81.7",
+    "Citations per paper": "98.1",
+    "Academic reputation": "81.2",
+    "Employer Reputation": "87.9"
+  },
+  {
+    "World Rank": "32",
+    "University name": "Cornell University",
+    "Overall Score": "83.5",
+    "International Research Network": "73",
+    "H-Index citations": "83.2",
+    "Citations per paper": "92.1",
+    "Academic reputation": "85.4",
+    "Employer Reputation": "78.9"
+  },
+  {
+    "World Rank": "33",
+    "University name": "University of Texas at Austin",
+    "Overall Score": "83.2",
+    "International Research Network": "85.4",
+    "H-Index citations": "84",
+    "Citations per paper": "91.3",
+    "Academic reputation": "82.3",
+    "Employer Reputation": "77.4"
+  },
+  {
+    "World Rank": "34",
+    "University name": "University of Michigan-Ann Arbor",
+    "Overall Score": "82.9",
+    "International Research Network": "91.7",
+    "H-Index citations": "84.4",
+    "Citations per paper": "90.2",
+    "Academic reputation": "79.8",
+    "Employer Reputation": "78.2"
+  },
+  {
+    "World Rank": "35",
+    "University name": "Columbia University",
+    "Overall Score": "82.6",
+    "International Research Network": "73",
+    "H-Index citations": "87.4",
+    "Citations per paper": "96.1",
+    "Academic reputation": "80.6",
+    "Employer Reputation": "77.9"
+  },
+  {
+    "World Rank": "36",
+    "University name": "University of California, San Diego (UCSD)",
+    "Overall Score": "82.5",
+    "International Research Network": "85.6",
+    "H-Index citations": "85",
+    "Citations per paper": "90.7",
+    "Academic reputation": "81.5",
+    "Employer Reputation": "74.8"
+  },
+  {
+    "World Rank": "37",
+    "University name": "UCL",
+    "Overall Score": "82.3",
+    "International Research Network": "92.4",
+    "H-Index citations": "81.7",
+    "Citations per paper": "90.6",
+    "Academic reputation": "77.8",
+    "Employer Reputation": "80.4"
+  },
+  {
+    "World Rank": "=38",
+    "University name": "The University of Melbourne",
+    "Overall Score": "82.2",
+    "International Research Network": "79.7",
+    "H-Index citations": "80.3",
+    "Citations per paper": "89.5",
+    "Academic reputation": "78.5",
+    "Employer Reputation": "86.8"
+  },
+  {
+    "World Rank": "=38",
+    "University name": "University of Washington",
+    "Overall Score": "82.2",
+    "International Research Network": "87.6",
+    "H-Index citations": "86.7",
+    "Citations per paper": "93.1",
+    "Academic reputation": "80",
+    "Employer Reputation": "72.1"
+  },
+  {
+    "World Rank": "=40",
+    "University name": "The University of Edinburgh",
+    "Overall Score": "82.1",
+    "International Research Network": "83.3",
+    "H-Index citations": "83.4",
+    "Citations per paper": "92.2",
+    "Academic reputation": "79.9",
+    "Employer Reputation": "77.3"
+  },
+  {
+    "World Rank": "=40",
+    "University name": "The University of Manchester",
+    "Overall Score": "82.1",
+    "International Research Network": "88.3",
+    "H-Index citations": "81.9",
+    "Citations per paper": "89.1",
+    "Academic reputation": "78.8",
+    "Employer Reputation": "80.7"
+  },
+  {
+    "World Rank": "=42",
+    "University name": "Delft University of Technology",
+    "Overall Score": "81.9",
+    "International Research Network": "82.7",
+    "H-Index citations": "77.1",
+    "Citations per paper": "84.7",
+    "Academic reputation": "81.8",
+    "Employer Reputation": "83.3"
+  },
+  {
+    "World Rank": "=42",
+    "University name": "University of Illinois at Urbana-Champaign",
+    "Overall Score": "81.9",
+    "International Research Network": "74.4",
+    "H-Index citations": "82.6",
+    "Citations per paper": "90.1",
+    "Academic reputation": "83.3",
+    "Employer Reputation": "76.4"
+  },
+  {
+    "World Rank": "44",
+    "University name": "Sapienza University of Rome",
+    "Overall Score": "81.8",
+    "International Research Network": "95.9",
+    "H-Index citations": "84.4",
+    "Citations per paper": "84.5",
+    "Academic reputation": "79.1",
+    "Employer Reputation": "76"
+  },
+  {
+    "World Rank": "45",
+    "University name": "University of California, Santa Barbara (UCSB)",
+    "Overall Score": "81.4",
+    "International Research Network": "72.4",
+    "H-Index citations": "85.8",
+    "Citations per paper": "97.8",
+    "Academic reputation": "83.7",
+    "Employer Reputation": "65.9"
+  },
+  {
+    "World Rank": "46",
+    "University name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "Overall Score": "81.3",
+    "International Research Network": "77.2",
+    "H-Index citations": "80.3",
+    "Citations per paper": "93.3",
+    "Academic reputation": "85.4",
+    "Employer Reputation": "66.8"
+  },
+  {
+    "World Rank": "47",
+    "University name": "KAIST - Korea Advanced Institute of Science & Technology",
+    "Overall Score": "81.2",
+    "International Research Network": "63.7",
+    "H-Index citations": "62.9",
+    "Citations per paper": "83.8",
+    "Academic reputation": "89.7",
+    "Employer Reputation": "84.5"
+  },
+  {
+    "World Rank": "48",
+    "University name": "KIT, Karlsruhe Institute of Technology",
+    "Overall Score": "81",
+    "International Research Network": "87",
+    "H-Index citations": "85.2",
+    "Citations per paper": "86.8",
+    "Academic reputation": "81.8",
+    "Employer Reputation": "68.7"
+  },
+  {
+    "World Rank": "49",
+    "University name": "The University of Sydney",
+    "Overall Score": "80.9",
+    "International Research Network": "77.9",
+    "H-Index citations": "78.4",
+    "Citations per paper": "88.7",
+    "Academic reputation": "78.7",
+    "Employer Reputation": "82.6"
+  },
+  {
+    "World Rank": "=50",
+    "University name": "Northwestern University",
+    "Overall Score": "80.7",
+    "International Research Network": "77",
+    "H-Index citations": "82.8",
+    "Citations per paper": "96",
+    "Academic reputation": "79.2",
+    "Employer Reputation": "72.6"
+  },
+  {
+    "World Rank": "=50",
+    "University name": "University of Wisconsin-Madison",
+    "Overall Score": "80.7",
+    "International Research Network": "85.4",
+    "H-Index citations": "82.6",
+    "Citations per paper": "92.5",
+    "Academic reputation": "78.8",
+    "Employer Reputation": "71.8"
+  },
+  {
+    "World Rank": "52",
+    "University name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+    "Overall Score": "80.6",
+    "International Research Network": "80.4",
+    "H-Index citations": "81",
+    "Citations per paper": "94.8",
+    "Academic reputation": "81.3",
+    "Employer Reputation": "68.4"
+  },
+  {
+    "World Rank": "53",
+    "University name": "The University of New South Wales (UNSW Sydney)",
+    "Overall Score": "80.5",
+    "International Research Network": "81.5",
+    "H-Index citations": "75.4",
+    "Citations per paper": "86.3",
+    "Academic reputation": "78",
+    "Employer Reputation": "84.5"
+  },
+  {
+    "World Rank": "54",
+    "University name": "The Hong Kong University of Science and Technology",
+    "Overall Score": "80.4",
+    "International Research Network": "54.6",
+    "H-Index citations": "74.8",
+    "Citations per paper": "92.8",
+    "Academic reputation": "82.9",
+    "Employer Reputation": "83"
+  },
+  {
+    "World Rank": "55",
+    "University name": "Monash University",
+    "Overall Score": "80.3",
+    "International Research Network": "80.9",
+    "H-Index citations": "77.3",
+    "Citations per paper": "89.5",
+    "Academic reputation": "75.5",
+    "Employer Reputation": "85"
+  },
+  {
+    "World Rank": "56",
+    "University name": "Georgia Institute of Technology",
+    "Overall Score": "80.2",
+    "International Research Network": "75.5",
+    "H-Index citations": "79.1",
+    "Citations per paper": "87.9",
+    "Academic reputation": "80.1",
+    "Employer Reputation": "77.8"
+  },
+  {
+    "World Rank": "57",
+    "University name": "The University of Hong Kong",
+    "Overall Score": "80.1",
+    "International Research Network": "59.7",
+    "H-Index citations": "77.3",
+    "Citations per paper": "88.9",
+    "Academic reputation": "80.5",
+    "Employer Reputation": "85.1"
+  },
+  {
+    "World Rank": "=58",
+    "University name": "National Taiwan University (NTU)",
+    "Overall Score": "80",
+    "International Research Network": "66.8",
+    "H-Index citations": "76.8",
+    "Citations per paper": "84.4",
+    "Academic reputation": "82.1",
+    "Employer Reputation": "81.7"
+  },
+  {
+    "World Rank": "=58",
+    "University name": "Universit\u00e9 Paris Cit\u00e9",
+    "Overall Score": "80",
+    "International Research Network": "100",
+    "H-Index citations": "100",
+    "Citations per paper": "91.3",
+    "Academic reputation": "76.1",
+    "Employer Reputation": "54.5"
+  },
+  {
+    "World Rank": "=60",
+    "University name": "University of Bristol",
+    "Overall Score": "79.9",
+    "International Research Network": "83.4",
+    "H-Index citations": "81",
+    "Citations per paper": "89.6",
+    "Academic reputation": "78.6",
+    "Employer Reputation": "72.5"
+  },
+  {
+    "World Rank": "=60",
+    "University name": "University of Copenhagen",
+    "Overall Score": "79.9",
+    "International Research Network": "90.6",
+    "H-Index citations": "84.4",
+    "Citations per paper": "92.4",
+    "Academic reputation": "77",
+    "Employer Reputation": "67.5"
+  },
+  {
+    "World Rank": "=60",
+    "University name": "University of Science and Technology of China",
+    "Overall Score": "79.9",
+    "International Research Network": "66.2",
+    "H-Index citations": "84.4",
+    "Citations per paper": "88.4",
+    "Academic reputation": "84.4",
+    "Employer Reputation": "68.2"
+  },
+  {
+    "World Rank": "63",
+    "University name": "McGill University",
+    "Overall Score": "79.7",
+    "International Research Network": "77.8",
+    "H-Index citations": "77.1",
+    "Citations per paper": "87.3",
+    "Academic reputation": "79.6",
+    "Employer Reputation": "77.1"
+  },
+  {
+    "World Rank": "=64",
+    "University name": "Moscow Institute of Physics and Technology (MIPT / Moscow Phystech)",
+    "Overall Score": "79.5",
+    "International Research Network": "65.7",
+    "H-Index citations": "76.8",
+    "Citations per paper": "79.6",
+    "Academic reputation": "80.3",
+    "Employer Reputation": "86.8"
+  },
+  {
+    "World Rank": "=64",
+    "University name": "Osaka University",
+    "Overall Score": "79.5",
+    "International Research Network": "77.9",
+    "H-Index citations": "76.8",
+    "Citations per paper": "81.5",
+    "Academic reputation": "82.6",
+    "Employer Reputation": "74.5"
+  },
+  {
+    "World Rank": "66",
+    "University name": "Universitat de Barcelona",
+    "Overall Score": "79.3",
+    "International Research Network": "96.8",
+    "H-Index citations": "73.6",
+    "Citations per paper": "90.3",
+    "Academic reputation": "76.3",
+    "Employer Reputation": "72.8"
+  },
+  {
+    "World Rank": "67",
+    "University name": "RWTH Aachen University",
+    "Overall Score": "79.2",
+    "International Research Network": "78.8",
+    "H-Index citations": "83.4",
+    "Citations per paper": "85.3",
+    "Academic reputation": "78.5",
+    "Employer Reputation": "73.2"
+  },
+  {
+    "World Rank": "=68",
+    "University name": "Pennsylvania State University",
+    "Overall Score": "79.1",
+    "International Research Network": "78.9",
+    "H-Index citations": "79.4",
+    "Citations per paper": "90.2",
+    "Academic reputation": "77.5",
+    "Employer Reputation": "73.6"
+  },
+  {
+    "World Rank": "=68",
+    "University name": "University of Amsterdam",
+    "Overall Score": "79.1",
+    "International Research Network": "77.6",
+    "H-Index citations": "80.3",
+    "Citations per paper": "94.5",
+    "Academic reputation": "74.8",
+    "Employer Reputation": "76.2"
+  },
+  {
+    "World Rank": "70",
+    "University name": "Fudan University",
+    "Overall Score": "79",
+    "International Research Network": "67.3",
+    "H-Index citations": "74.8",
+    "Citations per paper": "89.3",
+    "Academic reputation": "81.2",
+    "Employer Reputation": "75.8"
+  },
+  {
+    "World Rank": "=71",
+    "University name": "Tohoku University",
+    "Overall Score": "78.8",
+    "International Research Network": "72",
+    "H-Index citations": "73.2",
+    "Citations per paper": "81.2",
+    "Academic reputation": "84.1",
+    "Employer Reputation": "74.2"
+  },
+  {
+    "World Rank": "=71",
+    "University name": "University of Colorado Boulder",
+    "Overall Score": "78.8",
+    "International Research Network": "78.8",
+    "H-Index citations": "87.9",
+    "Citations per paper": "91.4",
+    "Academic reputation": "78.3",
+    "Employer Reputation": "63.4"
+  },
+  {
+    "World Rank": "=71",
+    "University name": "University of Maryland, College Park",
+    "Overall Score": "78.8",
+    "International Research Network": "81.6",
+    "H-Index citations": "90.6",
+    "Citations per paper": "95.8",
+    "Academic reputation": "73.1",
+    "Employer Reputation": "67"
+  },
+  {
+    "World Rank": "=71",
+    "University name": "Universit\u00e9 Grenoble Alpes",
+    "Overall Score": "78.8",
+    "International Research Network": "94.4",
+    "H-Index citations": "83.4",
+    "Citations per paper": "84.7",
+    "Academic reputation": "77.8",
+    "Employer Reputation": "65.3"
+  },
+  {
+    "World Rank": "75",
+    "University name": "Humboldt-Universit\u00e4t zu Berlin",
+    "Overall Score": "78.7",
+    "International Research Network": "75.9",
+    "H-Index citations": "76.8",
+    "Citations per paper": "90.5",
+    "Academic reputation": "79.4",
+    "Employer Reputation": "71.2"
+  },
+  {
+    "World Rank": "76",
+    "University name": "Stockholm University",
+    "Overall Score": "78.6",
+    "International Research Network": "92.2",
+    "H-Index citations": "82.8",
+    "Citations per paper": "95.8",
+    "Academic reputation": "75.7",
+    "Employer Reputation": "61.5"
+  },
+  {
+    "World Rank": "77",
+    "University name": "Universidade de S\u00e3o Paulo",
+    "Overall Score": "78.4",
+    "International Research Network": "84",
+    "H-Index citations": "77.9",
+    "Citations per paper": "78.9",
+    "Academic reputation": "78.6",
+    "Employer Reputation": "75"
+  },
+  {
+    "World Rank": "78",
+    "University name": "KTH Royal Institute of Technology",
+    "Overall Score": "78.3",
+    "International Research Network": "82.6",
+    "H-Index citations": "77.9",
+    "Citations per paper": "85.5",
+    "Academic reputation": "78.6",
+    "Employer Reputation": "70.6"
+  },
+  {
+    "World Rank": "79",
+    "University name": "Universidad Aut\u00f3noma de Madrid",
+    "Overall Score": "78.2",
+    "International Research Network": "83.3",
+    "H-Index citations": "83.6",
+    "Citations per paper": "90.9",
+    "Academic reputation": "73.9",
+    "Employer Reputation": "70.5"
+  },
+  {
+    "World Rank": "80",
+    "University name": "University of Pennsylvania",
+    "Overall Score": "78.1",
+    "International Research Network": "72.7",
+    "H-Index citations": "76.2",
+    "Citations per paper": "93.9",
+    "Academic reputation": "74",
+    "Employer Reputation": "78.4"
+  },
+  {
+    "World Rank": "81",
+    "University name": "Shanghai Jiao Tong University",
+    "Overall Score": "78",
+    "International Research Network": "63.9",
+    "H-Index citations": "78.9",
+    "Citations per paper": "82",
+    "Academic reputation": "81.2",
+    "Employer Reputation": "74.9"
+  },
+  {
+    "World Rank": "=82",
+    "University name": "Alma Mater Studiorum - University of Bologna",
+    "Overall Score": "77.9",
+    "International Research Network": "85.9",
+    "H-Index citations": "81.7",
+    "Citations per paper": "85.9",
+    "Academic reputation": "71.6",
+    "Employer Reputation": "77.4"
+  },
+  {
+    "World Rank": "=82",
+    "University name": "Novosibirsk State University",
+    "Overall Score": "77.9",
+    "International Research Network": "69.4",
+    "H-Index citations": "77.9",
+    "Citations per paper": "74.8",
+    "Academic reputation": "79.5",
+    "Employer Reputation": "81.2"
+  },
+  {
+    "World Rank": "=84",
+    "University name": "Nanjing University",
+    "Overall Score": "77.8",
+    "International Research Network": "67.6",
+    "H-Index citations": "83",
+    "Citations per paper": "89.4",
+    "Academic reputation": "80.1",
+    "Employer Reputation": "65.6"
+  },
+  {
+    "World Rank": "=84",
+    "University name": "Purdue University",
+    "Overall Score": "77.8",
+    "International Research Network": "82.7",
+    "H-Index citations": "79.6",
+    "Citations per paper": "85.7",
+    "Academic reputation": "73.9",
+    "Employer Reputation": "75.9"
+  },
+  {
+    "World Rank": "=86",
+    "University name": "Lund University",
+    "Overall Score": "77.7",
+    "International Research Network": "93.7",
+    "H-Index citations": "77.3",
+    "Citations per paper": "84.9",
+    "Academic reputation": "76",
+    "Employer Reputation": "68"
+  },
+  {
+    "World Rank": "=86",
+    "University name": "Nagoya University",
+    "Overall Score": "77.7",
+    "International Research Network": "78.3",
+    "H-Index citations": "76.8",
+    "Citations per paper": "84.3",
+    "Academic reputation": "79.9",
+    "Employer Reputation": "68.7"
+  },
+  {
+    "World Rank": "=86",
+    "University name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)",
+    "Overall Score": "77.7",
+    "International Research Network": "86",
+    "H-Index citations": "73.2",
+    "Citations per paper": "77.6",
+    "Academic reputation": "79.4",
+    "Employer Reputation": "73.4"
+  },
+  {
+    "World Rank": "89",
+    "University name": "Johns Hopkins University",
+    "Overall Score": "77.6",
+    "International Research Network": "72.7",
+    "H-Index citations": "77.9",
+    "Citations per paper": "90.7",
+    "Academic reputation": "74.9",
+    "Employer Reputation": "75.2"
+  },
+  {
+    "World Rank": "=90",
+    "University name": "Korea University",
+    "Overall Score": "77.4",
+    "International Research Network": "71.6",
+    "H-Index citations": "76",
+    "Citations per paper": "85.9",
+    "Academic reputation": "76.2",
+    "Employer Reputation": "77.3"
+  },
+  {
+    "World Rank": "=90",
+    "University name": "The University of Queensland",
+    "Overall Score": "77.4",
+    "International Research Network": "74.3",
+    "H-Index citations": "69",
+    "Citations per paper": "86.2",
+    "Academic reputation": "77.2",
+    "Employer Reputation": "78.9"
+  },
+  {
+    "World Rank": "=90",
+    "University name": "Zhejiang University",
+    "Overall Score": "77.4",
+    "International Research Network": "67.3",
+    "H-Index citations": "79.1",
+    "Citations per paper": "82.6",
+    "Academic reputation": "78.9",
+    "Employer Reputation": "74.3"
+  },
+  {
+    "World Rank": "=93",
+    "University name": "KU Leuven",
+    "Overall Score": "77.3",
+    "International Research Network": "91.8",
+    "H-Index citations": "72.3",
+    "Citations per paper": "83.8",
+    "Academic reputation": "72.9",
+    "Employer Reputation": "77.9"
+  },
+  {
+    "World Rank": "=93",
+    "University name": "University of Waterloo",
+    "Overall Score": "77.3",
+    "International Research Network": "71",
+    "H-Index citations": "74.2",
+    "Citations per paper": "89.1",
+    "Academic reputation": "76.7",
+    "Employer Reputation": "75.1"
+  },
+  {
+    "World Rank": "95",
+    "University name": "The University of Warwick",
+    "Overall Score": "77.2",
+    "International Research Network": "76.4",
+    "H-Index citations": "77.3",
+    "Citations per paper": "90.1",
+    "Academic reputation": "73.7",
+    "Employer Reputation": "74.9"
+  },
+  {
+    "World Rank": "=96",
+    "University name": "Pohang University of Science And Technology (POSTECH)",
+    "Overall Score": "77",
+    "International Research Network": "49.9",
+    "H-Index citations": "61.9",
+    "Citations per paper": "85.7",
+    "Academic reputation": "85.1",
+    "Employer Reputation": "79.2"
+  },
+  {
+    "World Rank": "=96",
+    "University name": "Texas A&M University",
+    "Overall Score": "77",
+    "International Research Network": "81.8",
+    "H-Index citations": "79.1",
+    "Citations per paper": "86.8",
+    "Academic reputation": "74.9",
+    "Employer Reputation": "70.1"
+  },
+  {
+    "World Rank": "=96",
+    "University name": "Utrecht University",
+    "Overall Score": "77",
+    "International Research Network": "75",
+    "H-Index citations": "78.1",
+    "Citations per paper": "89.6",
+    "Academic reputation": "77.1",
+    "Employer Reputation": "67.6"
+  },
+  {
+    "World Rank": "=99",
+    "University name": "Durham University",
+    "Overall Score": "76.9",
+    "International Research Network": "68.7",
+    "H-Index citations": "77.9",
+    "Citations per paper": "94.8",
+    "Academic reputation": "74.7",
+    "Employer Reputation": "71"
+  },
+  {
+    "World Rank": "=99",
+    "University name": "University of Southampton",
+    "Overall Score": "76.9",
+    "International Research Network": "86.7",
+    "H-Index citations": "78.9",
+    "Citations per paper": "87",
+    "Academic reputation": "72.8",
+    "Employer Reputation": "70.9"
+  },
+  {
+    "World Rank": "=101",
+    "University name": "Politecnico di Milano",
+    "Overall Score": "76.8",
+    "International Research Network": "85.8",
+    "H-Index citations": "63.9",
+    "Citations per paper": "77.6",
+    "Academic reputation": "75",
+    "Employer Reputation": "85.1"
+  },
+  {
+    "World Rank": "=101",
+    "University name": "Rheinische Friedrich-Wilhelms-Universit\u00e4t Bonn",
+    "Overall Score": "76.8",
+    "International Research Network": "89.1",
+    "H-Index citations": "77.3",
+    "Citations per paper": "92.3",
+    "Academic reputation": "79.5",
+    "Employer Reputation": "53.3"
+  },
+  {
+    "World Rank": "=103",
+    "University name": "Indian Institute of Science",
+    "Overall Score": "76.7",
+    "International Research Network": "65.4",
+    "H-Index citations": "79.1",
+    "Citations per paper": "82.6",
+    "Academic reputation": "82.1",
+    "Employer Reputation": "65.4"
+  },
+  {
+    "World Rank": "=103",
+    "University name": "Sungkyunkwan University (SKKU)",
+    "Overall Score": "76.7",
+    "International Research Network": "71",
+    "H-Index citations": "75.7",
+    "Citations per paper": "86",
+    "Academic reputation": "77.5",
+    "Employer Reputation": "71.5"
+  },
+  {
+    "World Rank": "105",
+    "University name": "The University of Western Australia",
+    "Overall Score": "76.6",
+    "International Research Network": "86.8",
+    "H-Index citations": "78.6",
+    "Citations per paper": "87.5",
+    "Academic reputation": "72.2",
+    "Employer Reputation": "70.5"
+  },
+  {
+    "World Rank": "=106",
+    "University name": "Carnegie Mellon University",
+    "Overall Score": "76.4",
+    "International Research Network": "70.2",
+    "H-Index citations": "76",
+    "Citations per paper": "90.5",
+    "Academic reputation": "72.8",
+    "Employer Reputation": "76.5"
+  },
+  {
+    "World Rank": "=106",
+    "University name": "Duke University",
+    "Overall Score": "76.4",
+    "International Research Network": "78.2",
+    "H-Index citations": "76",
+    "Citations per paper": "90.4",
+    "Academic reputation": "73.5",
+    "Employer Reputation": "70.9"
+  },
+  {
+    "World Rank": "=108",
+    "University name": "Technische Universit\u00e4t Berlin (TU Berlin)",
+    "Overall Score": "76.3",
+    "International Research Network": "77.4",
+    "H-Index citations": "62.9",
+    "Citations per paper": "82.7",
+    "Academic reputation": "80.7",
+    "Employer Reputation": "72.3"
+  },
+  {
+    "World Rank": "=108",
+    "University name": "University of Geneva",
+    "Overall Score": "76.3",
+    "International Research Network": "79.9",
+    "H-Index citations": "79.4",
+    "Citations per paper": "96.2",
+    "Academic reputation": "73.5",
+    "Employer Reputation": "62.6"
+  },
+  {
+    "World Rank": "=108",
+    "University name": "University of Pisa",
+    "Overall Score": "76.3",
+    "International Research Network": "80.2",
+    "H-Index citations": "82.6",
+    "Citations per paper": "85.2",
+    "Academic reputation": "72.2",
+    "Employer Reputation": "71.1"
+  },
+  {
+    "World Rank": "111",
+    "University name": "Universit\u00e0 di Padova",
+    "Overall Score": "76.2",
+    "International Research Network": "84.1",
+    "H-Index citations": "81.5",
+    "Citations per paper": "85.2",
+    "Academic reputation": "71.5",
+    "Employer Reputation": "71.1"
+  },
+  {
+    "World Rank": "112",
+    "University name": "Uppsala University",
+    "Overall Score": "76.1",
+    "International Research Network": "90.2",
+    "H-Index citations": "75.7",
+    "Citations per paper": "86.1",
+    "Academic reputation": "74.7",
+    "Employer Reputation": "64.8"
+  },
+  {
+    "World Rank": "=113",
+    "University name": "New York University (NYU)",
+    "Overall Score": "76",
+    "International Research Network": "65.4",
+    "H-Index citations": "76.8",
+    "Citations per paper": "91.7",
+    "Academic reputation": "72.9",
+    "Employer Reputation": "74.9"
+  },
+  {
+    "World Rank": "=113",
+    "University name": "Universiti Malaya (UM)",
+    "Overall Score": "76",
+    "International Research Network": "85.1",
+    "H-Index citations": "75.7",
+    "Citations per paper": "79.8",
+    "Academic reputation": "72.3",
+    "Employer Reputation": "76"
+  },
+  {
+    "World Rank": "=113",
+    "University name": "University of Minnesota Twin Cities",
+    "Overall Score": "76",
+    "International Research Network": "80.4",
+    "H-Index citations": "81.3",
+    "Citations per paper": "89",
+    "Academic reputation": "72.1",
+    "Employer Reputation": "68"
+  },
+  {
+    "World Rank": "=113",
+    "University name": "Yonsei University",
+    "Overall Score": "76",
+    "International Research Network": "66.2",
+    "H-Index citations": "68.6",
+    "Citations per paper": "84.1",
+    "Academic reputation": "76.8",
+    "Employer Reputation": "79"
+  },
+  {
+    "World Rank": "117",
+    "University name": "Universitat Aut\u00f2noma de Barcelona",
+    "Overall Score": "75.9",
+    "International Research Network": "78.8",
+    "H-Index citations": "77.1",
+    "Citations per paper": "90.2",
+    "Academic reputation": "72.2",
+    "Employer Reputation": "70.2"
+  },
+  {
+    "World Rank": "=118",
+    "University name": "University of California, Davis",
+    "Overall Score": "75.8",
+    "International Research Network": "74.5",
+    "H-Index citations": "78.4",
+    "Citations per paper": "88.5",
+    "Academic reputation": "73.2",
+    "Employer Reputation": "70.4"
+  },
+  {
+    "World Rank": "=118",
+    "University name": "University of Glasgow",
+    "Overall Score": "75.8",
+    "International Research Network": "86.5",
+    "H-Index citations": "79.9",
+    "Citations per paper": "88.4",
+    "Academic reputation": "69.7",
+    "Employer Reputation": "70.1"
+  },
+  {
+    "World Rank": "=120",
+    "University name": "The Ohio State University",
+    "Overall Score": "75.6",
+    "International Research Network": "79.9",
+    "H-Index citations": "81.3",
+    "Citations per paper": "90.5",
+    "Academic reputation": "70",
+    "Employer Reputation": "69.2"
+  },
+  {
+    "World Rank": "=120",
+    "University name": "University of Zurich",
+    "Overall Score": "75.6",
+    "International Research Network": "80",
+    "H-Index citations": "81.9",
+    "Citations per paper": "97",
+    "Academic reputation": "69.8",
+    "Employer Reputation": "64.1"
+  },
+  {
+    "World Rank": "=122",
+    "University name": "Michigan State University",
+    "Overall Score": "75.5",
+    "International Research Network": "84.6",
+    "H-Index citations": "79.1",
+    "Citations per paper": "90.1",
+    "Academic reputation": "68.4",
+    "Employer Reputation": "71.5"
+  },
+  {
+    "World Rank": "=122",
+    "University name": "Universit\u00e4t Hamburg",
+    "Overall Score": "75.5",
+    "International Research Network": "79.7",
+    "H-Index citations": "79.6",
+    "Citations per paper": "87.6",
+    "Academic reputation": "74",
+    "Employer Reputation": "64.1"
+  },
+  {
+    "World Rank": "=124",
+    "University name": "Saint Petersburg State University",
+    "Overall Score": "75.4",
+    "International Research Network": "73.8",
+    "H-Index citations": "64.4",
+    "Citations per paper": "69.5",
+    "Academic reputation": "77.5",
+    "Employer Reputation": "84.6"
+  },
+  {
+    "World Rank": "=124",
+    "University name": "Technische Universit\u00e4t Dresden",
+    "Overall Score": "75.4",
+    "International Research Network": "87.6",
+    "H-Index citations": "75.7",
+    "Citations per paper": "84.9",
+    "Academic reputation": "73.7",
+    "Employer Reputation": "65.2"
+  },
+  {
+    "World Rank": "=124",
+    "University name": "The University of Adelaide",
+    "Overall Score": "75.4",
+    "International Research Network": "69.3",
+    "H-Index citations": "78.9",
+    "Citations per paper": "90.9",
+    "Academic reputation": "71.3",
+    "Employer Reputation": "72.6"
+  },
+  {
+    "World Rank": "127",
+    "University name": "King's College London",
+    "Overall Score": "75.2",
+    "International Research Network": "67.3",
+    "H-Index citations": "78.6",
+    "Citations per paper": "93.7",
+    "Academic reputation": "67.5",
+    "Employer Reputation": "77.9"
+  },
+  {
+    "World Rank": "=128",
+    "University name": "National Tsing Hua University",
+    "Overall Score": "75.1",
+    "International Research Network": "59.2",
+    "H-Index citations": "74.5",
+    "Citations per paper": "83.5",
+    "Academic reputation": "75.1",
+    "Employer Reputation": "77"
+  },
+  {
+    "World Rank": "=128",
+    "University name": "University of Leeds",
+    "Overall Score": "75.1",
+    "International Research Network": "90.4",
+    "H-Index citations": "71.6",
+    "Citations per paper": "85.7",
+    "Academic reputation": "70.3",
+    "Employer Reputation": "71.8"
+  },
+  {
+    "World Rank": "=128",
+    "University name": "Wageningen University & Research",
+    "Overall Score": "75.1",
+    "International Research Network": "79.8",
+    "H-Index citations": "71.9",
+    "Citations per paper": "86.9",
+    "Academic reputation": "72.3",
+    "Employer Reputation": "71.8"
+  },
+  {
+    "World Rank": "131",
+    "University name": "Kyushu University",
+    "Overall Score": "74.9",
+    "International Research Network": "76.3",
+    "H-Index citations": "74.2",
+    "Citations per paper": "77.5",
+    "Academic reputation": "76.7",
+    "Employer Reputation": "69.3"
+  },
+  {
+    "World Rank": "=132",
+    "University name": "King Abdulaziz University (KAU)",
+    "Overall Score": "74.8",
+    "International Research Network": "90.2",
+    "H-Index citations": "74.2",
+    "Citations per paper": "91.1",
+    "Academic reputation": "67.5",
+    "Employer Reputation": "69.7"
+  },
+  {
+    "World Rank": "=132",
+    "University name": "The University of Auckland",
+    "Overall Score": "74.8",
+    "International Research Network": "70.9",
+    "H-Index citations": "71.2",
+    "Citations per paper": "80",
+    "Academic reputation": "73",
+    "Employer Reputation": "79"
+  },
+  {
+    "World Rank": "=132",
+    "University name": "University of Birmingham",
+    "Overall Score": "74.8",
+    "International Research Network": "79.9",
+    "H-Index citations": "81.9",
+    "Citations per paper": "90.2",
+    "Academic reputation": "66.5",
+    "Employer Reputation": "72.1"
+  },
+  {
+    "World Rank": "=132",
+    "University name": "University of Vienna",
+    "Overall Score": "74.8",
+    "International Research Network": "81.2",
+    "H-Index citations": "69.8",
+    "Citations per paper": "85.5",
+    "Academic reputation": "76.2",
+    "Employer Reputation": "64.3"
+  },
+  {
+    "World Rank": "=136",
+    "University name": "Leiden University",
+    "Overall Score": "74.6",
+    "International Research Network": "70.6",
+    "H-Index citations": "74.8",
+    "Citations per paper": "94",
+    "Academic reputation": "71.8",
+    "Employer Reputation": "67.3"
+  },
+  {
+    "World Rank": "=136",
+    "University name": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+    "Overall Score": "74.6",
+    "International Research Network": "73.2",
+    "H-Index citations": "78.6",
+    "Citations per paper": "76.8",
+    "Academic reputation": "70.6",
+    "Employer Reputation": "78.4"
+  },
+  {
+    "World Rank": "=136",
+    "University name": "The Chinese University of Hong Kong (CUHK)",
+    "Overall Score": "74.6",
+    "International Research Network": "45.1",
+    "H-Index citations": "75.7",
+    "Citations per paper": "88.8",
+    "Academic reputation": "74.1",
+    "Employer Reputation": "78.9"
+  },
+  {
+    "World Rank": "139",
+    "University name": "Freie Universitaet Berlin",
+    "Overall Score": "74.5",
+    "International Research Network": "69.6",
+    "H-Index citations": "71.9",
+    "Citations per paper": "89.8",
+    "Academic reputation": "75.6",
+    "Employer Reputation": "65.2"
+  },
+  {
+    "World Rank": "=140",
+    "University name": "The University of Arizona",
+    "Overall Score": "74.4",
+    "International Research Network": "91",
+    "H-Index citations": "76.5",
+    "Citations per paper": "87.5",
+    "Academic reputation": "71.5",
+    "Employer Reputation": "60.6"
+  },
+  {
+    "World Rank": "=140",
+    "University name": "Universidade Estadual de Campinas (Unicamp)",
+    "Overall Score": "74.4",
+    "International Research Network": "72.2",
+    "H-Index citations": "72.9",
+    "Citations per paper": "78.5",
+    "Academic reputation": "76",
+    "Employer Reputation": "70.5"
+  },
+  {
+    "World Rank": "=142",
+    "University name": "Boston University",
+    "Overall Score": "74.3",
+    "International Research Network": "80",
+    "H-Index citations": "78.9",
+    "Citations per paper": "90.5",
+    "Academic reputation": "66.8",
+    "Employer Reputation": "70.7"
+  },
+  {
+    "World Rank": "=142",
+    "University name": "Indian Institute of Technology Bombay (IITB)",
+    "Overall Score": "74.3",
+    "International Research Network": "57.7",
+    "H-Index citations": "66.6",
+    "Citations per paper": "76.8",
+    "Academic reputation": "80.6",
+    "Employer Reputation": "73.7"
+  },
+  {
+    "World Rank": "=142",
+    "University name": "University of Bern",
+    "Overall Score": "74.3",
+    "International Research Network": "84.7",
+    "H-Index citations": "79.1",
+    "Citations per paper": "90.8",
+    "Academic reputation": "68",
+    "Employer Reputation": "65.5"
+  },
+  {
+    "World Rank": "=142",
+    "University name": "Universit\u00e9 de Strasbourg",
+    "Overall Score": "74.3",
+    "International Research Network": "83.4",
+    "H-Index citations": "79.4",
+    "Citations per paper": "86.8",
+    "Academic reputation": "75.9",
+    "Employer Reputation": "53.2"
+  },
+  {
+    "World Rank": "146",
+    "University name": "Technische Universit\u00e4t Wien",
+    "Overall Score": "74.2",
+    "International Research Network": "78.4",
+    "H-Index citations": "74.8",
+    "Citations per paper": "83",
+    "Academic reputation": "74.3",
+    "Employer Reputation": "64.9"
+  },
+  {
+    "World Rank": "147",
+    "University name": "University of Helsinki",
+    "Overall Score": "74",
+    "International Research Network": "77.5",
+    "H-Index citations": "81.3",
+    "Citations per paper": "87.1",
+    "Academic reputation": "70.2",
+    "Employer Reputation": "64.4"
+  },
+  {
+    "World Rank": "148",
+    "University name": "University of G\u00f6ttingen",
+    "Overall Score": "73.9",
+    "International Research Network": "74.7",
+    "H-Index citations": "73.2",
+    "Citations per paper": "89.4",
+    "Academic reputation": "74.3",
+    "Employer Reputation": "61.6"
+  },
+  {
+    "World Rank": "149",
+    "University name": "Brown University",
+    "Overall Score": "73.8",
+    "International Research Network": "67.9",
+    "H-Index citations": "76",
+    "Citations per paper": "87.7",
+    "Academic reputation": "72.2",
+    "Employer Reputation": "67.9"
+  },
+  {
+    "World Rank": "=150",
+    "University name": "Rutgers University\u2013New Brunswick",
+    "Overall Score": "73.7",
+    "International Research Network": "73.5",
+    "H-Index citations": "78.1",
+    "Citations per paper": "90.9",
+    "Academic reputation": "69.9",
+    "Employer Reputation": "65.3"
+  },
+  {
+    "World Rank": "=150",
+    "University name": "Technical University of Denmark",
+    "Overall Score": "73.7",
+    "International Research Network": "71.9",
+    "H-Index citations": "67.9",
+    "Citations per paper": "83.5",
+    "Academic reputation": "75.5",
+    "Employer Reputation": "67.9"
+  },
+  {
+    "World Rank": "=152",
+    "University name": "University of Alberta",
+    "Overall Score": "73.6",
+    "International Research Network": "72.4",
+    "H-Index citations": "74.8",
+    "Citations per paper": "83.4",
+    "Academic reputation": "72.9",
+    "Employer Reputation": "67.2"
+  },
+  {
+    "World Rank": "=152",
+    "University name": "University of Groningen",
+    "Overall Score": "73.6",
+    "International Research Network": "73.5",
+    "H-Index citations": "77.9",
+    "Citations per paper": "91.5",
+    "Academic reputation": "69.5",
+    "Employer Reputation": "65"
+  },
+  {
+    "World Rank": "154",
+    "University name": "Hanyang University",
+    "Overall Score": "73.5",
+    "International Research Network": "67.5",
+    "H-Index citations": "75.4",
+    "Citations per paper": "83.4",
+    "Academic reputation": "71.2",
+    "Employer Reputation": "72.3"
+  },
+  {
+    "World Rank": "=155",
+    "University name": "Ghent University",
+    "Overall Score": "73.4",
+    "International Research Network": "94.8",
+    "H-Index citations": "77.1",
+    "Citations per paper": "85.2",
+    "Academic reputation": "67.3",
+    "Employer Reputation": "63.4"
+  },
+  {
+    "World Rank": "=155",
+    "University name": "Rice University",
+    "Overall Score": "73.4",
+    "International Research Network": "62.1",
+    "H-Index citations": "77.1",
+    "Citations per paper": "94.2",
+    "Academic reputation": "72.5",
+    "Employer Reputation": "62.5"
+  },
+  {
+    "World Rank": "=157",
+    "University name": "Hokkaido University",
+    "Overall Score": "73.3",
+    "International Research Network": "66.7",
+    "H-Index citations": "65.7",
+    "Citations per paper": "78.9",
+    "Academic reputation": "77.5",
+    "Employer Reputation": "69.7"
+  },
+  {
+    "World Rank": "=157",
+    "University name": "University of Florida",
+    "Overall Score": "73.3",
+    "International Research Network": "88.1",
+    "H-Index citations": "81.3",
+    "Citations per paper": "87.2",
+    "Academic reputation": "68.2",
+    "Employer Reputation": "59.5"
+  },
+  {
+    "World Rank": "=157",
+    "University name": "University of Warsaw",
+    "Overall Score": "73.3",
+    "International Research Network": "82.8",
+    "H-Index citations": "77.3",
+    "Citations per paper": "83.5",
+    "Academic reputation": "70.8",
+    "Employer Reputation": "63.1"
+  },
+  {
+    "World Rank": "=160",
+    "University name": "Complutense University of Madrid",
+    "Overall Score": "72.8",
+    "International Research Network": "81.4",
+    "H-Index citations": "69.4",
+    "Citations per paper": "82.3",
+    "Academic reputation": "69.7",
+    "Employer Reputation": "70.2"
+  },
+  {
+    "World Rank": "=160",
+    "University name": "Pontificia Universidad Cat\u00f3lica de Chile (UC)",
+    "Overall Score": "72.8",
+    "International Research Network": "72.2",
+    "H-Index citations": "72.3",
+    "Citations per paper": "80.6",
+    "Academic reputation": "71.1",
+    "Employer Reputation": "71.1"
+  },
+  {
+    "World Rank": "=160",
+    "University name": "University of St Andrews",
+    "Overall Score": "72.8",
+    "International Research Network": "73.2",
+    "H-Index citations": "70.5",
+    "Citations per paper": "89.2",
+    "Academic reputation": "70.8",
+    "Employer Reputation": "65.9"
+  },
+  {
+    "World Rank": "=163",
+    "University name": "Eindhoven University of Technology",
+    "Overall Score": "72.7",
+    "International Research Network": "65.3",
+    "H-Index citations": "62.9",
+    "Citations per paper": "83.6",
+    "Academic reputation": "72.5",
+    "Employer Reputation": "76.2"
+  },
+  {
+    "World Rank": "=163",
+    "University name": "University of Rome \"Tor Vergata\"",
+    "Overall Score": "72.7",
+    "International Research Network": "71.3",
+    "H-Index citations": "77.9",
+    "Citations per paper": "86.3",
+    "Academic reputation": "70.4",
+    "Employer Reputation": "64.1"
+  },
+  {
+    "World Rank": "=165",
+    "University name": "Charles University",
+    "Overall Score": "72.6",
+    "International Research Network": "78.3",
+    "H-Index citations": "78.9",
+    "Citations per paper": "81",
+    "Academic reputation": "71.4",
+    "Employer Reputation": "61.3"
+  },
+  {
+    "World Rank": "=165",
+    "University name": "Stony Brook University, State University of New York",
+    "Overall Score": "72.6",
+    "International Research Network": "68.7",
+    "H-Index citations": "80.8",
+    "Citations per paper": "96.4",
+    "Academic reputation": "70.6",
+    "Employer Reputation": "54.5"
+  },
+  {
+    "World Rank": "=165",
+    "University name": "University of Milan",
+    "Overall Score": "72.6",
+    "International Research Network": "68.4",
+    "H-Index citations": "76",
+    "Citations per paper": "86.1",
+    "Academic reputation": "69.3",
+    "Employer Reputation": "68.4"
+  },
+  {
+    "World Rank": "168",
+    "University name": "University of California, Irvine",
+    "Overall Score": "72.5",
+    "International Research Network": "62.5",
+    "H-Index citations": "81.3",
+    "Citations per paper": "92.8",
+    "Academic reputation": "67.3",
+    "Employer Reputation": "65.9"
+  },
+  {
+    "World Rank": "=169",
+    "University name": "Arizona State University",
+    "Overall Score": "72.4",
+    "International Research Network": "73.1",
+    "H-Index citations": "75.4",
+    "Citations per paper": "87.8",
+    "Academic reputation": "68.8",
+    "Employer Reputation": "65.5"
+  },
+  {
+    "World Rank": "=169",
+    "University name": "Universitat de Valencia",
+    "Overall Score": "72.4",
+    "International Research Network": "82.4",
+    "H-Index citations": "85.4",
+    "Citations per paper": "90.5",
+    "Academic reputation": "65.4",
+    "Employer Reputation": "58"
+  },
+  {
+    "World Rank": "=169",
+    "University name": "University of Liverpool",
+    "Overall Score": "72.4",
+    "International Research Network": "74",
+    "H-Index citations": "76.8",
+    "Citations per paper": "87.1",
+    "Academic reputation": "65.3",
+    "Employer Reputation": "71.4"
+  },
+  {
+    "World Rank": "=169",
+    "University name": "University of Nottingham",
+    "Overall Score": "72.4",
+    "International Research Network": "78.5",
+    "H-Index citations": "72.6",
+    "Citations per paper": "89.8",
+    "Academic reputation": "64.2",
+    "Employer Reputation": "72.5"
+  },
+  {
+    "World Rank": "=173",
+    "University name": "Universidad de Buenos Aires (UBA)",
+    "Overall Score": "72.3",
+    "International Research Network": "60.3",
+    "H-Index citations": "72.6",
+    "Citations per paper": "78.9",
+    "Academic reputation": "73",
+    "Employer Reputation": "71.9"
+  },
+  {
+    "World Rank": "=173",
+    "University name": "Universite libre de Bruxelles",
+    "Overall Score": "72.3",
+    "International Research Network": "72.4",
+    "H-Index citations": "78.1",
+    "Citations per paper": "89.9",
+    "Academic reputation": "67.3",
+    "Employer Reputation": "64.9"
+  },
+  {
+    "World Rank": "=173",
+    "University name": "University of Lisbon",
+    "Overall Score": "72.3",
+    "International Research Network": "86.4",
+    "H-Index citations": "83.2",
+    "Citations per paper": "82.8",
+    "Academic reputation": "67.2",
+    "Employer Reputation": "59.5"
+  },
+  {
+    "World Rank": "=176",
+    "University name": "Chalmers University of Technology",
+    "Overall Score": "72.1",
+    "International Research Network": "77.9",
+    "H-Index citations": "67.4",
+    "Citations per paper": "84.2",
+    "Academic reputation": "71.7",
+    "Employer Reputation": "64.4"
+  },
+  {
+    "World Rank": "=176",
+    "University name": "Indian Institute of Technology Madras (IITM)",
+    "Overall Score": "72.1",
+    "International Research Network": "59.1",
+    "H-Index citations": "70.9",
+    "Citations per paper": "76.2",
+    "Academic reputation": "76.3",
+    "Employer Reputation": "68"
+  },
+  {
+    "World Rank": "=176",
+    "University name": "University of Oslo",
+    "Overall Score": "72.1",
+    "International Research Network": "80",
+    "H-Index citations": "79.6",
+    "Citations per paper": "86",
+    "Academic reputation": "68.7",
+    "Employer Reputation": "58.7"
+  },
+  {
+    "World Rank": "=179",
+    "University name": "Aix-Marseille University",
+    "Overall Score": "72",
+    "International Research Network": "97.8",
+    "H-Index citations": "85",
+    "Citations per paper": "85.4",
+    "Academic reputation": "68.1",
+    "Employer Reputation": "46.9"
+  },
+  {
+    "World Rank": "=179",
+    "University name": "Universidade Federal do Rio de Janeiro",
+    "Overall Score": "72",
+    "International Research Network": "68.1",
+    "H-Index citations": "74.2",
+    "Citations per paper": "77.5",
+    "Academic reputation": "72.9",
+    "Employer Reputation": "66.4"
+  },
+  {
+    "World Rank": "=179",
+    "University name": "Universit\u00e9 Claude Bernard Lyon 1",
+    "Overall Score": "72",
+    "International Research Network": "88.3",
+    "H-Index citations": "83.4",
+    "Citations per paper": "83",
+    "Academic reputation": "70.6",
+    "Employer Reputation": "49.7"
+  },
+  {
+    "World Rank": "=182",
+    "University name": "The University of Sheffield",
+    "Overall Score": "71.9",
+    "International Research Network": "74.9",
+    "H-Index citations": "78.1",
+    "Citations per paper": "86.3",
+    "Academic reputation": "65.1",
+    "Employer Reputation": "68.3"
+  },
+  {
+    "World Rank": "=182",
+    "University name": "Universitat Polit\u00e8cnica de Catalunya \u00b7 BarcelonaTech (UPC)",
+    "Overall Score": "71.9",
+    "International Research Network": "82.6",
+    "H-Index citations": "71.9",
+    "Citations per paper": "86.3",
+    "Academic reputation": "64.7",
+    "Employer Reputation": "70.1"
+  },
+  {
+    "World Rank": "=184",
+    "University name": "Curtin University",
+    "Overall Score": "71.8",
+    "International Research Network": "76.9",
+    "H-Index citations": "73.2",
+    "Citations per paper": "86.7",
+    "Academic reputation": "67",
+    "Employer Reputation": "66.4"
+  },
+  {
+    "World Rank": "=184",
+    "University name": "Goethe-University Frankfurt am Main",
+    "Overall Score": "71.8",
+    "International Research Network": "75.9",
+    "H-Index citations": "77.1",
+    "Citations per paper": "91.4",
+    "Academic reputation": "65.7",
+    "Employer Reputation": "63.2"
+  },
+  {
+    "World Rank": "=184",
+    "University name": "Johannes Gutenberg Universit\u00e4t Mainz",
+    "Overall Score": "71.8",
+    "International Research Network": "79.1",
+    "H-Index citations": "80.3",
+    "Citations per paper": "96.8",
+    "Academic reputation": "68.3",
+    "Employer Reputation": "50.1"
+  },
+  {
+    "World Rank": "=184",
+    "University name": "Universit\u00e9 de Montr\u00e9al",
+    "Overall Score": "71.8",
+    "International Research Network": "61.8",
+    "H-Index citations": "72.9",
+    "Citations per paper": "82.6",
+    "Academic reputation": "70.9",
+    "Employer Reputation": "69.9"
+  },
+  {
+    "World Rank": "=188",
+    "University name": "Politecnico di Torino",
+    "Overall Score": "71.7",
+    "International Research Network": "84.9",
+    "H-Index citations": "59.7",
+    "Citations per paper": "73.8",
+    "Academic reputation": "67.7",
+    "Employer Reputation": "80.3"
+  },
+  {
+    "World Rank": "=188",
+    "University name": "Universidad de Chile",
+    "Overall Score": "71.7",
+    "International Research Network": "71.2",
+    "H-Index citations": "66.2",
+    "Citations per paper": "82.3",
+    "Academic reputation": "72.7",
+    "Employer Reputation": "66.2"
+  },
+  {
+    "World Rank": "=190",
+    "University name": "Macquarie University",
+    "Overall Score": "71.3",
+    "International Research Network": "72.9",
+    "H-Index citations": "70.9",
+    "Citations per paper": "87.8",
+    "Academic reputation": "65.4",
+    "Employer Reputation": "70.1"
+  },
+  {
+    "World Rank": "=190",
+    "University name": "University of Bordeaux",
+    "Overall Score": "71.3",
+    "International Research Network": "95",
+    "H-Index citations": "71.2",
+    "Citations per paper": "84.8",
+    "Academic reputation": "71",
+    "Employer Reputation": "49.9"
+  },
+  {
+    "World Rank": "=192",
+    "University name": "Tomsk State University",
+    "Overall Score": "71.2",
+    "International Research Network": "69.8",
+    "H-Index citations": "71.9",
+    "Citations per paper": "71.4",
+    "Academic reputation": "68.9",
+    "Employer Reputation": "75.9"
+  },
+  {
+    "World Rank": "=192",
+    "University name": "Universit\u00e9 catholique de Louvain (UCLouvain)",
+    "Overall Score": "71.2",
+    "International Research Network": "70.3",
+    "H-Index citations": "76.2",
+    "Citations per paper": "83.7",
+    "Academic reputation": "68.4",
+    "Employer Reputation": "64"
+  },
+  {
+    "World Rank": "194",
+    "University name": "Wuhan University",
+    "Overall Score": "71.1",
+    "International Research Network": "59.1",
+    "H-Index citations": "76.8",
+    "Citations per paper": "83.9",
+    "Academic reputation": "71.2",
+    "Employer Reputation": "63"
+  },
+  {
+    "World Rank": "195",
+    "University name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+    "Overall Score": "71",
+    "International Research Network": "91.5",
+    "H-Index citations": "71.2",
+    "Citations per paper": "85.5",
+    "Academic reputation": "67.3",
+    "Employer Reputation": "56.9"
+  },
+  {
+    "World Rank": "=196",
+    "University name": "Aalto University",
+    "Overall Score": "70.9",
+    "International Research Network": "73.8",
+    "H-Index citations": "77.6",
+    "Citations per paper": "88.1",
+    "Academic reputation": "65.5",
+    "Employer Reputation": "62.3"
+  },
+  {
+    "World Rank": "=196",
+    "University name": "Technical University of Darmstadt",
+    "Overall Score": "70.9",
+    "International Research Network": "84.1",
+    "H-Index citations": "69",
+    "Citations per paper": "84.2",
+    "Academic reputation": "68",
+    "Employer Reputation": "61.5"
+  },
+  {
+    "World Rank": "198",
+    "University name": "Queen Mary University of London",
+    "Overall Score": "70.8",
+    "International Research Network": "75.8",
+    "H-Index citations": "73.9",
+    "Citations per paper": "88",
+    "Academic reputation": "64.1",
+    "Employer Reputation": "66.4"
+  },
+  {
+    "World Rank": "=199",
+    "University name": "Sun Yat-sen University",
+    "Overall Score": "70.6",
+    "International Research Network": "68.8",
+    "H-Index citations": "77.1",
+    "Citations per paper": "86.5",
+    "Academic reputation": "68.9",
+    "Employer Reputation": "58.2"
+  },
+  {
+    "World Rank": "=199",
+    "University name": "Technion - Israel Institute of Technology",
+    "Overall Score": "70.6",
+    "International Research Network": "58.7",
+    "H-Index citations": "74.5",
+    "Citations per paper": "85.6",
+    "Academic reputation": "72.9",
+    "Employer Reputation": "57.9"
+  },
+  {
+    "World Rank": "=201",
+    "University name": "Aarhus University",
+    "Overall Score": "70.4",
+    "International Research Network": "72.5",
+    "H-Index citations": "67.4",
+    "Citations per paper": "86.1",
+    "Academic reputation": "70.1",
+    "Employer Reputation": "60.5"
+  },
+  {
+    "World Rank": "=201",
+    "University name": "City University of Hong Kong",
+    "Overall Score": "70.4",
+    "International Research Network": "60",
+    "H-Index citations": "60.3",
+    "Citations per paper": "87.2",
+    "Academic reputation": "69.7",
+    "Employer Reputation": "71.9"
+  },
+  {
+    "World Rank": "=201",
+    "University name": "Florida State University",
+    "Overall Score": "70.4",
+    "International Research Network": "73.4",
+    "H-Index citations": "77.6",
+    "Citations per paper": "89.3",
+    "Academic reputation": "65.3",
+    "Employer Reputation": "59.5"
+  },
+  {
+    "World Rank": "=201",
+    "University name": "King Abdullah University of Science & Technology (KAUST)",
+    "Overall Score": "70.4",
+    "International Research Network": "66.1",
+    "H-Index citations": "68.6",
+    "Citations per paper": "92",
+    "Academic reputation": "70.9",
+    "Employer Reputation": "56.9"
+  },
+  {
+    "World Rank": "=201",
+    "University name": "University of Exeter",
+    "Overall Score": "70.4",
+    "International Research Network": "72.7",
+    "H-Index citations": "74.5",
+    "Citations per paper": "87.7",
+    "Academic reputation": "63.9",
+    "Employer Reputation": "66"
+  },
+  {
+    "World Rank": "=201",
+    "University name": "Trinity College Dublin, The University of Dublin",
+    "Overall Score": "70.4",
+    "International Research Network": "64.6",
+    "H-Index citations": "61.4",
+    "Citations per paper": "80.2",
+    "Academic reputation": "70",
+    "Employer Reputation": "73.5"
+  },
+  {
+    "World Rank": "=201",
+    "University name": "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+    "Overall Score": "70.4",
+    "International Research Network": "46.9",
+    "H-Index citations": "65.3",
+    "Citations per paper": "83.6",
+    "Academic reputation": "75.9",
+    "Employer Reputation": "65"
+  },
+  {
+    "World Rank": "=208",
+    "University name": "University of Canterbury | Te Whare W\u0101nanga o Waitaha",
+    "Overall Score": "70.3",
+    "International Research Network": "66.1",
+    "H-Index citations": "71.9",
+    "Citations per paper": "70",
+    "Academic reputation": "68.8",
+    "Employer Reputation": "74.5"
+  },
+  {
+    "World Rank": "=208",
+    "University name": "University of Twente",
+    "Overall Score": "70.3",
+    "International Research Network": "70.7",
+    "H-Index citations": "70.5",
+    "Citations per paper": "83.9",
+    "Academic reputation": "65.1",
+    "Employer Reputation": "70.2"
+  },
+  {
+    "World Rank": "=210",
+    "University name": "Colorado State University",
+    "Overall Score": "70.2",
+    "International Research Network": "60.6",
+    "H-Index citations": "75.4",
+    "Citations per paper": "88.1",
+    "Academic reputation": "66.7",
+    "Employer Reputation": "64.9"
+  },
+  {
+    "World Rank": "=210",
+    "University name": "University of North Carolina at Chapel Hill",
+    "Overall Score": "70.2",
+    "International Research Network": "68.1",
+    "H-Index citations": "65.3",
+    "Citations per paper": "90.5",
+    "Academic reputation": "67.9",
+    "Employer Reputation": "64.1"
+  },
+  {
+    "World Rank": "=210",
+    "University name": "University of M\u00fcnster",
+    "Overall Score": "70.2",
+    "International Research Network": "76.2",
+    "H-Index citations": "71.2",
+    "Citations per paper": "90.3",
+    "Academic reputation": "68.7",
+    "Employer Reputation": "54.2"
+  },
+  {
+    "World Rank": "=213",
+    "University name": "Albert-Ludwigs-Universitaet Freiburg",
+    "Overall Score": "70.1",
+    "International Research Network": "71.4",
+    "H-Index citations": "75.1",
+    "Citations per paper": "87.9",
+    "Academic reputation": "66.9",
+    "Employer Reputation": "58.5"
+  },
+  {
+    "World Rank": "=213",
+    "University name": "Quaid-i-Azam University",
+    "Overall Score": "70.1",
+    "International Research Network": "72.7",
+    "H-Index citations": "70.9",
+    "Citations per paper": "81.6",
+    "Academic reputation": "67",
+    "Employer Reputation": "65.8"
+  },
+  {
+    "World Rank": "=213",
+    "University name": "University of Massachusetts Amherst",
+    "Overall Score": "70.1",
+    "International Research Network": "66.6",
+    "H-Index citations": "77.6",
+    "Citations per paper": "92.6",
+    "Academic reputation": "63.7",
+    "Employer Reputation": "62"
+  },
+  {
+    "World Rank": "=213",
+    "University name": "Vrije Universiteit Amsterdam",
+    "Overall Score": "70.1",
+    "International Research Network": "66.3",
+    "H-Index citations": "77.1",
+    "Citations per paper": "86.6",
+    "Academic reputation": "66.7",
+    "Employer Reputation": "61"
+  },
+  {
+    "World Rank": "=217",
+    "University name": "Indian Institute of Technology Delhi (IITD)",
+    "Overall Score": "70",
+    "International Research Network": "57.5",
+    "H-Index citations": "50.6",
+    "Citations per paper": "73.8",
+    "Academic reputation": "78.6",
+    "Employer Reputation": "70.7"
+  },
+  {
+    "World Rank": "=217",
+    "University name": "UNESP",
+    "Overall Score": "70",
+    "International Research Network": "62.9",
+    "H-Index citations": "75.1",
+    "Citations per paper": "78.6",
+    "Academic reputation": "69",
+    "Employer Reputation": "65.3"
+  },
+  {
+    "World Rank": "=217",
+    "University name": "University of Illinois at Chicago (UIC)",
+    "Overall Score": "70",
+    "International Research Network": "75.1",
+    "H-Index citations": "73.2",
+    "Citations per paper": "79.2",
+    "Academic reputation": "67.6",
+    "Employer Reputation": "62.7"
+  },
+  {
+    "World Rank": "=217",
+    "University name": "University of Naples - Federico II",
+    "Overall Score": "70",
+    "International Research Network": "83.8",
+    "H-Index citations": "80.6",
+    "Citations per paper": "81.6",
+    "Academic reputation": "61.6",
+    "Employer Reputation": "63.1"
+  },
+  {
+    "World Rank": "=217",
+    "University name": "University of Tsukuba",
+    "Overall Score": "70",
+    "International Research Network": "73.5",
+    "H-Index citations": "74.2",
+    "Citations per paper": "81.3",
+    "Academic reputation": "69.2",
+    "Employer Reputation": "58.1"
+  },
+  {
+    "World Rank": "=222",
+    "University name": "Jagiellonian University",
+    "Overall Score": "69.9",
+    "International Research Network": "82.2",
+    "H-Index citations": "72.3",
+    "Citations per paper": "81.2",
+    "Academic reputation": "67.8",
+    "Employer Reputation": "57.6"
+  },
+  {
+    "World Rank": "=222",
+    "University name": "Universit\u00e9 Paul Sabatier Toulouse III",
+    "Overall Score": "69.9",
+    "International Research Network": "84.7",
+    "H-Index citations": "68.6",
+    "Citations per paper": "85.4",
+    "Academic reputation": "73.8",
+    "Employer Reputation": "44.1"
+  },
+  {
+    "World Rank": "=224",
+    "University name": "University of Wollongong",
+    "Overall Score": "69.8",
+    "International Research Network": "71.8",
+    "H-Index citations": "63.4",
+    "Citations per paper": "86.4",
+    "Academic reputation": "65.8",
+    "Employer Reputation": "69.1"
+  },
+  {
+    "World Rank": "=224",
+    "University name": "Weizmann Institute of Science",
+    "Overall Score": "69.8",
+    "International Research Network": "56.7",
+    "H-Index citations": "79.1",
+    "Citations per paper": "94.6",
+    "Academic reputation": "73.9",
+    "Employer Reputation": "42.6"
+  },
+  {
+    "World Rank": "=226",
+    "University name": "Chulalongkorn University",
+    "Overall Score": "69.7",
+    "International Research Network": "69.4",
+    "H-Index citations": "70.9",
+    "Citations per paper": "70.5",
+    "Academic reputation": "68",
+    "Employer Reputation": "71.8"
+  },
+  {
+    "World Rank": "=226",
+    "University name": "The Hong Kong Polytechnic University",
+    "Overall Score": "69.7",
+    "International Research Network": "56.7",
+    "H-Index citations": "63.9",
+    "Citations per paper": "84.6",
+    "Academic reputation": "67.3",
+    "Employer Reputation": "74.1"
+  },
+  {
+    "World Rank": "=228",
+    "University name": "University College Dublin",
+    "Overall Score": "69.6",
+    "International Research Network": "69",
+    "H-Index citations": "75.7",
+    "Citations per paper": "81.4",
+    "Academic reputation": "62.9",
+    "Employer Reputation": "70"
+  },
+  {
+    "World Rank": "=228",
+    "University name": "University of Florence",
+    "Overall Score": "69.6",
+    "International Research Network": "80.8",
+    "H-Index citations": "76.2",
+    "Citations per paper": "81.8",
+    "Academic reputation": "66",
+    "Employer Reputation": "57.2"
+  },
+  {
+    "World Rank": "=228",
+    "University name": "University of Milano-Bicocca",
+    "Overall Score": "69.6",
+    "International Research Network": "65.8",
+    "H-Index citations": "77.6",
+    "Citations per paper": "85.7",
+    "Academic reputation": "65.1",
+    "Employer Reputation": "62.3"
+  },
+  {
+    "World Rank": "=228",
+    "University name": "Universit\u00e9 de Montpellier",
+    "Overall Score": "69.6",
+    "International Research Network": "94.5",
+    "H-Index citations": "70.5",
+    "Citations per paper": "84.7",
+    "Academic reputation": "65.8",
+    "Employer Reputation": "52.6"
+  },
+  {
+    "World Rank": "=232",
+    "University name": "ITMO University",
+    "Overall Score": "69.4",
+    "International Research Network": "62.9",
+    "H-Index citations": "58.5",
+    "Citations per paper": "71.2",
+    "Academic reputation": "70",
+    "Employer Reputation": "78.4"
+  },
+  {
+    "World Rank": "=232",
+    "University name": "University of Bath",
+    "Overall Score": "69.4",
+    "International Research Network": "69.3",
+    "H-Index citations": "63.4",
+    "Citations per paper": "86.2",
+    "Academic reputation": "65.6",
+    "Employer Reputation": "69"
+  },
+  {
+    "World Rank": "=234",
+    "University name": "Beijing Normal University",
+    "Overall Score": "69.3",
+    "International Research Network": "54",
+    "H-Index citations": "79.1",
+    "Citations per paper": "86",
+    "Academic reputation": "69.2",
+    "Employer Reputation": "57.1"
+  },
+  {
+    "World Rank": "=234",
+    "University name": "RUDN University",
+    "Overall Score": "69.3",
+    "International Research Network": "95.6",
+    "H-Index citations": "48.9",
+    "Citations per paper": "57.2",
+    "Academic reputation": "66.8",
+    "Employer Reputation": "85.4"
+  },
+  {
+    "World Rank": "=234",
+    "University name": "Waseda University",
+    "Overall Score": "69.3",
+    "International Research Network": "60.5",
+    "H-Index citations": "72.9",
+    "Citations per paper": "77.8",
+    "Academic reputation": "65.5",
+    "Employer Reputation": "72"
+  },
+  {
+    "World Rank": "237",
+    "University name": "University of Rochester",
+    "Overall Score": "69.2",
+    "International Research Network": "78.7",
+    "H-Index citations": "77.3",
+    "Citations per paper": "89.3",
+    "Academic reputation": "60.5",
+    "Employer Reputation": "60.6"
+  },
+  {
+    "World Rank": "=238",
+    "University name": "Czech Technical University in Prague",
+    "Overall Score": "69.1",
+    "International Research Network": "71.6",
+    "H-Index citations": "74.5",
+    "Citations per paper": "74.5",
+    "Academic reputation": "66.6",
+    "Employer Reputation": "64.9"
+  },
+  {
+    "World Rank": "=238",
+    "University name": "University of Cape Town",
+    "Overall Score": "69.1",
+    "International Research Network": "78.3",
+    "H-Index citations": "73.2",
+    "Citations per paper": "75.9",
+    "Academic reputation": "67.4",
+    "Employer Reputation": "59.7"
+  },
+  {
+    "World Rank": "=238",
+    "University name": "University of Turin",
+    "Overall Score": "69.1",
+    "International Research Network": "78.3",
+    "H-Index citations": "77.1",
+    "Citations per paper": "89.4",
+    "Academic reputation": "61.5",
+    "Employer Reputation": "58.5"
+  },
+  {
+    "World Rank": "=241",
+    "University name": "Middle East Technical University",
+    "Overall Score": "69",
+    "International Research Network": "71.6",
+    "H-Index citations": "71.2",
+    "Citations per paper": "73.6",
+    "Academic reputation": "65.3",
+    "Employer Reputation": "69.9"
+  },
+  {
+    "World Rank": "=241",
+    "University name": "University of Calgary",
+    "Overall Score": "69",
+    "International Research Network": "68",
+    "H-Index citations": "66.6",
+    "Citations per paper": "81.5",
+    "Academic reputation": "64.5",
+    "Employer Reputation": "71"
+  },
+  {
+    "World Rank": "=241",
+    "University name": "University of Southern California",
+    "Overall Score": "69",
+    "International Research Network": "71.1",
+    "H-Index citations": "67.4",
+    "Citations per paper": "85.1",
+    "Academic reputation": "62.2",
+    "Employer Reputation": "70.9"
+  },
+  {
+    "World Rank": "=244",
+    "University name": "Eberhard Karls Universit\u00e4t T\u00fcbingen",
+    "Overall Score": "68.9",
+    "International Research Network": "83.4",
+    "H-Index citations": "67",
+    "Citations per paper": "85.3",
+    "Academic reputation": "65.4",
+    "Employer Reputation": "57.7"
+  },
+  {
+    "World Rank": "=244",
+    "University name": "Universiti Teknologi Malaysia",
+    "Overall Score": "68.9",
+    "International Research Network": "76.3",
+    "H-Index citations": "58.5",
+    "Citations per paper": "74.2",
+    "Academic reputation": "68.6",
+    "Employer Reputation": "69.7"
+  },
+  {
+    "World Rank": "246",
+    "University name": "Tel Aviv University",
+    "Overall Score": "68.8",
+    "International Research Network": "71.3",
+    "H-Index citations": "77.9",
+    "Citations per paper": "88.7",
+    "Academic reputation": "66.8",
+    "Employer Reputation": "49.7"
+  },
+  {
+    "World Rank": "247",
+    "University name": "Leibniz University Hannover",
+    "Overall Score": "68.6",
+    "International Research Network": "72.4",
+    "H-Index citations": "71.2",
+    "Citations per paper": "85.3",
+    "Academic reputation": "65.9",
+    "Employer Reputation": "57.4"
+  },
+  {
+    "World Rank": "=248",
+    "University name": "Cardiff University",
+    "Overall Score": "68.5",
+    "International Research Network": "74.3",
+    "H-Index citations": "68.6",
+    "Citations per paper": "86.6",
+    "Academic reputation": "62.1",
+    "Employer Reputation": "64.9"
+  },
+  {
+    "World Rank": "=248",
+    "University name": "Indian Institute of Technology Kanpur (IITK)",
+    "Overall Score": "68.5",
+    "International Research Network": "49.6",
+    "H-Index citations": "57.3",
+    "Citations per paper": "77.8",
+    "Academic reputation": "75.7",
+    "Employer Reputation": "64.8"
+  },
+  {
+    "World Rank": "=248",
+    "University name": "Indiana University Bloomington",
+    "Overall Score": "68.5",
+    "International Research Network": "75.2",
+    "H-Index citations": "77.1",
+    "Citations per paper": "91.9",
+    "Academic reputation": "59.5",
+    "Employer Reputation": "59.2"
+  },
+  {
+    "World Rank": "=251",
+    "University name": "Newcastle University",
+    "Overall Score": "68.4",
+    "International Research Network": "72.2",
+    "H-Index citations": "71.9",
+    "Citations per paper": "81.9",
+    "Academic reputation": "59.9",
+    "Employer Reputation": "70.8"
+  },
+  {
+    "World Rank": "=251",
+    "University name": "Peter the Great St. Petersburg Polytechnic University",
+    "Overall Score": "68.4",
+    "International Research Network": "71.1",
+    "H-Index citations": "75.4",
+    "Citations per paper": "67.2",
+    "Academic reputation": "64",
+    "Employer Reputation": "71.6"
+  },
+  {
+    "World Rank": "=251",
+    "University name": "Universiti Putra Malaysia (UPM)",
+    "Overall Score": "68.4",
+    "International Research Network": "73.1",
+    "H-Index citations": "59.1",
+    "Citations per paper": "76.9",
+    "Academic reputation": "67.2",
+    "Employer Reputation": "69"
+  },
+  {
+    "World Rank": "254",
+    "University name": "National Technical University of Athens",
+    "Overall Score": "68.3",
+    "International Research Network": "72.6",
+    "H-Index citations": "75.4",
+    "Citations per paper": "76.3",
+    "Academic reputation": "64.2",
+    "Employer Reputation": "63.1"
+  },
+  {
+    "World Rank": "=255",
+    "University name": "Academy of Sciences of the Czech Republic",
+    "Overall Score": "68.2",
+    "International Research Network": "90.2",
+    "H-Index citations": "83.4",
+    "Citations per paper": "79.6",
+    "Academic reputation": "59.5",
+    "Employer Reputation": "54.4"
+  },
+  {
+    "World Rank": "=255",
+    "University name": "National Central University",
+    "Overall Score": "68.2",
+    "International Research Network": "62.9",
+    "H-Index citations": "72.6",
+    "Citations per paper": "77.3",
+    "Academic reputation": "66.8",
+    "Employer Reputation": "63.3"
+  },
+  {
+    "World Rank": "=255",
+    "University name": "Universit\u00e4t Innsbruck",
+    "Overall Score": "68.2",
+    "International Research Network": "73.7",
+    "H-Index citations": "75.4",
+    "Citations per paper": "87",
+    "Academic reputation": "66.5",
+    "Employer Reputation": "49.1"
+  },
+  {
+    "World Rank": "258",
+    "University name": "Virginia Polytechnic Institute and State University",
+    "Overall Score": "68.1",
+    "International Research Network": "73.1",
+    "H-Index citations": "69",
+    "Citations per paper": "84.7",
+    "Academic reputation": "62.5",
+    "Employer Reputation": "63.5"
+  },
+  {
+    "World Rank": "=259",
+    "University name": "University of Virginia",
+    "Overall Score": "68",
+    "International Research Network": "74.6",
+    "H-Index citations": "73.9",
+    "Citations per paper": "87.1",
+    "Academic reputation": "59.2",
+    "Employer Reputation": "63.7"
+  },
+  {
+    "World Rank": "=259",
+    "University name": "Universit\u00e4t Stuttgart",
+    "Overall Score": "68",
+    "International Research Network": "67",
+    "H-Index citations": "62.9",
+    "Citations per paper": "82.9",
+    "Academic reputation": "67.9",
+    "Employer Reputation": "61.2"
+  },
+  {
+    "World Rank": "261",
+    "University name": "National Cheng Kung University (NCKU)",
+    "Overall Score": "67.9",
+    "International Research Network": "56.4",
+    "H-Index citations": "57.9",
+    "Citations per paper": "77.8",
+    "Academic reputation": "67.9",
+    "Employer Reputation": "73.8"
+  },
+  {
+    "World Rank": "=262",
+    "University name": "University of Basel",
+    "Overall Score": "67.8",
+    "International Research Network": "62.6",
+    "H-Index citations": "65.7",
+    "Citations per paper": "85",
+    "Academic reputation": "66",
+    "Employer Reputation": "62.9"
+  },
+  {
+    "World Rank": "=262",
+    "University name": "University of Cologne",
+    "Overall Score": "67.8",
+    "International Research Network": "77",
+    "H-Index citations": "67",
+    "Citations per paper": "85.3",
+    "Academic reputation": "63.8",
+    "Employer Reputation": "58.8"
+  },
+  {
+    "World Rank": "=262",
+    "University name": "University of Granada",
+    "Overall Score": "67.8",
+    "International Research Network": "76.6",
+    "H-Index citations": "72.6",
+    "Citations per paper": "81",
+    "Academic reputation": "64.6",
+    "Employer Reputation": "56.3"
+  },
+  {
+    "World Rank": "=262",
+    "University name": "University of Hawai\u02bbi at M\u0101noa",
+    "Overall Score": "67.8",
+    "International Research Network": "71.5",
+    "H-Index citations": "73.9",
+    "Citations per paper": "92.5",
+    "Academic reputation": "59.3",
+    "Employer Reputation": "59.8"
+  },
+  {
+    "World Rank": "=262",
+    "University name": "University of Pittsburgh",
+    "Overall Score": "67.8",
+    "International Research Network": "71.2",
+    "H-Index citations": "74.8",
+    "Citations per paper": "91.4",
+    "Academic reputation": "61.2",
+    "Employer Reputation": "56.1"
+  },
+  {
+    "World Rank": "=262",
+    "University name": "Warsaw University of Technology",
+    "Overall Score": "67.8",
+    "International Research Network": "69.5",
+    "H-Index citations": "72.6",
+    "Citations per paper": "71.8",
+    "Academic reputation": "66.5",
+    "Employer Reputation": "63"
+  },
+  {
+    "World Rank": "=268",
+    "University name": "National Yang Ming Chiao Tung University",
+    "Overall Score": "67.7",
+    "International Research Network": "55.4",
+    "H-Index citations": "58.5",
+    "Citations per paper": "75.9",
+    "Academic reputation": "68.6",
+    "Employer Reputation": "72.8"
+  },
+  {
+    "World Rank": "=268",
+    "University name": "Universiti Sains Malaysia (USM)",
+    "Overall Score": "67.7",
+    "International Research Network": "70.8",
+    "H-Index citations": "53.1",
+    "Citations per paper": "71.2",
+    "Academic reputation": "70.4",
+    "Employer Reputation": "69.2"
+  },
+  {
+    "World Rank": "=268",
+    "University name": "University of Bergen",
+    "Overall Score": "67.7",
+    "International Research Network": "71.6",
+    "H-Index citations": "76.2",
+    "Citations per paper": "77.3",
+    "Academic reputation": "66.5",
+    "Employer Reputation": "54.8"
+  },
+  {
+    "World Rank": "=271",
+    "University name": "University of Ottawa",
+    "Overall Score": "67.6",
+    "International Research Network": "70.4",
+    "H-Index citations": "67.9",
+    "Citations per paper": "84.3",
+    "Academic reputation": "63.3",
+    "Employer Reputation": "61.9"
+  },
+  {
+    "World Rank": "=271",
+    "University name": "University of York",
+    "Overall Score": "67.6",
+    "International Research Network": "75",
+    "H-Index citations": "66.2",
+    "Citations per paper": "83.1",
+    "Academic reputation": "62.6",
+    "Employer Reputation": "63.4"
+  },
+  {
+    "World Rank": "=273",
+    "University name": "North Carolina State University",
+    "Overall Score": "67.5",
+    "International Research Network": "65.9",
+    "H-Index citations": "70.5",
+    "Citations per paper": "84.9",
+    "Academic reputation": "63.8",
+    "Employer Reputation": "60.6"
+  },
+  {
+    "World Rank": "=273",
+    "University name": "University of Reading",
+    "Overall Score": "67.5",
+    "International Research Network": "59.5",
+    "H-Index citations": "75.4",
+    "Citations per paper": "83.3",
+    "Academic reputation": "62.4",
+    "Employer Reputation": "64"
+  },
+  {
+    "World Rank": "=275",
+    "University name": "Indian Institute of Technology Kharagpur (IIT-KGP)",
+    "Overall Score": "67.4",
+    "International Research Network": "64.4",
+    "H-Index citations": "53.8",
+    "Citations per paper": "75.7",
+    "Academic reputation": "71.7",
+    "Employer Reputation": "64.5"
+  },
+  {
+    "World Rank": "=275",
+    "University name": "Lancaster University",
+    "Overall Score": "67.4",
+    "International Research Network": "68.8",
+    "H-Index citations": "77.9",
+    "Citations per paper": "85",
+    "Academic reputation": "60.9",
+    "Employer Reputation": "58.6"
+  },
+  {
+    "World Rank": "=275",
+    "University name": "McMaster University",
+    "Overall Score": "67.4",
+    "International Research Network": "58.4",
+    "H-Index citations": "56.6",
+    "Citations per paper": "85.6",
+    "Academic reputation": "68.1",
+    "Employer Reputation": "64.9"
+  },
+  {
+    "World Rank": "=275",
+    "University name": "Queen's University at Kingston",
+    "Overall Score": "67.4",
+    "International Research Network": "66.2",
+    "H-Index citations": "61.9",
+    "Citations per paper": "77.5",
+    "Academic reputation": "66.4",
+    "Employer Reputation": "66.6"
+  },
+  {
+    "World Rank": "=275",
+    "University name": "RMIT University",
+    "Overall Score": "67.4",
+    "International Research Network": "61.2",
+    "H-Index citations": "66.6",
+    "Citations per paper": "86.9",
+    "Academic reputation": "60.1",
+    "Employer Reputation": "71.3"
+  },
+  {
+    "World Rank": "=275",
+    "University name": "University of Trento",
+    "Overall Score": "67.4",
+    "International Research Network": "68.7",
+    "H-Index citations": "82.8",
+    "Citations per paper": "84.6",
+    "Academic reputation": "59.1",
+    "Employer Reputation": "58.7"
+  },
+  {
+    "World Rank": "=281",
+    "University name": "King Fahd University of Petroleum & Minerals",
+    "Overall Score": "67.3",
+    "International Research Network": "73.4",
+    "H-Index citations": "50.6",
+    "Citations per paper": "79.8",
+    "Academic reputation": "68.2",
+    "Employer Reputation": "65.4"
+  },
+  {
+    "World Rank": "=281",
+    "University name": "Nankai University",
+    "Overall Score": "67.3",
+    "International Research Network": "56.6",
+    "H-Index citations": "73.9",
+    "Citations per paper": "90.3",
+    "Academic reputation": "70.1",
+    "Employer Reputation": "44.6"
+  },
+  {
+    "World Rank": "=283",
+    "University name": "City University of New York",
+    "Overall Score": "67.2",
+    "International Research Network": "62.8",
+    "H-Index citations": "77.3",
+    "Citations per paper": "88.4",
+    "Academic reputation": "58.1",
+    "Employer Reputation": "64"
+  },
+  {
+    "World Rank": "=283",
+    "University name": "University of Porto",
+    "Overall Score": "67.2",
+    "International Research Network": "85.4",
+    "H-Index citations": "70.5",
+    "Citations per paper": "79.8",
+    "Academic reputation": "61.1",
+    "Employer Reputation": "58.2"
+  },
+  {
+    "World Rank": "=283",
+    "University name": "Universit\u00e9 de Rennes 1",
+    "Overall Score": "67.2",
+    "International Research Network": "80.4",
+    "H-Index citations": "75.7",
+    "Citations per paper": "81.4",
+    "Academic reputation": "64.5",
+    "Employer Reputation": "48.8"
+  },
+  {
+    "World Rank": "=283",
+    "University name": "Xi\u2019an Jiaotong University",
+    "Overall Score": "67.2",
+    "International Research Network": "65.2",
+    "H-Index citations": "67.9",
+    "Citations per paper": "79.3",
+    "Academic reputation": "65.3",
+    "Employer Reputation": "62.6"
+  },
+  {
+    "World Rank": "=287",
+    "University name": "E\u00f6tv\u00f6s Lor\u00e1nd University",
+    "Overall Score": "67.1",
+    "International Research Network": "57.7",
+    "H-Index citations": "79.1",
+    "Citations per paper": "74.5",
+    "Academic reputation": "64.6",
+    "Employer Reputation": "62.4"
+  },
+  {
+    "World Rank": "=287",
+    "University name": "Iowa State University",
+    "Overall Score": "67.1",
+    "International Research Network": "73",
+    "H-Index citations": "74.8",
+    "Citations per paper": "84.9",
+    "Academic reputation": "59.2",
+    "Employer Reputation": "61"
+  },
+  {
+    "World Rank": "=287",
+    "University name": "Oregon State University",
+    "Overall Score": "67.1",
+    "International Research Network": "67.8",
+    "H-Index citations": "68.6",
+    "Citations per paper": "84.6",
+    "Academic reputation": "67",
+    "Employer Reputation": "52.6"
+  },
+  {
+    "World Rank": "=287",
+    "University name": "Queen's University Belfast",
+    "Overall Score": "67.1",
+    "International Research Network": "85.1",
+    "H-Index citations": "60.8",
+    "Citations per paper": "84.4",
+    "Academic reputation": "60.1",
+    "Employer Reputation": "63.9"
+  },
+  {
+    "World Rank": "=287",
+    "University name": "The Hebrew University of Jerusalem",
+    "Overall Score": "67.1",
+    "International Research Network": "58.7",
+    "H-Index citations": "70.2",
+    "Citations per paper": "89.2",
+    "Academic reputation": "67.8",
+    "Employer Reputation": "50.9"
+  },
+  {
+    "World Rank": "=292",
+    "University name": "Cairo University",
+    "Overall Score": "67",
+    "International Research Network": "70",
+    "H-Index citations": "63.4",
+    "Citations per paper": "73.2",
+    "Academic reputation": "61.2",
+    "Employer Reputation": "74.9"
+  },
+  {
+    "World Rank": "=292",
+    "University name": "Instituto Polit\u00e9cnico Nacional (IPN)",
+    "Overall Score": "67",
+    "International Research Network": "66.8",
+    "H-Index citations": "72.6",
+    "Citations per paper": "69.9",
+    "Academic reputation": "66.9",
+    "Employer Reputation": "60.8"
+  },
+  {
+    "World Rank": "=292",
+    "University name": "University of California, Santa Cruz",
+    "Overall Score": "67",
+    "International Research Network": "64.7",
+    "H-Index citations": "77.9",
+    "Citations per paper": "94.1",
+    "Academic reputation": "65.2",
+    "Employer Reputation": "43.3"
+  },
+  {
+    "World Rank": "=295",
+    "University name": "King Saud University",
+    "Overall Score": "66.9",
+    "International Research Network": "91.9",
+    "H-Index citations": "61.9",
+    "Citations per paper": "80.3",
+    "Academic reputation": "61.5",
+    "Employer Reputation": "59"
+  },
+  {
+    "World Rank": "=295",
+    "University name": "National Research Tomsk Polytechnic University",
+    "Overall Score": "66.9",
+    "International Research Network": "71.4",
+    "H-Index citations": "63.4",
+    "Citations per paper": "66",
+    "Academic reputation": "65.2",
+    "Employer Reputation": "71.4"
+  },
+  {
+    "World Rank": "=295",
+    "University name": "The National University of Science and Technology MISIS",
+    "Overall Score": "66.9",
+    "International Research Network": "68.2",
+    "H-Index citations": "57.9",
+    "Citations per paper": "73.8",
+    "Academic reputation": "64.3",
+    "Employer Reputation": "72.9"
+  },
+  {
+    "World Rank": "=295",
+    "University name": "University of Notre Dame",
+    "Overall Score": "66.9",
+    "International Research Network": "72.9",
+    "H-Index citations": "75.1",
+    "Citations per paper": "88.6",
+    "Academic reputation": "56.1",
+    "Employer Reputation": "63.3"
+  },
+  {
+    "World Rank": "299",
+    "University name": "Huazhong University of Science and Technology",
+    "Overall Score": "66.8",
+    "International Research Network": "62.9",
+    "H-Index citations": "71.2",
+    "Citations per paper": "82.8",
+    "Academic reputation": "64.2",
+    "Employer Reputation": "58.8"
+  },
+  {
+    "World Rank": "=300",
+    "University name": "Radboud University",
+    "Overall Score": "66.7",
+    "International Research Network": "67.7",
+    "H-Index citations": "76.8",
+    "Citations per paper": "87.6",
+    "Academic reputation": "59.1",
+    "Employer Reputation": "58.2"
+  },
+  {
+    "World Rank": "=300",
+    "University name": "University of Strathclyde",
+    "Overall Score": "66.7",
+    "International Research Network": "67",
+    "H-Index citations": "69.4",
+    "Citations per paper": "83.6",
+    "Academic reputation": "60.8",
+    "Employer Reputation": "63.5"
+  },
+  {
+    "World Rank": "=300",
+    "University name": "University of Technology Sydney",
+    "Overall Score": "66.7",
+    "International Research Network": "63.5",
+    "H-Index citations": "60.3",
+    "Citations per paper": "83.9",
+    "Academic reputation": "61.7",
+    "Employer Reputation": "70.3"
+  },
+  {
+    "World Rank": "=303",
+    "University name": "Aristotle University of Thessaloniki",
+    "Overall Score": "66.6",
+    "International Research Network": "83.6",
+    "H-Index citations": "71.6",
+    "Citations per paper": "79.8",
+    "Academic reputation": "60",
+    "Employer Reputation": "57.5"
+  },
+  {
+    "World Rank": "=303",
+    "University name": "Christian-Albrechts-University zu Kiel",
+    "Overall Score": "66.6",
+    "International Research Network": "82.4",
+    "H-Index citations": "70.5",
+    "Citations per paper": "82.1",
+    "Academic reputation": "63.8",
+    "Employer Reputation": "49.5"
+  },
+  {
+    "World Rank": "=303",
+    "University name": "Istanbul Technical University",
+    "Overall Score": "66.6",
+    "International Research Network": "65.2",
+    "H-Index citations": "71.6",
+    "Citations per paper": "72.1",
+    "Academic reputation": "61.3",
+    "Employer Reputation": "69.9"
+  },
+  {
+    "World Rank": "=303",
+    "University name": "Universidad Nacional de Colombia",
+    "Overall Score": "66.6",
+    "International Research Network": "55.1",
+    "H-Index citations": "63.4",
+    "Citations per paper": "69",
+    "Academic reputation": "69.4",
+    "Employer Reputation": "67.5"
+  },
+  {
+    "World Rank": "=307",
+    "University name": "Queensland University of Technology (QUT)",
+    "Overall Score": "66.4",
+    "International Research Network": "70.4",
+    "H-Index citations": "57.3",
+    "Citations per paper": "81",
+    "Academic reputation": "63.7",
+    "Employer Reputation": "65.9"
+  },
+  {
+    "World Rank": "=307",
+    "University name": "University of Delhi",
+    "Overall Score": "66.4",
+    "International Research Network": "57.6",
+    "H-Index citations": "71.2",
+    "Citations per paper": "74.6",
+    "Academic reputation": "67.2",
+    "Employer Reputation": "59.3"
+  },
+  {
+    "World Rank": "=309",
+    "University name": "Northeastern University",
+    "Overall Score": "66.3",
+    "International Research Network": "70.2",
+    "H-Index citations": "72.9",
+    "Citations per paper": "84.5",
+    "Academic reputation": "59.5",
+    "Employer Reputation": "59.5"
+  },
+  {
+    "World Rank": "=309",
+    "University name": "Norwegian University of Science And Technology",
+    "Overall Score": "66.3",
+    "International Research Network": "74.2",
+    "H-Index citations": "57.9",
+    "Citations per paper": "75.1",
+    "Academic reputation": "65.3",
+    "Employer Reputation": "63.8"
+  },
+  {
+    "World Rank": "=309",
+    "University name": "Ruhr-Universit\u00e4t Bochum",
+    "Overall Score": "66.3",
+    "International Research Network": "75.8",
+    "H-Index citations": "66.6",
+    "Citations per paper": "87.8",
+    "Academic reputation": "63",
+    "Employer Reputation": "51.6"
+  },
+  {
+    "World Rank": "=309",
+    "University name": "Universit\u00e0 degli Studi di Pavia",
+    "Overall Score": "66.3",
+    "International Research Network": "80.1",
+    "H-Index citations": "76",
+    "Citations per paper": "78.4",
+    "Academic reputation": "58.4",
+    "Employer Reputation": "59"
+  },
+  {
+    "World Rank": "=313",
+    "University name": "Vrije Universiteit Brussel (VUB)",
+    "Overall Score": "66.2",
+    "International Research Network": "79.8",
+    "H-Index citations": "73.2",
+    "Citations per paper": "78.5",
+    "Academic reputation": "60.2",
+    "Employer Reputation": "56.9"
+  },
+  {
+    "World Rank": "=313",
+    "University name": "Washington University in St. Louis",
+    "Overall Score": "66.2",
+    "International Research Network": "60.2",
+    "H-Index citations": "67.9",
+    "Citations per paper": "85.5",
+    "Academic reputation": "62.2",
+    "Employer Reputation": "61.4"
+  },
+  {
+    "World Rank": "=315",
+    "University name": "Kyungpook National University",
+    "Overall Score": "66",
+    "International Research Network": "66.5",
+    "H-Index citations": "72.6",
+    "Citations per paper": "80.6",
+    "Academic reputation": "61.7",
+    "Employer Reputation": "58.4"
+  },
+  {
+    "World Rank": "=315",
+    "University name": "Swansea University",
+    "Overall Score": "66",
+    "International Research Network": "68.3",
+    "H-Index citations": "62.4",
+    "Citations per paper": "77.4",
+    "Academic reputation": "61.7",
+    "Employer Reputation": "67.6"
+  },
+  {
+    "World Rank": "=317",
+    "University name": "Beihang University (former BUAA)",
+    "Overall Score": "65.9",
+    "International Research Network": "65.8",
+    "H-Index citations": "75.7",
+    "Citations per paper": "80",
+    "Academic reputation": "63.7",
+    "Employer Reputation": "52.5"
+  },
+  {
+    "World Rank": "=317",
+    "University name": "Harbin Institute of Technology",
+    "Overall Score": "65.9",
+    "International Research Network": "61.7",
+    "H-Index citations": "63.4",
+    "Citations per paper": "77.7",
+    "Academic reputation": "67.2",
+    "Employer Reputation": "58.4"
+  },
+  {
+    "World Rank": "=317",
+    "University name": "University of Antwerp",
+    "Overall Score": "65.9",
+    "International Research Network": "80.6",
+    "H-Index citations": "72.6",
+    "Citations per paper": "82.2",
+    "Academic reputation": "59.8",
+    "Employer Reputation": "53.7"
+  },
+  {
+    "World Rank": "=317",
+    "University name": "Washington State University",
+    "Overall Score": "65.9",
+    "International Research Network": "68.2",
+    "H-Index citations": "66.2",
+    "Citations per paper": "82",
+    "Academic reputation": "61.8",
+    "Employer Reputation": "60.4"
+  },
+  {
+    "World Rank": "321",
+    "University name": "TU Dortmund University",
+    "Overall Score": "65.7",
+    "International Research Network": "81.5",
+    "H-Index citations": "75.7",
+    "Citations per paper": "80.4",
+    "Academic reputation": "59.2",
+    "Employer Reputation": "52.2"
+  },
+  {
+    "World Rank": "=322",
+    "University name": "Heriot-Watt University",
+    "Overall Score": "65.6",
+    "International Research Network": "68.5",
+    "H-Index citations": "63.9",
+    "Citations per paper": "79.8",
+    "Academic reputation": "60.7",
+    "Employer Reputation": "64.4"
+  },
+  {
+    "World Rank": "=322",
+    "University name": "Tata Institute of Fundamental Research",
+    "Overall Score": "65.6",
+    "International Research Network": "60",
+    "H-Index citations": "77.1",
+    "Citations per paper": "84.8",
+    "Academic reputation": "67.9",
+    "Employer Reputation": "40.9"
+  },
+  {
+    "World Rank": "=322",
+    "University name": "Universidad Nacional de La Plata (UNLP)",
+    "Overall Score": "65.6",
+    "International Research Network": "59",
+    "H-Index citations": "74.8",
+    "Citations per paper": "70.9",
+    "Academic reputation": "65.8",
+    "Employer Reputation": "57.7"
+  },
+  {
+    "World Rank": "=322",
+    "University name": "University of Ljubljana",
+    "Overall Score": "65.6",
+    "International Research Network": "74.2",
+    "H-Index citations": "73.6",
+    "Citations per paper": "83.4",
+    "Academic reputation": "58.6",
+    "Employer Reputation": "56.1"
+  },
+  {
+    "World Rank": "=322",
+    "University name": "University of Victoria (UVic)",
+    "Overall Score": "65.6",
+    "International Research Network": "65.7",
+    "H-Index citations": "76",
+    "Citations per paper": "84.5",
+    "Academic reputation": "59.6",
+    "Employer Reputation": "55.8"
+  },
+  {
+    "World Rank": "=327",
+    "University name": "The University of Tennessee, Knoxville",
+    "Overall Score": "65.5",
+    "International Research Network": "64.9",
+    "H-Index citations": "77.6",
+    "Citations per paper": "90.2",
+    "Academic reputation": "56",
+    "Employer Reputation": "57.3"
+  },
+  {
+    "World Rank": "=327",
+    "University name": "Universiti Kebangsaan Malaysia (UKM)",
+    "Overall Score": "65.5",
+    "International Research Network": "65.2",
+    "H-Index citations": "48.9",
+    "Citations per paper": "71.4",
+    "Academic reputation": "67.8",
+    "Employer Reputation": "69.2"
+  },
+  {
+    "World Rank": "=327",
+    "University name": "University of Tasmania",
+    "Overall Score": "65.5",
+    "International Research Network": "70",
+    "H-Index citations": "70.2",
+    "Citations per paper": "77.1",
+    "Academic reputation": "63.1",
+    "Employer Reputation": "55.8"
+  },
+  {
+    "World Rank": "=327",
+    "University name": "University of Utah",
+    "Overall Score": "65.5",
+    "International Research Network": "77.2",
+    "H-Index citations": "67.4",
+    "Citations per paper": "87.5",
+    "Academic reputation": "62.2",
+    "Employer Reputation": "48.1"
+  },
+  {
+    "World Rank": "=331",
+    "University name": "Griffith University",
+    "Overall Score": "65.4",
+    "International Research Network": "73.3",
+    "H-Index citations": "64.8",
+    "Citations per paper": "84.8",
+    "Academic reputation": "60.1",
+    "Employer Reputation": "57.8"
+  },
+  {
+    "World Rank": "=331",
+    "University name": "University of Otago",
+    "Overall Score": "65.4",
+    "International Research Network": "52.2",
+    "H-Index citations": "58.5",
+    "Citations per paper": "70.5",
+    "Academic reputation": "67.3",
+    "Employer Reputation": "69.4"
+  },
+  {
+    "World Rank": "=331",
+    "University name": "Universit\u00e9 C\u00f4te d'Azur",
+    "Overall Score": "65.4",
+    "International Research Network": "84.2",
+    "H-Index citations": "76",
+    "Citations per paper": "83.9",
+    "Academic reputation": "61.5",
+    "Employer Reputation": "41.8"
+  },
+  {
+    "World Rank": "=334",
+    "University name": "HSE University",
+    "Overall Score": "65.3",
+    "International Research Network": "48",
+    "H-Index citations": "53.8",
+    "Citations per paper": "64.1",
+    "Academic reputation": "65.1",
+    "Employer Reputation": "84.1"
+  },
+  {
+    "World Rank": "=334",
+    "University name": "Hiroshima University",
+    "Overall Score": "65.3",
+    "International Research Network": "71.6",
+    "H-Index citations": "64.4",
+    "Citations per paper": "79.8",
+    "Academic reputation": "62.7",
+    "Employer Reputation": "57.3"
+  },
+  {
+    "World Rank": "=334",
+    "University name": "Kazan (Volga region) Federal University",
+    "Overall Score": "65.3",
+    "International Research Network": "72.2",
+    "H-Index citations": "53.1",
+    "Citations per paper": "66.5",
+    "Academic reputation": "67",
+    "Employer Reputation": "66.8"
+  },
+  {
+    "World Rank": "=334",
+    "University name": "Universidad de los Andes",
+    "Overall Score": "65.3",
+    "International Research Network": "65.7",
+    "H-Index citations": "70.9",
+    "Citations per paper": "52.6",
+    "Academic reputation": "67.3",
+    "Employer Reputation": "66.2"
+  },
+  {
+    "World Rank": "=334",
+    "University name": "University of California, Riverside",
+    "Overall Score": "65.3",
+    "International Research Network": "75.7",
+    "H-Index citations": "76",
+    "Citations per paper": "92.6",
+    "Academic reputation": "56.2",
+    "Employer Reputation": "49.7"
+  },
+  {
+    "World Rank": "=334",
+    "University name": "University of Miami",
+    "Overall Score": "65.3",
+    "International Research Network": "66.8",
+    "H-Index citations": "73.2",
+    "Citations per paper": "75.8",
+    "Academic reputation": "62.5",
+    "Employer Reputation": "56.1"
+  },
+  {
+    "World Rank": "=340",
+    "University name": "Jilin University",
+    "Overall Score": "65.2",
+    "International Research Network": "58.4",
+    "H-Index citations": "72.3",
+    "Citations per paper": "82",
+    "Academic reputation": "62.6",
+    "Employer Reputation": "55.7"
+  },
+  {
+    "World Rank": "=340",
+    "University name": "Pusan National University",
+    "Overall Score": "65.2",
+    "International Research Network": "48.9",
+    "H-Index citations": "67.4",
+    "Citations per paper": "78.9",
+    "Academic reputation": "65.9",
+    "Employer Reputation": "60"
+  },
+  {
+    "World Rank": "=340",
+    "University name": "Victoria University of Wellington",
+    "Overall Score": "65.2",
+    "International Research Network": "61.3",
+    "H-Index citations": "56.6",
+    "Citations per paper": "66.6",
+    "Academic reputation": "65.9",
+    "Employer Reputation": "71.1"
+  },
+  {
+    "World Rank": "343",
+    "University name": "Xiamen University",
+    "Overall Score": "65.1",
+    "International Research Network": "52.8",
+    "H-Index citations": "71.2",
+    "Citations per paper": "86",
+    "Academic reputation": "64.7",
+    "Employer Reputation": "51.9"
+  },
+  {
+    "World Rank": "344",
+    "University name": "Universidade de Santiago de Compostela",
+    "Overall Score": "65",
+    "International Research Network": "74.5",
+    "H-Index citations": "71.6",
+    "Citations per paper": "81.6",
+    "Academic reputation": "59.5",
+    "Employer Reputation": "53.8"
+  },
+  {
+    "World Rank": "=345",
+    "University name": "Ulsan National Institute of Science and Technology (UNIST)",
+    "Overall Score": "64.9",
+    "International Research Network": "37.8",
+    "H-Index citations": "62.4",
+    "Citations per paper": "87.7",
+    "Academic reputation": "68.5",
+    "Employer Reputation": "56"
+  },
+  {
+    "World Rank": "=345",
+    "University name": "Universitat Politecnica de Valencia",
+    "Overall Score": "64.9",
+    "International Research Network": "75.2",
+    "H-Index citations": "61.4",
+    "Citations per paper": "80.9",
+    "Academic reputation": "60.5",
+    "Employer Reputation": "59"
+  },
+  {
+    "World Rank": "=345",
+    "University name": "University of Houston",
+    "Overall Score": "64.9",
+    "International Research Network": "76.3",
+    "H-Index citations": "71.6",
+    "Citations per paper": "86.3",
+    "Academic reputation": "56.1",
+    "Employer Reputation": "55.7"
+  },
+  {
+    "World Rank": "=348",
+    "University name": "Swinburne University of Technology",
+    "Overall Score": "64.8",
+    "International Research Network": "69.1",
+    "H-Index citations": "68.6",
+    "Citations per paper": "90.1",
+    "Academic reputation": "55.7",
+    "Employer Reputation": "59.2"
+  },
+  {
+    "World Rank": "=348",
+    "University name": "The University of Newcastle, Australia (UON)",
+    "Overall Score": "64.8",
+    "International Research Network": "73",
+    "H-Index citations": "55.9",
+    "Citations per paper": "73.5",
+    "Academic reputation": "61.3",
+    "Employer Reputation": "67.7"
+  },
+  {
+    "World Rank": "=348",
+    "University name": "Universit\u00e4t Jena",
+    "Overall Score": "64.8",
+    "International Research Network": "77.8",
+    "H-Index citations": "69",
+    "Citations per paper": "85.4",
+    "Academic reputation": "61.3",
+    "Employer Reputation": "46.8"
+  },
+  {
+    "World Rank": "=351",
+    "University name": "COMSATS University Islamabad",
+    "Overall Score": "64.7",
+    "International Research Network": "81.8",
+    "H-Index citations": "60.8",
+    "Citations per paper": "79",
+    "Academic reputation": "59.2",
+    "Employer Reputation": "59.5"
+  },
+  {
+    "World Rank": "=351",
+    "University name": "Tokyo University of Science",
+    "Overall Score": "64.7",
+    "International Research Network": "51.5",
+    "H-Index citations": "57.9",
+    "Citations per paper": "74.9",
+    "Academic reputation": "65.4",
+    "Employer Reputation": "67.2"
+  },
+  {
+    "World Rank": "=351",
+    "University name": "University of Aberdeen",
+    "Overall Score": "64.7",
+    "International Research Network": "68.2",
+    "H-Index citations": "61.4",
+    "Citations per paper": "73.8",
+    "Academic reputation": "63.8",
+    "Employer Reputation": "60.3"
+  },
+  {
+    "World Rank": "=351",
+    "University name": "Universit\u00e4t Bremen",
+    "Overall Score": "64.7",
+    "International Research Network": "73.6",
+    "H-Index citations": "66.6",
+    "Citations per paper": "80.7",
+    "Academic reputation": "64",
+    "Employer Reputation": "48.3"
+  },
+  {
+    "World Rank": "=351",
+    "University name": "Universit\u00e9 de Lille",
+    "Overall Score": "64.7",
+    "International Research Network": "75.3",
+    "H-Index citations": "61.4",
+    "Citations per paper": "77.7",
+    "Academic reputation": "65.5",
+    "Employer Reputation": "50.3"
+  },
+  {
+    "World Rank": "=351",
+    "University name": "Western University",
+    "Overall Score": "64.7",
+    "International Research Network": "64",
+    "H-Index citations": "59.1",
+    "Citations per paper": "80.6",
+    "Academic reputation": "60.4",
+    "Employer Reputation": "65.8"
+  },
+  {
+    "World Rank": "=357",
+    "University name": "University of East Anglia (UEA)",
+    "Overall Score": "64.6",
+    "International Research Network": "67.2",
+    "H-Index citations": "72.3",
+    "Citations per paper": "73.6",
+    "Academic reputation": "62.2",
+    "Employer Reputation": "55.6"
+  },
+  {
+    "World Rank": "=357",
+    "University name": "University of the Basque Country",
+    "Overall Score": "64.6",
+    "International Research Network": "83.3",
+    "H-Index citations": "69.4",
+    "Citations per paper": "88",
+    "Academic reputation": "57",
+    "Employer Reputation": "49.3"
+  },
+  {
+    "World Rank": "=357",
+    "University name": "Ural Federal University - UrFU",
+    "Overall Score": "64.6",
+    "International Research Network": "71.7",
+    "H-Index citations": "45.9",
+    "Citations per paper": "59.1",
+    "Academic reputation": "66.5",
+    "Employer Reputation": "75.5"
+  },
+  {
+    "World Rank": "360",
+    "University name": "University of Witwatersrand",
+    "Overall Score": "64.5",
+    "International Research Network": "80.9",
+    "H-Index citations": "72.3",
+    "Citations per paper": "73",
+    "Academic reputation": "60",
+    "Employer Reputation": "53"
+  },
+  {
+    "World Rank": "=361",
+    "University name": "Beijing Institute of Technology",
+    "Overall Score": "64.4",
+    "International Research Network": "45.7",
+    "H-Index citations": "62.4",
+    "Citations per paper": "77.5",
+    "Academic reputation": "64.9",
+    "Employer Reputation": "64.2"
+  },
+  {
+    "World Rank": "=361",
+    "University name": "University of Coimbra",
+    "Overall Score": "64.4",
+    "International Research Network": "65.6",
+    "H-Index citations": "74.2",
+    "Citations per paper": "82.9",
+    "Academic reputation": "58.6",
+    "Employer Reputation": "54"
+  },
+  {
+    "World Rank": "=363",
+    "University name": "Indian Institute of Technology Roorkee (IITR)",
+    "Overall Score": "64.3",
+    "International Research Network": "62.9",
+    "H-Index citations": "54.5",
+    "Citations per paper": "77.2",
+    "Academic reputation": "67.3",
+    "Employer Reputation": "56.5"
+  },
+  {
+    "World Rank": "=363",
+    "University name": "Simon Fraser University",
+    "Overall Score": "64.3",
+    "International Research Network": "54.6",
+    "H-Index citations": "70.9",
+    "Citations per paper": "72.9",
+    "Academic reputation": "63",
+    "Employer Reputation": "60.4"
+  },
+  {
+    "World Rank": "=363",
+    "University name": "University of Trieste",
+    "Overall Score": "64.3",
+    "International Research Network": "76.5",
+    "H-Index citations": "72.9",
+    "Citations per paper": "80.8",
+    "Academic reputation": "58.6",
+    "Employer Reputation": "51"
+  },
+  {
+    "World Rank": "=363",
+    "University name": "Vanderbilt University",
+    "Overall Score": "64.3",
+    "International Research Network": "72",
+    "H-Index citations": "72.9",
+    "Citations per paper": "82.9",
+    "Academic reputation": "54.5",
+    "Employer Reputation": "59.5"
+  },
+  {
+    "World Rank": "367",
+    "University name": "National and Kapodistrian University of Athens",
+    "Overall Score": "64.2",
+    "International Research Network": "74.9",
+    "H-Index citations": "76.8",
+    "Citations per paper": "73.7",
+    "Academic reputation": "56.7",
+    "Employer Reputation": "57.2"
+  },
+  {
+    "World Rank": "368",
+    "University name": "International School for Advanced Studies of Trieste",
+    "Overall Score": "64.1",
+    "International Research Network": "49.8",
+    "H-Index citations": "73.6",
+    "Citations per paper": "85",
+    "Academic reputation": "65.3",
+    "Employer Reputation": "45.9"
+  },
+  {
+    "World Rank": "=369",
+    "University name": "Colorado School of Mines",
+    "Overall Score": "64",
+    "International Research Network": "63.6",
+    "H-Index citations": "58.5",
+    "Citations per paper": "76.2",
+    "Academic reputation": "63.9",
+    "Employer Reputation": "59.4"
+  },
+  {
+    "World Rank": "=369",
+    "University name": "Shandong University",
+    "Overall Score": "64",
+    "International Research Network": "59.8",
+    "H-Index citations": "75.4",
+    "Citations per paper": "81.8",
+    "Academic reputation": "59.2",
+    "Employer Reputation": "53.6"
+  },
+  {
+    "World Rank": "=369",
+    "University name": "Tampere University",
+    "Overall Score": "64",
+    "International Research Network": "73.3",
+    "H-Index citations": "75.4",
+    "Citations per paper": "82.7",
+    "Academic reputation": "53.8",
+    "Employer Reputation": "57.3"
+  },
+  {
+    "World Rank": "=372",
+    "University name": "Bandung Institute of Technology (ITB)",
+    "Overall Score": "63.9",
+    "International Research Network": "38.8",
+    "H-Index citations": "42.5",
+    "Citations per paper": "54",
+    "Academic reputation": "71.2",
+    "Employer Reputation": "85.4"
+  },
+  {
+    "World Rank": "=372",
+    "University name": "Shanghai University",
+    "Overall Score": "63.9",
+    "International Research Network": "56.7",
+    "H-Index citations": "64.4",
+    "Citations per paper": "79.3",
+    "Academic reputation": "63.5",
+    "Employer Reputation": "56.4"
+  },
+  {
+    "World Rank": "=372",
+    "University name": "Taras Shevchenko National University of Kyiv",
+    "Overall Score": "63.9",
+    "International Research Network": "67.1",
+    "H-Index citations": "54.5",
+    "Citations per paper": "65.6",
+    "Academic reputation": "62.6",
+    "Employer Reputation": "70.9"
+  },
+  {
+    "World Rank": "=375",
+    "University name": "Julius-Maximilians-Universit\u00e4t W\u00fcrzburg",
+    "Overall Score": "63.8",
+    "International Research Network": "70.9",
+    "H-Index citations": "74.2",
+    "Citations per paper": "86.7",
+    "Academic reputation": "61",
+    "Employer Reputation": "40.7"
+  },
+  {
+    "World Rank": "=375",
+    "University name": "Universit\u00e9 de Li\u00e8ge",
+    "Overall Score": "63.8",
+    "International Research Network": "73",
+    "H-Index citations": "61.9",
+    "Citations per paper": "78.6",
+    "Academic reputation": "61.4",
+    "Employer Reputation": "54.5"
+  },
+  {
+    "World Rank": "=377",
+    "University name": "Kobe University",
+    "Overall Score": "63.7",
+    "International Research Network": "64",
+    "H-Index citations": "70.9",
+    "Citations per paper": "73.2",
+    "Academic reputation": "59.1",
+    "Employer Reputation": "60"
+  },
+  {
+    "World Rank": "=377",
+    "University name": "University of Genoa",
+    "Overall Score": "63.7",
+    "International Research Network": "71.7",
+    "H-Index citations": "80.8",
+    "Citations per paper": "80.3",
+    "Academic reputation": "55.1",
+    "Employer Reputation": "51.7"
+  },
+  {
+    "World Rank": "=377",
+    "University name": "University of Gothenburg",
+    "Overall Score": "63.7",
+    "International Research Network": "68.1",
+    "H-Index citations": "63.4",
+    "Citations per paper": "77.1",
+    "Academic reputation": "62",
+    "Employer Reputation": "54.9"
+  },
+  {
+    "World Rank": "=377",
+    "University name": "University of Iowa",
+    "Overall Score": "63.7",
+    "International Research Network": "72.2",
+    "H-Index citations": "77.6",
+    "Citations per paper": "80.6",
+    "Academic reputation": "54.6",
+    "Employer Reputation": "54.5"
+  },
+  {
+    "World Rank": "=381",
+    "University name": "Kyung Hee University",
+    "Overall Score": "63.6",
+    "International Research Network": "74.3",
+    "H-Index citations": "57.3",
+    "Citations per paper": "80.7",
+    "Academic reputation": "59.5",
+    "Employer Reputation": "58.2"
+  },
+  {
+    "World Rank": "=381",
+    "University name": "University of Science and Technology Beijing",
+    "Overall Score": "63.6",
+    "International Research Network": "53",
+    "H-Index citations": "60.3",
+    "Citations per paper": "76.6",
+    "Academic reputation": "66.8",
+    "Employer Reputation": "55.1"
+  },
+  {
+    "World Rank": "=381",
+    "University name": "Universit\u00e4t Potsdam",
+    "Overall Score": "63.6",
+    "International Research Network": "80.7",
+    "H-Index citations": "63.4",
+    "Citations per paper": "78.4",
+    "Academic reputation": "65.5",
+    "Employer Reputation": "40.1"
+  },
+  {
+    "World Rank": "=384",
+    "University name": "Belarusian State University",
+    "Overall Score": "63.5",
+    "International Research Network": "73.6",
+    "H-Index citations": "76",
+    "Citations per paper": "49",
+    "Academic reputation": "61.3",
+    "Employer Reputation": "64.3"
+  },
+  {
+    "World Rank": "=384",
+    "University name": "Jeonbuk National University",
+    "Overall Score": "63.5",
+    "International Research Network": "61.8",
+    "H-Index citations": "69.8",
+    "Citations per paper": "75.4",
+    "Academic reputation": "57.8",
+    "Employer Reputation": "61.9"
+  },
+  {
+    "World Rank": "=384",
+    "University name": "Link\u00f6ping University",
+    "Overall Score": "63.5",
+    "International Research Network": "75.1",
+    "H-Index citations": "57.3",
+    "Citations per paper": "81.8",
+    "Academic reputation": "58.9",
+    "Employer Reputation": "57.7"
+  },
+  {
+    "World Rank": "=387",
+    "University name": "Bauman Moscow State Technical University",
+    "Overall Score": "63.4",
+    "International Research Network": "40.3",
+    "H-Index citations": "40",
+    "Citations per paper": "48.5",
+    "Academic reputation": "70.5",
+    "Employer Reputation": "89.4"
+  },
+  {
+    "World Rank": "=387",
+    "University name": "National University of Sciences And Technology (NUST) Islamabad",
+    "Overall Score": "63.4",
+    "International Research Network": "59.2",
+    "H-Index citations": "48.9",
+    "Citations per paper": "64",
+    "Academic reputation": "65.4",
+    "Employer Reputation": "71.9"
+  },
+  {
+    "World Rank": "=389",
+    "University name": "Tongji University",
+    "Overall Score": "63.3",
+    "International Research Network": "55.3",
+    "H-Index citations": "66.2",
+    "Citations per paper": "79.2",
+    "Academic reputation": "62.6",
+    "Employer Reputation": "54.6"
+  },
+  {
+    "World Rank": "=389",
+    "University name": "Universidad de Zaragoza",
+    "Overall Score": "63.3",
+    "International Research Network": "72.5",
+    "H-Index citations": "62.4",
+    "Citations per paper": "82",
+    "Academic reputation": "59.4",
+    "Employer Reputation": "53.3"
+  },
+  {
+    "World Rank": "=391",
+    "University name": "Ewha Womans University",
+    "Overall Score": "63.2",
+    "International Research Network": "53.6",
+    "H-Index citations": "65.3",
+    "Citations per paper": "80.4",
+    "Academic reputation": "61.3",
+    "Employer Reputation": "57.3"
+  },
+  {
+    "World Rank": "=391",
+    "University name": "Indian Institute of Technology Guwahati (IITG)",
+    "Overall Score": "63.2",
+    "International Research Network": "53.2",
+    "H-Index citations": "61.9",
+    "Citations per paper": "79.3",
+    "Academic reputation": "64.4",
+    "Employer Reputation": "54.5"
+  },
+  {
+    "World Rank": "=391",
+    "University name": "University of Bari",
+    "Overall Score": "63.2",
+    "International Research Network": "77.5",
+    "H-Index citations": "75.1",
+    "Citations per paper": "76.9",
+    "Academic reputation": "55.3",
+    "Employer Reputation": "52.6"
+  },
+  {
+    "World Rank": "=391",
+    "University name": "University of Lausanne",
+    "Overall Score": "63.2",
+    "International Research Network": "68.7",
+    "H-Index citations": "60.3",
+    "Citations per paper": "73.2",
+    "Academic reputation": "62.3",
+    "Employer Reputation": "57"
+  },
+  {
+    "World Rank": "=391",
+    "University name": "University of New Mexico",
+    "Overall Score": "63.2",
+    "International Research Network": "68.3",
+    "H-Index citations": "72.9",
+    "Citations per paper": "80.9",
+    "Academic reputation": "56",
+    "Employer Reputation": "54.4"
+  },
+  {
+    "World Rank": "=396",
+    "University name": "Keio University",
+    "Overall Score": "63.1",
+    "International Research Network": "49.1",
+    "H-Index citations": "59.1",
+    "Citations per paper": "75.2",
+    "Academic reputation": "60.7",
+    "Employer Reputation": "68.7"
+  },
+  {
+    "World Rank": "=396",
+    "University name": "Universidad de Concepci\u00f3n",
+    "Overall Score": "63.1",
+    "International Research Network": "64.1",
+    "H-Index citations": "52.3",
+    "Citations per paper": "71.1",
+    "Academic reputation": "67",
+    "Employer Reputation": "57.1"
+  },
+  {
+    "World Rank": "=396",
+    "University name": "University of Central Florida",
+    "Overall Score": "63.1",
+    "International Research Network": "69.1",
+    "H-Index citations": "61.4",
+    "Citations per paper": "82",
+    "Academic reputation": "58.5",
+    "Employer Reputation": "56.6"
+  },
+  {
+    "World Rank": "=396",
+    "University name": "Universit\u00e9 Laval",
+    "Overall Score": "63.1",
+    "International Research Network": "68.1",
+    "H-Index citations": "59.7",
+    "Citations per paper": "77.2",
+    "Academic reputation": "60",
+    "Employer Reputation": "59"
+  },
+  {
+    "World Rank": "400",
+    "University name": "University of Kansas",
+    "Overall Score": "63",
+    "International Research Network": "70.2",
+    "H-Index citations": "72.9",
+    "Citations per paper": "78.3",
+    "Academic reputation": "52.5",
+    "Employer Reputation": "61.4"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "AGH University of Science and Technology",
+    "Overall Score": "-",
+    "International Research Network": "72.6",
+    "H-Index citations": "74.5",
+    "Citations per paper": "72.9",
+    "Academic reputation": "58.3",
+    "Employer Reputation": "50.7"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Ain Shams University",
+    "Overall Score": "-",
+    "International Research Network": "68.3",
+    "H-Index citations": "66.6",
+    "Citations per paper": "63.6",
+    "Academic reputation": "55.6",
+    "Employer Reputation": "69"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Bogazi\u00e7i \u00dcniversitesi",
+    "Overall Score": "-",
+    "International Research Network": "49.2",
+    "H-Index citations": "75.7",
+    "Citations per paper": "60.3",
+    "Academic reputation": "58.7",
+    "Employer Reputation": "68.2"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Budapest University of Technology and Economics",
+    "Overall Score": "-",
+    "International Research Network": "67.9",
+    "H-Index citations": "52.3",
+    "Citations per paper": "70",
+    "Academic reputation": "60.6",
+    "Employer Reputation": "67.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Case Western Reserve University",
+    "Overall Score": "-",
+    "International Research Network": "63.8",
+    "H-Index citations": "61.9",
+    "Citations per paper": "85.5",
+    "Academic reputation": "56.2",
+    "Employer Reputation": "59.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Catania University",
+    "Overall Score": "-",
+    "International Research Network": "75.3",
+    "H-Index citations": "73.6",
+    "Citations per paper": "74.2",
+    "Academic reputation": "56.7",
+    "Employer Reputation": "45.6"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Dalhousie University",
+    "Overall Score": "-",
+    "International Research Network": "60.8",
+    "H-Index citations": "61.9",
+    "Citations per paper": "76.7",
+    "Academic reputation": "61.2",
+    "Employer Reputation": "54.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "East China Normal University",
+    "Overall Score": "-",
+    "International Research Network": "48.7",
+    "H-Index citations": "70.5",
+    "Citations per paper": "85.7",
+    "Academic reputation": "58.1",
+    "Employer Reputation": "48.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Florida International University",
+    "Overall Score": "-",
+    "International Research Network": "71.9",
+    "H-Index citations": "73.6",
+    "Citations per paper": "73.3",
+    "Academic reputation": "54.3",
+    "Employer Reputation": "56.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Gwangju Institute of Science and Technology (GIST)",
+    "Overall Score": "-",
+    "International Research Network": "47.2",
+    "H-Index citations": "51.5",
+    "Citations per paper": "72.5",
+    "Academic reputation": "70",
+    "Employer Reputation": "55.8"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Hacettepe University",
+    "Overall Score": "-",
+    "International Research Network": "61.4",
+    "H-Index citations": "63.4",
+    "Citations per paper": "60.1",
+    "Academic reputation": "60.3",
+    "Employer Reputation": "62"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Institut National des Sciences Appliqu\u00e9es de Lyon (INSA)",
+    "Overall Score": "-",
+    "International Research Network": "73.8",
+    "H-Index citations": "53.1",
+    "Citations per paper": "74.9",
+    "Academic reputation": "55.6",
+    "Employer Reputation": "65.5"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "James Cook University",
+    "Overall Score": "-",
+    "International Research Network": "60.6",
+    "H-Index citations": "57.3",
+    "Citations per paper": "71.5",
+    "Academic reputation": "64",
+    "Employer Reputation": "56.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Loughborough University",
+    "Overall Score": "-",
+    "International Research Network": "69.5",
+    "H-Index citations": "54.5",
+    "Citations per paper": "71.4",
+    "Academic reputation": "56",
+    "Employer Reputation": "68.2"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Louisiana State University",
+    "Overall Score": "-",
+    "International Research Network": "65.6",
+    "H-Index citations": "70.5",
+    "Citations per paper": "84",
+    "Academic reputation": "53",
+    "Employer Reputation": "54.5"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "National Sun Yat-sen University",
+    "Overall Score": "-",
+    "International Research Network": "44",
+    "H-Index citations": "50.6",
+    "Citations per paper": "67.5",
+    "Academic reputation": "65.8",
+    "Employer Reputation": "65"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "National University of Ireland Galway",
+    "Overall Score": "-",
+    "International Research Network": "69.5",
+    "H-Index citations": "49.8",
+    "Citations per paper": "66",
+    "Academic reputation": "59.5",
+    "Employer Reputation": "70"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Palack\u00fd University Olomouc",
+    "Overall Score": "-",
+    "International Research Network": "65",
+    "H-Index citations": "71.9",
+    "Citations per paper": "76.7",
+    "Academic reputation": "54.4",
+    "Employer Reputation": "53.3"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "South China University of Technology",
+    "Overall Score": "-",
+    "International Research Network": "45.8",
+    "H-Index citations": "70.9",
+    "Citations per paper": "84.3",
+    "Academic reputation": "59.7",
+    "Employer Reputation": "47.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Texas Tech University",
+    "Overall Score": "-",
+    "International Research Network": "68.6",
+    "H-Index citations": "74.2",
+    "Citations per paper": "74",
+    "Academic reputation": "56",
+    "Employer Reputation": "54.3"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Tianjin University",
+    "Overall Score": "-",
+    "International Research Network": "55.2",
+    "H-Index citations": "70.9",
+    "Citations per paper": "81",
+    "Academic reputation": "62.3",
+    "Employer Reputation": "45.8"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Universidad T\u00e9cnica Federico Santa Mar\u00eda (USM)",
+    "Overall Score": "-",
+    "International Research Network": "61.7",
+    "H-Index citations": "71.2",
+    "Citations per paper": "65.6",
+    "Academic reputation": "58.9",
+    "Employer Reputation": "55"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Universidad de Sevilla",
+    "Overall Score": "-",
+    "International Research Network": "72.2",
+    "H-Index citations": "52.3",
+    "Citations per paper": "75",
+    "Academic reputation": "61.1",
+    "Employer Reputation": "55.9"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Universidade Federal de Minas Gerais",
+    "Overall Score": "-",
+    "International Research Network": "50.4",
+    "H-Index citations": "51.5",
+    "Citations per paper": "73",
+    "Academic reputation": "65.6",
+    "Employer Reputation": "60"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Universidade Federal do Rio Grande Do Sul",
+    "Overall Score": "-",
+    "International Research Network": "65.2",
+    "H-Index citations": "59.7",
+    "Citations per paper": "75.7",
+    "Academic reputation": "62.3",
+    "Employer Reputation": "48.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Universidade Nova de Lisboa",
+    "Overall Score": "-",
+    "International Research Network": "66.9",
+    "H-Index citations": "67.9",
+    "Citations per paper": "78.1",
+    "Academic reputation": "53.9",
+    "Employer Reputation": "55.2"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University at Buffalo SUNY",
+    "Overall Score": "-",
+    "International Research Network": "58.7",
+    "H-Index citations": "72.6",
+    "Citations per paper": "82.5",
+    "Academic reputation": "55.5",
+    "Employer Reputation": "53.4"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Aveiro",
+    "Overall Score": "-",
+    "International Research Network": "85.8",
+    "H-Index citations": "67.9",
+    "Citations per paper": "81.7",
+    "Academic reputation": "56.9",
+    "Employer Reputation": "43.8"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Belgrade",
+    "Overall Score": "-",
+    "International Research Network": "89.7",
+    "H-Index citations": "78.9",
+    "Citations per paper": "72.8",
+    "Academic reputation": "55.4",
+    "Employer Reputation": "44.2"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Cincinnati",
+    "Overall Score": "-",
+    "International Research Network": "62.2",
+    "H-Index citations": "74.2",
+    "Citations per paper": "86.9",
+    "Academic reputation": "54",
+    "Employer Reputation": "53.4"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Connecticut",
+    "Overall Score": "-",
+    "International Research Network": "67.2",
+    "H-Index citations": "66.6",
+    "Citations per paper": "86.5",
+    "Academic reputation": "54",
+    "Employer Reputation": "51.4"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Delaware",
+    "Overall Score": "-",
+    "International Research Network": "71.5",
+    "H-Index citations": "69.8",
+    "Citations per paper": "86.6",
+    "Academic reputation": "53.6",
+    "Employer Reputation": "54.4"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Jyv\u00e4skyl\u00e4",
+    "Overall Score": "-",
+    "International Research Network": "66.5",
+    "H-Index citations": "78.1",
+    "Citations per paper": "84.4",
+    "Academic reputation": "54.5",
+    "Employer Reputation": "49.5"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Leicester",
+    "Overall Score": "-",
+    "International Research Network": "75.4",
+    "H-Index citations": "65.7",
+    "Citations per paper": "78.9",
+    "Academic reputation": "55.5",
+    "Employer Reputation": "55.4"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Nebraska - Lincoln",
+    "Overall Score": "-",
+    "International Research Network": "62.1",
+    "H-Index citations": "75.4",
+    "Citations per paper": "84.6",
+    "Academic reputation": "51.1",
+    "Employer Reputation": "54.3"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Oklahoma",
+    "Overall Score": "-",
+    "International Research Network": "64.6",
+    "H-Index citations": "74.8",
+    "Citations per paper": "83.1",
+    "Academic reputation": "49.3",
+    "Employer Reputation": "58.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Oregon",
+    "Overall Score": "-",
+    "International Research Network": "50.2",
+    "H-Index citations": "76",
+    "Citations per paper": "77.6",
+    "Academic reputation": "59.1",
+    "Employer Reputation": "55.9"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of South Carolina",
+    "Overall Score": "-",
+    "International Research Network": "65.9",
+    "H-Index citations": "71.6",
+    "Citations per paper": "82.6",
+    "Academic reputation": "52",
+    "Employer Reputation": "55"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Surrey",
+    "Overall Score": "-",
+    "International Research Network": "75.6",
+    "H-Index citations": "56.6",
+    "Citations per paper": "77",
+    "Academic reputation": "53.5",
+    "Employer Reputation": "62.6"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Sussex",
+    "Overall Score": "-",
+    "International Research Network": "69.6",
+    "H-Index citations": "76.5",
+    "Citations per paper": "84.5",
+    "Academic reputation": "54.7",
+    "Employer Reputation": "48.3"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Tartu",
+    "Overall Score": "-",
+    "International Research Network": "67.4",
+    "H-Index citations": "60.8",
+    "Citations per paper": "70.9",
+    "Academic reputation": "58.2",
+    "Employer Reputation": "58.3"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Tehran",
+    "Overall Score": "-",
+    "International Research Network": "74.4",
+    "H-Index citations": "66.2",
+    "Citations per paper": "76.8",
+    "Academic reputation": "60.1",
+    "Employer Reputation": "46.3"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of Texas Dallas",
+    "Overall Score": "-",
+    "International Research Network": "59.7",
+    "H-Index citations": "73.6",
+    "Citations per paper": "82.4",
+    "Academic reputation": "55.1",
+    "Employer Reputation": "57.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "University of the Punjab",
+    "Overall Score": "-",
+    "International Research Network": "52.8",
+    "H-Index citations": "52.3",
+    "Citations per paper": "65.9",
+    "Academic reputation": "63.3",
+    "Employer Reputation": "68.8"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Universit\u00e0 degli studi Roma Tre",
+    "Overall Score": "-",
+    "International Research Network": "69.6",
+    "H-Index citations": "72.6",
+    "Citations per paper": "73.5",
+    "Academic reputation": "56.9",
+    "Employer Reputation": "53"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Universit\u00e4t Leipzig",
+    "Overall Score": "-",
+    "International Research Network": "72.1",
+    "H-Index citations": "60.8",
+    "Citations per paper": "77.1",
+    "Academic reputation": "61.8",
+    "Employer Reputation": "45.2"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Universit\u00e9 de Lorraine",
+    "Overall Score": "-",
+    "International Research Network": "94.4",
+    "H-Index citations": "61.9",
+    "Citations per paper": "76.8",
+    "Academic reputation": "60",
+    "Employer Reputation": "43.1"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Nantes University",
+    "Overall Score": "-",
+    "International Research Network": "80.1",
+    "H-Index citations": "72.6",
+    "Citations per paper": "84.1",
+    "Academic reputation": "52.7",
+    "Employer Reputation": "44.7"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Universit\u00e9 du Qu\u00e9bec",
+    "Overall Score": "-",
+    "International Research Network": "72",
+    "H-Index citations": "61.4",
+    "Citations per paper": "79.1",
+    "Academic reputation": "57.5",
+    "Employer Reputation": "57.2"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Vietnam National University, Hanoi",
+    "Overall Score": "-",
+    "International Research Network": "55.3",
+    "H-Index citations": "60.3",
+    "Citations per paper": "57.5",
+    "Academic reputation": "62.1",
+    "Employer Reputation": "71.2"
+  },
+  {
+    "World Rank": "401-450",
+    "University name": "Vilnius University",
+    "Overall Score": "-",
+    "International Research Network": "67.3",
+    "H-Index citations": "70.9",
+    "Citations per paper": "63.4",
+    "Academic reputation": "57.3",
+    "Employer Reputation": "65.1"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Al-Farabi Kazakh National University",
+    "Overall Score": "-",
+    "International Research Network": "52.4",
+    "H-Index citations": "37.1",
+    "Citations per paper": "42.5",
+    "Academic reputation": "70.8",
+    "Employer Reputation": "76"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Babes-Bolyai University",
+    "Overall Score": "-",
+    "International Research Network": "71.7",
+    "H-Index citations": "50.6",
+    "Citations per paper": "63.6",
+    "Academic reputation": "58.6",
+    "Employer Reputation": "58.2"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Bilkent University",
+    "Overall Score": "-",
+    "International Research Network": "48.7",
+    "H-Index citations": "45.9",
+    "Citations per paper": "66.3",
+    "Academic reputation": "61.3",
+    "Employer Reputation": "67.7"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "College of William and Mary",
+    "Overall Score": "-",
+    "International Research Network": "60.3",
+    "H-Index citations": "72.3",
+    "Citations per paper": "75.9",
+    "Academic reputation": "52.7",
+    "Employer Reputation": "54.5"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Deakin University",
+    "Overall Score": "-",
+    "International Research Network": "61.1",
+    "H-Index citations": "51.5",
+    "Citations per paper": "80.8",
+    "Academic reputation": "53.1",
+    "Employer Reputation": "61.9"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "East China University of Science and Technology",
+    "Overall Score": "-",
+    "International Research Network": "49.3",
+    "H-Index citations": "70.2",
+    "Citations per paper": "83.5",
+    "Academic reputation": "56.5",
+    "Employer Reputation": "46.6"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Emory University",
+    "Overall Score": "-",
+    "International Research Network": "61.2",
+    "H-Index citations": "61.9",
+    "Citations per paper": "79.2",
+    "Academic reputation": "56.1",
+    "Employer Reputation": "54"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Gadjah Mada University",
+    "Overall Score": "-",
+    "International Research Network": "27.7",
+    "H-Index citations": "40",
+    "Citations per paper": "44.6",
+    "Academic reputation": "67.5",
+    "Employer Reputation": "85.2"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "George Washington University",
+    "Overall Score": "-",
+    "International Research Network": "70.6",
+    "H-Index citations": "60.3",
+    "Citations per paper": "71.9",
+    "Academic reputation": "53.1",
+    "Employer Reputation": "60.9"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Graz University of Technology",
+    "Overall Score": "-",
+    "International Research Network": "57.3",
+    "H-Index citations": "49.8",
+    "Citations per paper": "73.2",
+    "Academic reputation": "63.4",
+    "Employer Reputation": "49.2"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Justus-Liebig-University Giessen",
+    "Overall Score": "-",
+    "International Research Network": "75.3",
+    "H-Index citations": "72.9",
+    "Citations per paper": "79.5",
+    "Academic reputation": "52.5",
+    "Employer Reputation": "44.3"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Kansas State University",
+    "Overall Score": "-",
+    "International Research Network": "66.2",
+    "H-Index citations": "70.9",
+    "Citations per paper": "69.4",
+    "Academic reputation": "53.3",
+    "Employer Reputation": "58.3"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Karl-Franzens-Universitaet Graz",
+    "Overall Score": "-",
+    "International Research Network": "62.2",
+    "H-Index citations": "57.3",
+    "Citations per paper": "70.9",
+    "Academic reputation": "60.4",
+    "Employer Reputation": "52.2"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Lanzhou University",
+    "Overall Score": "-",
+    "International Research Network": "52.5",
+    "H-Index citations": "71.9",
+    "Citations per paper": "86.8",
+    "Academic reputation": "61.4",
+    "Employer Reputation": "31.6"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Mahidol University",
+    "Overall Score": "-",
+    "International Research Network": "45.1",
+    "H-Index citations": "44.8",
+    "Citations per paper": "61.7",
+    "Academic reputation": "66.3",
+    "Employer Reputation": "63.8"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Masaryk University",
+    "Overall Score": "-",
+    "International Research Network": "62.6",
+    "H-Index citations": "54.5",
+    "Citations per paper": "71.9",
+    "Academic reputation": "58",
+    "Employer Reputation": "57.8"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Massey University",
+    "Overall Score": "-",
+    "International Research Network": "68.1",
+    "H-Index citations": "48.9",
+    "Citations per paper": "61",
+    "Academic reputation": "59.3",
+    "Employer Reputation": "66.8"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "National Taiwan University of Science and Technology (Taiwan Tech)",
+    "Overall Score": "-",
+    "International Research Network": "48.4",
+    "H-Index citations": "33.8",
+    "Citations per paper": "66.7",
+    "Academic reputation": "64.8",
+    "Employer Reputation": "67.4"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro",
+    "Overall Score": "-",
+    "International Research Network": "49.1",
+    "H-Index citations": "62.9",
+    "Citations per paper": "64.5",
+    "Academic reputation": "59",
+    "Employer Reputation": "58.1"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Rensselaer Polytechnic Institute",
+    "Overall Score": "-",
+    "International Research Network": "56.4",
+    "H-Index citations": "62.9",
+    "Citations per paper": "80",
+    "Academic reputation": "55.5",
+    "Employer Reputation": "53.3"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Sejong University",
+    "Overall Score": "-",
+    "International Research Network": "64.2",
+    "H-Index citations": "65.3",
+    "Citations per paper": "75.5",
+    "Academic reputation": "55.3",
+    "Employer Reputation": "53.2"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Sharif University of Technology",
+    "Overall Score": "-",
+    "International Research Network": "63",
+    "H-Index citations": "53.1",
+    "Citations per paper": "76.6",
+    "Academic reputation": "61.4",
+    "Employer Reputation": "48.8"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Stellenbosch University",
+    "Overall Score": "-",
+    "International Research Network": "63",
+    "H-Index citations": "55.3",
+    "Citations per paper": "69.3",
+    "Academic reputation": "57.8",
+    "Employer Reputation": "54.5"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Syracuse University",
+    "Overall Score": "-",
+    "International Research Network": "63.4",
+    "H-Index citations": "75.4",
+    "Citations per paper": "80.7",
+    "Academic reputation": "49.5",
+    "Employer Reputation": "52.6"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "The Scripps Research Institute (TSRI)",
+    "Overall Score": "-",
+    "International Research Network": "40.3",
+    "H-Index citations": "55.9",
+    "Citations per paper": "73.5",
+    "Academic reputation": "71.4",
+    "Employer Reputation": "45"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "The University of Alabama",
+    "Overall Score": "-",
+    "International Research Network": "67.3",
+    "H-Index citations": "72.9",
+    "Citations per paper": "74.9",
+    "Academic reputation": "46.9",
+    "Employer Reputation": "57.1"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "The University of Georgia",
+    "Overall Score": "-",
+    "International Research Network": "59.4",
+    "H-Index citations": "60.3",
+    "Citations per paper": "76",
+    "Academic reputation": "57.6",
+    "Employer Reputation": "58.3"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Tokyo Metropolitan University",
+    "Overall Score": "-",
+    "International Research Network": "56.8",
+    "H-Index citations": "71.2",
+    "Citations per paper": "70.1",
+    "Academic reputation": "55.3",
+    "Employer Reputation": "50.3"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Tufts University",
+    "Overall Score": "-",
+    "International Research Network": "49.8",
+    "H-Index citations": "72.3",
+    "Citations per paper": "73.7",
+    "Academic reputation": "54.5",
+    "Employer Reputation": "53.1"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Universidad de Santiago de Chile (USACH)",
+    "Overall Score": "-",
+    "International Research Network": "53.8",
+    "H-Index citations": "46.9",
+    "Citations per paper": "59.5",
+    "Academic reputation": "64.4",
+    "Employer Reputation": "61.2"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Universidade Federal de S\u00e3o Carlos (UFSCar)",
+    "Overall Score": "-",
+    "International Research Network": "53.5",
+    "H-Index citations": "52.3",
+    "Citations per paper": "70.2",
+    "Academic reputation": "63.5",
+    "Employer Reputation": "54.9"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University College Cork",
+    "Overall Score": "-",
+    "International Research Network": "60.7",
+    "H-Index citations": "55.3",
+    "Citations per paper": "69.9",
+    "Academic reputation": "56.1",
+    "Employer Reputation": "65.9"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Ulm University",
+    "Overall Score": "-",
+    "International Research Network": "58.1",
+    "H-Index citations": "63.9",
+    "Citations per paper": "79.1",
+    "Academic reputation": "59.2",
+    "Employer Reputation": "49.1"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Bayreuth",
+    "Overall Score": "-",
+    "International Research Network": "68.3",
+    "H-Index citations": "64.4",
+    "Citations per paper": "75.7",
+    "Academic reputation": "60.4",
+    "Employer Reputation": "44.3"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Bucharest",
+    "Overall Score": "-",
+    "International Research Network": "70",
+    "H-Index citations": "52.3",
+    "Citations per paper": "66.2",
+    "Academic reputation": "58.6",
+    "Employer Reputation": "61.5"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Debrecen",
+    "Overall Score": "-",
+    "International Research Network": "60.3",
+    "H-Index citations": "73.2",
+    "Citations per paper": "58.3",
+    "Academic reputation": "55",
+    "Employer Reputation": "59.4"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Guelph",
+    "Overall Score": "-",
+    "International Research Network": "59.2",
+    "H-Index citations": "58.5",
+    "Citations per paper": "72",
+    "Academic reputation": "52.6",
+    "Employer Reputation": "62.6"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Johannesburg",
+    "Overall Score": "-",
+    "International Research Network": "73.8",
+    "H-Index citations": "70.2",
+    "Citations per paper": "74.3",
+    "Academic reputation": "54.3",
+    "Employer Reputation": "47.4"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Kentucky",
+    "Overall Score": "-",
+    "International Research Network": "68",
+    "H-Index citations": "66.6",
+    "Citations per paper": "80.8",
+    "Academic reputation": "47.7",
+    "Employer Reputation": "58.6"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Kwazulu-Natal",
+    "Overall Score": "-",
+    "International Research Network": "75.1",
+    "H-Index citations": "63.4",
+    "Citations per paper": "76.4",
+    "Academic reputation": "52.3",
+    "Employer Reputation": "49.2"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Saskatchewan",
+    "Overall Score": "-",
+    "International Research Network": "63.4",
+    "H-Index citations": "66.2",
+    "Citations per paper": "78.3",
+    "Academic reputation": "56.9",
+    "Employer Reputation": "51.1"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of South Australia",
+    "Overall Score": "-",
+    "International Research Network": "61.5",
+    "H-Index citations": "52.3",
+    "Citations per paper": "71",
+    "Academic reputation": "54.6",
+    "Employer Reputation": "63"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Turku",
+    "Overall Score": "-",
+    "International Research Network": "72.2",
+    "H-Index citations": "57.9",
+    "Citations per paper": "74.9",
+    "Academic reputation": "56.6",
+    "Employer Reputation": "53.8"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Wroclaw",
+    "Overall Score": "-",
+    "International Research Network": "61",
+    "H-Index citations": "59.1",
+    "Citations per paper": "72.9",
+    "Academic reputation": "60.6",
+    "Employer Reputation": "50.3"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "University of Zagreb",
+    "Overall Score": "-",
+    "International Research Network": "72.7",
+    "H-Index citations": "64.8",
+    "Citations per paper": "75.8",
+    "Academic reputation": "51.2",
+    "Employer Reputation": "51"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Universit\u00e0 degli Studi di Perugia",
+    "Overall Score": "-",
+    "International Research Network": "64",
+    "H-Index citations": "78.4",
+    "Citations per paper": "84.3",
+    "Academic reputation": "51.6",
+    "Employer Reputation": "45.3"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Universit\u00e4t Duisburg-Essen",
+    "Overall Score": "-",
+    "International Research Network": "76.4",
+    "H-Index citations": "54.5",
+    "Citations per paper": "78.8",
+    "Academic reputation": "58.1",
+    "Employer Reputation": "40.8"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Universit\u00e4t Regensburg",
+    "Overall Score": "-",
+    "International Research Network": "59.8",
+    "H-Index citations": "67.9",
+    "Citations per paper": "85",
+    "Academic reputation": "57.5",
+    "Employer Reputation": "46.1"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Universit\u00e9 de Savoie, Chambery, Annecy",
+    "Overall Score": "-",
+    "International Research Network": "71.3",
+    "H-Index citations": "86.3",
+    "Citations per paper": "86.6",
+    "Academic reputation": "47.8",
+    "Employer Reputation": "34.2"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Wayne State University",
+    "Overall Score": "-",
+    "International Research Network": "67.2",
+    "H-Index citations": "74.2",
+    "Citations per paper": "77.3",
+    "Academic reputation": "52.3",
+    "Employer Reputation": "44.7"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "Wroclaw University of Science and Technology (WRUST)",
+    "Overall Score": "-",
+    "International Research Network": "72.6",
+    "H-Index citations": "52.3",
+    "Citations per paper": "70.2",
+    "Academic reputation": "60.9",
+    "Employer Reputation": "51.8"
+  },
+  {
+    "World Rank": "451-500",
+    "University name": "York University",
+    "Overall Score": "-",
+    "International Research Network": "59.3",
+    "H-Index citations": "71.6",
+    "Citations per paper": "72.4",
+    "Academic reputation": "51.5",
+    "Employer Reputation": "57.9"
+  }
+]
