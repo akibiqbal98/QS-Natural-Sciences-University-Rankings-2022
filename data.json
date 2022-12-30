@@ -2,6 +2,7 @@
   {
     "World Rank": "1",
     "University name": "Massachusetts Institute of Technology (MIT)",
+    "Location": "Cambridge, United States",
     "Overall Score": "96.4",
     "International Research Network": "91.1",
     "H-Index citations": "92.6",
@@ -12,6 +13,7 @@
   {
     "World Rank": "2",
     "University name": "Harvard University",
+    "Location": "Cambridge, United States",
     "Overall Score": "96.3",
     "International Research Network": "95",
     "H-Index citations": "89.5",
@@ -22,6 +24,7 @@
   {
     "World Rank": "3",
     "University name": "University of Cambridge",
+    "Location": "Cambridge, United Kingdom",
     "Overall Score": "95.8",
     "International Research Network": "91.9",
     "H-Index citations": "92.1",
@@ -32,6 +35,7 @@
   {
     "World Rank": "4",
     "University name": "University of Oxford",
+    "Location": "Oxford, United Kingdom",
     "Overall Score": "95.2",
     "International Research Network": "95.6",
     "H-Index citations": "86.9",
@@ -42,6 +46,7 @@
   {
     "World Rank": "5",
     "University name": "Stanford University",
+    "Location": "Stanford, United States",
     "Overall Score": "94",
     "International Research Network": "78.9",
     "H-Index citations": "92.1",
@@ -52,6 +57,7 @@
   {
     "World Rank": "6",
     "University name": "ETH Zurich",
+    "Location": "Z\u00fcrich, Switzerland",
     "Overall Score": "93.9",
     "International Research Network": "91",
     "H-Index citations": "86.9",
@@ -62,6 +68,7 @@
   {
     "World Rank": "7",
     "University name": "California Institute of Technology (Caltech)",
+    "Location": "Pasadena, United States",
     "Overall Score": "93.4",
     "International Research Network": "78.2",
     "H-Index citations": "90.1",
@@ -72,6 +79,7 @@
   {
     "World Rank": "8",
     "University name": "University of California, Berkeley (UCB)",
+    "Location": "Berkeley, United States",
     "Overall Score": "93.3",
     "International Research Network": "90.5",
     "H-Index citations": "87.4",
@@ -82,6 +90,7 @@
   {
     "World Rank": "9",
     "University name": "Imperial College London",
+    "Location": "London, United Kingdom",
     "Overall Score": "91.5",
     "International Research Network": "92.9",
     "H-Index citations": "85.4",
@@ -92,6 +101,7 @@
   {
     "World Rank": "10",
     "University name": "The University of Tokyo",
+    "Location": "Tokyo, Japan",
     "Overall Score": "90.1",
     "International Research Network": "85.6",
     "H-Index citations": "88.9",
@@ -102,6 +112,7 @@
   {
     "World Rank": "=11",
     "University name": "EPFL",
+    "Location": "Lausanne, Switzerland",
     "Overall Score": "88.7",
     "International Research Network": "77.6",
     "H-Index citations": "80.1",
@@ -112,6 +123,7 @@
   {
     "World Rank": "=11",
     "University name": "Princeton University",
+    "Location": "Princeton, United States",
     "Overall Score": "88.7",
     "International Research Network": "74.8",
     "H-Index citations": "87.9",
@@ -122,6 +134,7 @@
   {
     "World Rank": "13",
     "University name": "Nanyang Technological University, Singapore (NTU)",
+    "Location": "Singapore, Singapore",
     "Overall Score": "88.1",
     "International Research Network": "76.5",
     "H-Index citations": "85.2",
@@ -132,6 +145,7 @@
   {
     "World Rank": "14",
     "University name": "Sorbonne University",
+    "Location": "Paris, France",
     "Overall Score": "87.9",
     "International Research Network": "99.2",
     "H-Index citations": "96.3",
@@ -142,6 +156,7 @@
   {
     "World Rank": "15",
     "University name": "National University of Singapore (NUS)",
+    "Location": "Singapore, Singapore",
     "Overall Score": "87.8",
     "International Research Network": "68.1",
     "H-Index citations": "78.9",
@@ -152,6 +167,7 @@
   {
     "World Rank": "16",
     "University name": "Lomonosov Moscow State University",
+    "Location": "Moscow, Russia",
     "Overall Score": "87.5",
     "International Research Network": "88.6",
     "H-Index citations": "83.4",
@@ -162,6 +178,7 @@
   {
     "World Rank": "17",
     "University name": "Universit\u00e9 PSL",
+    "Location": "Paris, France",
     "Overall Score": "87.2",
     "International Research Network": "84.2",
     "H-Index citations": "98.4",
@@ -172,6 +189,7 @@
   {
     "World Rank": "18",
     "University name": "University of California, Los Angeles (UCLA)",
+    "Location": "Los Angeles, United States",
     "Overall Score": "87",
     "International Research Network": "77.7",
     "H-Index citations": "81.5",
@@ -182,6 +200,7 @@
   {
     "World Rank": "19",
     "University name": "University of Chicago",
+    "Location": "Chicago, United States",
     "Overall Score": "86.7",
     "International Research Network": "80.9",
     "H-Index citations": "88.2",
@@ -192,6 +211,7 @@
   {
     "World Rank": "20",
     "University name": "Universit Paris-Saclay",
+    "Location": "Gif-sur-Yvette,, France",
     "Overall Score": "86.3",
     "International Research Network": "84.2",
     "H-Index citations": "96.1",
@@ -202,6 +222,7 @@
   {
     "World Rank": "21",
     "University name": "Peking University",
+    "Location": "Beijing, China (Mainland)",
     "Overall Score": "86.2",
     "International Research Network": "70.4",
     "H-Index citations": "88.7",
@@ -212,6 +233,7 @@
   {
     "World Rank": "22",
     "University name": "Institut Polytechnique de Paris",
+    "Location": "Palaiseau Cedex, France",
     "Overall Score": "85.9",
     "International Research Network": "85.4",
     "H-Index citations": "89.2",
@@ -222,6 +244,7 @@
   {
     "World Rank": "23",
     "University name": "Tsinghua University",
+    "Location": "Beijing, China (Mainland)",
     "Overall Score": "85.8",
     "International Research Network": "68.7",
     "H-Index citations": "88.9",
@@ -232,6 +255,7 @@
   {
     "World Rank": "24",
     "University name": "University of Toronto",
+    "Location": "Toronto, Canada",
     "Overall Score": "85.5",
     "International Research Network": "78.9",
     "H-Index citations": "85.9",
@@ -242,6 +266,7 @@
   {
     "World Rank": "25",
     "University name": "Kyoto University",
+    "Location": "Kyoto, Japan",
     "Overall Score": "84.7",
     "International Research Network": "77.5",
     "H-Index citations": "83.2",
@@ -252,6 +277,7 @@
   {
     "World Rank": "26",
     "University name": "University of British Columbia",
+    "Location": "Vancouver, Canada",
     "Overall Score": "84.6",
     "International Research Network": "83.7",
     "H-Index citations": "82.8",
@@ -262,6 +288,7 @@
   {
     "World Rank": "27",
     "University name": "Australian National University (ANU)",
+    "Location": "Canberra, Australia",
     "Overall Score": "84.2",
     "International Research Network": "79.3",
     "H-Index citations": "81.9",
@@ -272,6 +299,7 @@
   {
     "World Rank": "28",
     "University name": "Technical University of Munich",
+    "Location": "Munich, Germany",
     "Overall Score": "84",
     "International Research Network": "75.6",
     "H-Index citations": "83.2",
@@ -282,6 +310,7 @@
   {
     "World Rank": "29",
     "University name": "Seoul National University",
+    "Location": "Seoul, South Korea",
     "Overall Score": "83.9",
     "International Research Network": "71.1",
     "H-Index citations": "78.9",
@@ -292,6 +321,7 @@
   {
     "World Rank": "30",
     "University name": "Tokyo Institute of Technology (Tokyo Tech)",
+    "Location": "Tokyo, Japan",
     "Overall Score": "83.8",
     "International Research Network": "82.5",
     "H-Index citations": "76.5",
@@ -302,6 +332,7 @@
   {
     "World Rank": "31",
     "University name": "Yale University",
+    "Location": "New Haven, United States",
     "Overall Score": "83.7",
     "International Research Network": "66.2",
     "H-Index citations": "81.7",
@@ -312,6 +343,7 @@
   {
     "World Rank": "32",
     "University name": "Cornell University",
+    "Location": "Ithaca, United States",
     "Overall Score": "83.5",
     "International Research Network": "73",
     "H-Index citations": "83.2",
@@ -322,6 +354,7 @@
   {
     "World Rank": "33",
     "University name": "University of Texas at Austin",
+    "Location": "Austin, United States",
     "Overall Score": "83.2",
     "International Research Network": "85.4",
     "H-Index citations": "84",
@@ -332,6 +365,7 @@
   {
     "World Rank": "34",
     "University name": "University of Michigan-Ann Arbor",
+    "Location": "Ann Arbor, United States",
     "Overall Score": "82.9",
     "International Research Network": "91.7",
     "H-Index citations": "84.4",
@@ -342,6 +376,7 @@
   {
     "World Rank": "35",
     "University name": "Columbia University",
+    "Location": "New York City, United States",
     "Overall Score": "82.6",
     "International Research Network": "73",
     "H-Index citations": "87.4",
@@ -352,6 +387,7 @@
   {
     "World Rank": "36",
     "University name": "University of California, San Diego (UCSD)",
+    "Location": "San Diego, United States",
     "Overall Score": "82.5",
     "International Research Network": "85.6",
     "H-Index citations": "85",
@@ -362,6 +398,7 @@
   {
     "World Rank": "37",
     "University name": "UCL",
+    "Location": "London, United Kingdom",
     "Overall Score": "82.3",
     "International Research Network": "92.4",
     "H-Index citations": "81.7",
@@ -372,6 +409,7 @@
   {
     "World Rank": "=38",
     "University name": "The University of Melbourne",
+    "Location": "Parkville, Australia",
     "Overall Score": "82.2",
     "International Research Network": "79.7",
     "H-Index citations": "80.3",
@@ -382,6 +420,7 @@
   {
     "World Rank": "=38",
     "University name": "University of Washington",
+    "Location": "Seattle, United States",
     "Overall Score": "82.2",
     "International Research Network": "87.6",
     "H-Index citations": "86.7",
@@ -392,6 +431,7 @@
   {
     "World Rank": "=40",
     "University name": "The University of Edinburgh",
+    "Location": "Edinburgh, United Kingdom",
     "Overall Score": "82.1",
     "International Research Network": "83.3",
     "H-Index citations": "83.4",
@@ -402,6 +442,7 @@
   {
     "World Rank": "=40",
     "University name": "The University of Manchester",
+    "Location": "Manchester, United Kingdom",
     "Overall Score": "82.1",
     "International Research Network": "88.3",
     "H-Index citations": "81.9",
@@ -412,6 +453,7 @@
   {
     "World Rank": "=42",
     "University name": "Delft University of Technology",
+    "Location": "Delft, Netherlands",
     "Overall Score": "81.9",
     "International Research Network": "82.7",
     "H-Index citations": "77.1",
@@ -422,6 +464,7 @@
   {
     "World Rank": "=42",
     "University name": "University of Illinois at Urbana-Champaign",
+    "Location": "Champaign, United States",
     "Overall Score": "81.9",
     "International Research Network": "74.4",
     "H-Index citations": "82.6",
@@ -432,6 +475,7 @@
   {
     "World Rank": "44",
     "University name": "Sapienza University of Rome",
+    "Location": "Rome, Italy",
     "Overall Score": "81.8",
     "International Research Network": "95.9",
     "H-Index citations": "84.4",
@@ -442,6 +486,7 @@
   {
     "World Rank": "45",
     "University name": "University of California, Santa Barbara (UCSB)",
+    "Location": "Santa Barbara, United States",
     "Overall Score": "81.4",
     "International Research Network": "72.4",
     "H-Index citations": "85.8",
@@ -452,6 +497,7 @@
   {
     "World Rank": "46",
     "University name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "Location": "Munich, Germany",
     "Overall Score": "81.3",
     "International Research Network": "77.2",
     "H-Index citations": "80.3",
@@ -462,6 +508,7 @@
   {
     "World Rank": "47",
     "University name": "KAIST - Korea Advanced Institute of Science & Technology",
+    "Location": "Daejeon, South Korea",
     "Overall Score": "81.2",
     "International Research Network": "63.7",
     "H-Index citations": "62.9",
@@ -472,6 +519,7 @@
   {
     "World Rank": "48",
     "University name": "KIT, Karlsruhe Institute of Technology",
+    "Location": "Karlsruhe, Germany",
     "Overall Score": "81",
     "International Research Network": "87",
     "H-Index citations": "85.2",
@@ -482,6 +530,7 @@
   {
     "World Rank": "49",
     "University name": "The University of Sydney",
+    "Location": "Sydney, Australia",
     "Overall Score": "80.9",
     "International Research Network": "77.9",
     "H-Index citations": "78.4",
@@ -492,6 +541,7 @@
   {
     "World Rank": "=50",
     "University name": "Northwestern University",
+    "Location": "Evanston, United States",
     "Overall Score": "80.7",
     "International Research Network": "77",
     "H-Index citations": "82.8",
@@ -502,6 +552,7 @@
   {
     "World Rank": "=50",
     "University name": "University of Wisconsin-Madison",
+    "Location": "Madison, United States",
     "Overall Score": "80.7",
     "International Research Network": "85.4",
     "H-Index citations": "82.6",
@@ -512,6 +563,7 @@
   {
     "World Rank": "52",
     "University name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+    "Location": "Heidelberg, Germany",
     "Overall Score": "80.6",
     "International Research Network": "80.4",
     "H-Index citations": "81",
@@ -522,6 +574,7 @@
   {
     "World Rank": "53",
     "University name": "The University of New South Wales (UNSW Sydney)",
+    "Location": "Sydney, Australia",
     "Overall Score": "80.5",
     "International Research Network": "81.5",
     "H-Index citations": "75.4",
@@ -532,6 +585,7 @@
   {
     "World Rank": "54",
     "University name": "The Hong Kong University of Science and Technology",
+    "Location": "Hong Kong SAR, Hong Kong SAR",
     "Overall Score": "80.4",
     "International Research Network": "54.6",
     "H-Index citations": "74.8",
@@ -542,6 +596,7 @@
   {
     "World Rank": "55",
     "University name": "Monash University",
+    "Location": "Melbourne, Australia",
     "Overall Score": "80.3",
     "International Research Network": "80.9",
     "H-Index citations": "77.3",
@@ -552,6 +607,7 @@
   {
     "World Rank": "56",
     "University name": "Georgia Institute of Technology",
+    "Location": "Atlanta, United States",
     "Overall Score": "80.2",
     "International Research Network": "75.5",
     "H-Index citations": "79.1",
@@ -562,6 +618,7 @@
   {
     "World Rank": "57",
     "University name": "The University of Hong Kong",
+    "Location": " Hong Kong SAR",
     "Overall Score": "80.1",
     "International Research Network": "59.7",
     "H-Index citations": "77.3",
@@ -572,6 +629,7 @@
   {
     "World Rank": "=58",
     "University name": "National Taiwan University (NTU)",
+    "Location": "Taipei City, Taiwan",
     "Overall Score": "80",
     "International Research Network": "66.8",
     "H-Index citations": "76.8",
@@ -582,6 +640,7 @@
   {
     "World Rank": "=58",
     "University name": "Universit\u00e9 Paris Cit\u00e9",
+    "Location": "Paris, France",
     "Overall Score": "80",
     "International Research Network": "100",
     "H-Index citations": "100",
@@ -592,6 +651,7 @@
   {
     "World Rank": "=60",
     "University name": "University of Bristol",
+    "Location": "Bristol, United Kingdom",
     "Overall Score": "79.9",
     "International Research Network": "83.4",
     "H-Index citations": "81",
@@ -602,6 +662,7 @@
   {
     "World Rank": "=60",
     "University name": "University of Copenhagen",
+    "Location": "Copenhagen, Denmark",
     "Overall Score": "79.9",
     "International Research Network": "90.6",
     "H-Index citations": "84.4",
@@ -612,6 +673,7 @@
   {
     "World Rank": "=60",
     "University name": "University of Science and Technology of China",
+    "Location": "Hefei, China (Mainland)",
     "Overall Score": "79.9",
     "International Research Network": "66.2",
     "H-Index citations": "84.4",
@@ -622,6 +684,7 @@
   {
     "World Rank": "63",
     "University name": "McGill University",
+    "Location": "Montreal, Canada",
     "Overall Score": "79.7",
     "International Research Network": "77.8",
     "H-Index citations": "77.1",
@@ -632,6 +695,7 @@
   {
     "World Rank": "=64",
     "University name": "Moscow Institute of Physics and Technology (MIPT / Moscow Phystech)",
+    "Location": "Dolgoprudny, Russia",
     "Overall Score": "79.5",
     "International Research Network": "65.7",
     "H-Index citations": "76.8",
@@ -642,6 +706,7 @@
   {
     "World Rank": "=64",
     "University name": "Osaka University",
+    "Location": "Osaka City, Japan",
     "Overall Score": "79.5",
     "International Research Network": "77.9",
     "H-Index citations": "76.8",
@@ -652,6 +717,7 @@
   {
     "World Rank": "66",
     "University name": "Universitat de Barcelona",
+    "Location": "Barcelona, Spain",
     "Overall Score": "79.3",
     "International Research Network": "96.8",
     "H-Index citations": "73.6",
@@ -662,6 +728,7 @@
   {
     "World Rank": "67",
     "University name": "RWTH Aachen University",
+    "Location": "Aachen, Germany",
     "Overall Score": "79.2",
     "International Research Network": "78.8",
     "H-Index citations": "83.4",
@@ -672,6 +739,7 @@
   {
     "World Rank": "=68",
     "University name": "Pennsylvania State University",
+    "Location": "University Park, United States",
     "Overall Score": "79.1",
     "International Research Network": "78.9",
     "H-Index citations": "79.4",
@@ -682,6 +750,7 @@
   {
     "World Rank": "=68",
     "University name": "University of Amsterdam",
+    "Location": "Amsterdam, Netherlands",
     "Overall Score": "79.1",
     "International Research Network": "77.6",
     "H-Index citations": "80.3",
@@ -692,6 +761,7 @@
   {
     "World Rank": "70",
     "University name": "Fudan University",
+    "Location": "Shanghai, China (Mainland)",
     "Overall Score": "79",
     "International Research Network": "67.3",
     "H-Index citations": "74.8",
@@ -702,6 +772,7 @@
   {
     "World Rank": "=71",
     "University name": "Tohoku University",
+    "Location": "Sendai City, Japan",
     "Overall Score": "78.8",
     "International Research Network": "72",
     "H-Index citations": "73.2",
@@ -712,6 +783,7 @@
   {
     "World Rank": "=71",
     "University name": "University of Colorado Boulder",
+    "Location": "Boulder, United States",
     "Overall Score": "78.8",
     "International Research Network": "78.8",
     "H-Index citations": "87.9",
@@ -722,6 +794,7 @@
   {
     "World Rank": "=71",
     "University name": "University of Maryland, College Park",
+    "Location": "College Park, United States",
     "Overall Score": "78.8",
     "International Research Network": "81.6",
     "H-Index citations": "90.6",
@@ -732,6 +805,7 @@
   {
     "World Rank": "=71",
     "University name": "Universit\u00e9 Grenoble Alpes",
+    "Location": "Grenoble, France",
     "Overall Score": "78.8",
     "International Research Network": "94.4",
     "H-Index citations": "83.4",
@@ -742,6 +816,7 @@
   {
     "World Rank": "75",
     "University name": "Humboldt-Universit\u00e4t zu Berlin",
+    "Location": "Berlin, Germany",
     "Overall Score": "78.7",
     "International Research Network": "75.9",
     "H-Index citations": "76.8",
@@ -752,6 +827,7 @@
   {
     "World Rank": "76",
     "University name": "Stockholm University",
+    "Location": "Stockholm, Sweden",
     "Overall Score": "78.6",
     "International Research Network": "92.2",
     "H-Index citations": "82.8",
@@ -762,6 +838,7 @@
   {
     "World Rank": "77",
     "University name": "Universidade de S\u00e3o Paulo",
+    "Location": "S\u00e3o Paulo, Brazil",
     "Overall Score": "78.4",
     "International Research Network": "84",
     "H-Index citations": "77.9",
@@ -772,6 +849,7 @@
   {
     "World Rank": "78",
     "University name": "KTH Royal Institute of Technology",
+    "Location": "Stockholm, Sweden",
     "Overall Score": "78.3",
     "International Research Network": "82.6",
     "H-Index citations": "77.9",
@@ -782,6 +860,7 @@
   {
     "World Rank": "79",
     "University name": "Universidad Aut\u00f3noma de Madrid",
+    "Location": "Madrid, Spain",
     "Overall Score": "78.2",
     "International Research Network": "83.3",
     "H-Index citations": "83.6",
@@ -792,6 +871,7 @@
   {
     "World Rank": "80",
     "University name": "University of Pennsylvania",
+    "Location": "Philadelphia, United States",
     "Overall Score": "78.1",
     "International Research Network": "72.7",
     "H-Index citations": "76.2",
@@ -802,6 +882,7 @@
   {
     "World Rank": "81",
     "University name": "Shanghai Jiao Tong University",
+    "Location": "Shanghai, China (Mainland)",
     "Overall Score": "78",
     "International Research Network": "63.9",
     "H-Index citations": "78.9",
@@ -812,6 +893,7 @@
   {
     "World Rank": "=82",
     "University name": "Alma Mater Studiorum - University of Bologna",
+    "Location": "Bologna, Italy",
     "Overall Score": "77.9",
     "International Research Network": "85.9",
     "H-Index citations": "81.7",
@@ -822,6 +904,7 @@
   {
     "World Rank": "=82",
     "University name": "Novosibirsk State University",
+    "Location": "Novosibirsk , Russia",
     "Overall Score": "77.9",
     "International Research Network": "69.4",
     "H-Index citations": "77.9",
@@ -832,6 +915,7 @@
   {
     "World Rank": "=84",
     "University name": "Nanjing University",
+    "Location": "Nanjing, China (Mainland)",
     "Overall Score": "77.8",
     "International Research Network": "67.6",
     "H-Index citations": "83",
@@ -842,6 +926,7 @@
   {
     "World Rank": "=84",
     "University name": "Purdue University",
+    "Location": "West Lafayette, United States",
     "Overall Score": "77.8",
     "International Research Network": "82.7",
     "H-Index citations": "79.6",
@@ -852,6 +937,7 @@
   {
     "World Rank": "=86",
     "University name": "Lund University",
+    "Location": "Lund, Sweden",
     "Overall Score": "77.7",
     "International Research Network": "93.7",
     "H-Index citations": "77.3",
@@ -862,6 +948,7 @@
   {
     "World Rank": "=86",
     "University name": "Nagoya University",
+    "Location": "Nagoya, Japan",
     "Overall Score": "77.7",
     "International Research Network": "78.3",
     "H-Index citations": "76.8",
@@ -872,6 +959,7 @@
   {
     "World Rank": "=86",
     "University name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)",
+    "Location": "Mexico City, Mexico",
     "Overall Score": "77.7",
     "International Research Network": "86",
     "H-Index citations": "73.2",
@@ -882,6 +970,7 @@
   {
     "World Rank": "89",
     "University name": "Johns Hopkins University",
+    "Location": "Baltimore, United States",
     "Overall Score": "77.6",
     "International Research Network": "72.7",
     "H-Index citations": "77.9",
@@ -892,6 +981,7 @@
   {
     "World Rank": "=90",
     "University name": "Korea University",
+    "Location": "Seoul, South Korea",
     "Overall Score": "77.4",
     "International Research Network": "71.6",
     "H-Index citations": "76",
@@ -902,6 +992,7 @@
   {
     "World Rank": "=90",
     "University name": "The University of Queensland",
+    "Location": "Brisbane City, Australia",
     "Overall Score": "77.4",
     "International Research Network": "74.3",
     "H-Index citations": "69",
@@ -912,6 +1003,7 @@
   {
     "World Rank": "=90",
     "University name": "Zhejiang University",
+    "Location": "Hangzhou, China (Mainland)",
     "Overall Score": "77.4",
     "International Research Network": "67.3",
     "H-Index citations": "79.1",
@@ -922,6 +1014,7 @@
   {
     "World Rank": "=93",
     "University name": "KU Leuven",
+    "Location": "Leuven, Belgium",
     "Overall Score": "77.3",
     "International Research Network": "91.8",
     "H-Index citations": "72.3",
@@ -932,6 +1025,7 @@
   {
     "World Rank": "=93",
     "University name": "University of Waterloo",
+    "Location": "Waterloo, Canada",
     "Overall Score": "77.3",
     "International Research Network": "71",
     "H-Index citations": "74.2",
@@ -942,6 +1036,7 @@
   {
     "World Rank": "95",
     "University name": "The University of Warwick",
+    "Location": "Coventry, United Kingdom",
     "Overall Score": "77.2",
     "International Research Network": "76.4",
     "H-Index citations": "77.3",
@@ -952,6 +1047,7 @@
   {
     "World Rank": "=96",
     "University name": "Pohang University of Science And Technology (POSTECH)",
+    "Location": "Pohang , South Korea",
     "Overall Score": "77",
     "International Research Network": "49.9",
     "H-Index citations": "61.9",
@@ -962,6 +1058,7 @@
   {
     "World Rank": "=96",
     "University name": "Texas A&M University",
+    "Location": "College Station, United States",
     "Overall Score": "77",
     "International Research Network": "81.8",
     "H-Index citations": "79.1",
@@ -972,6 +1069,7 @@
   {
     "World Rank": "=96",
     "University name": "Utrecht University",
+    "Location": "Utrecht, Netherlands",
     "Overall Score": "77",
     "International Research Network": "75",
     "H-Index citations": "78.1",
@@ -982,6 +1080,7 @@
   {
     "World Rank": "=99",
     "University name": "Durham University",
+    "Location": "Durham, United Kingdom",
     "Overall Score": "76.9",
     "International Research Network": "68.7",
     "H-Index citations": "77.9",
@@ -992,6 +1091,7 @@
   {
     "World Rank": "=99",
     "University name": "University of Southampton",
+    "Location": "Southampton, United Kingdom",
     "Overall Score": "76.9",
     "International Research Network": "86.7",
     "H-Index citations": "78.9",
@@ -1002,6 +1102,7 @@
   {
     "World Rank": "=101",
     "University name": "Politecnico di Milano",
+    "Location": "Milan, Italy",
     "Overall Score": "76.8",
     "International Research Network": "85.8",
     "H-Index citations": "63.9",
@@ -1012,6 +1113,7 @@
   {
     "World Rank": "=101",
     "University name": "Rheinische Friedrich-Wilhelms-Universit\u00e4t Bonn",
+    "Location": "Bonn, Germany",
     "Overall Score": "76.8",
     "International Research Network": "89.1",
     "H-Index citations": "77.3",
@@ -1022,6 +1124,7 @@
   {
     "World Rank": "=103",
     "University name": "Indian Institute of Science",
+    "Location": "Bangalore, India",
     "Overall Score": "76.7",
     "International Research Network": "65.4",
     "H-Index citations": "79.1",
@@ -1032,6 +1135,7 @@
   {
     "World Rank": "=103",
     "University name": "Sungkyunkwan University (SKKU)",
+    "Location": "Suwon, South Korea",
     "Overall Score": "76.7",
     "International Research Network": "71",
     "H-Index citations": "75.7",
@@ -1042,6 +1146,7 @@
   {
     "World Rank": "105",
     "University name": "The University of Western Australia",
+    "Location": "Perth, Australia",
     "Overall Score": "76.6",
     "International Research Network": "86.8",
     "H-Index citations": "78.6",
@@ -1052,6 +1157,7 @@
   {
     "World Rank": "=106",
     "University name": "Carnegie Mellon University",
+    "Location": "Pittsburgh, United States",
     "Overall Score": "76.4",
     "International Research Network": "70.2",
     "H-Index citations": "76",
@@ -1062,6 +1168,7 @@
   {
     "World Rank": "=106",
     "University name": "Duke University",
+    "Location": "Durham, United States",
     "Overall Score": "76.4",
     "International Research Network": "78.2",
     "H-Index citations": "76",
@@ -1072,6 +1179,7 @@
   {
     "World Rank": "=108",
     "University name": "Technische Universit\u00e4t Berlin (TU Berlin)",
+    "Location": "Berlin, Germany",
     "Overall Score": "76.3",
     "International Research Network": "77.4",
     "H-Index citations": "62.9",
@@ -1082,6 +1190,7 @@
   {
     "World Rank": "=108",
     "University name": "University of Geneva",
+    "Location": "Geneva, Switzerland",
     "Overall Score": "76.3",
     "International Research Network": "79.9",
     "H-Index citations": "79.4",
@@ -1092,6 +1201,7 @@
   {
     "World Rank": "=108",
     "University name": "University of Pisa",
+    "Location": "Pisa, Italy",
     "Overall Score": "76.3",
     "International Research Network": "80.2",
     "H-Index citations": "82.6",
@@ -1102,6 +1212,7 @@
   {
     "World Rank": "111",
     "University name": "Universit\u00e0 di Padova",
+    "Location": "Padova, Italy",
     "Overall Score": "76.2",
     "International Research Network": "84.1",
     "H-Index citations": "81.5",
@@ -1112,6 +1223,7 @@
   {
     "World Rank": "112",
     "University name": "Uppsala University",
+    "Location": "Uppsala, Sweden",
     "Overall Score": "76.1",
     "International Research Network": "90.2",
     "H-Index citations": "75.7",
@@ -1122,6 +1234,7 @@
   {
     "World Rank": "=113",
     "University name": "New York University (NYU)",
+    "Location": "New York City, United States",
     "Overall Score": "76",
     "International Research Network": "65.4",
     "H-Index citations": "76.8",
@@ -1132,6 +1245,7 @@
   {
     "World Rank": "=113",
     "University name": "Universiti Malaya (UM)",
+    "Location": "Kuala Lumpur, Malaysia",
     "Overall Score": "76",
     "International Research Network": "85.1",
     "H-Index citations": "75.7",
@@ -1142,6 +1256,7 @@
   {
     "World Rank": "=113",
     "University name": "University of Minnesota Twin Cities",
+    "Location": "Minneapolis, United States",
     "Overall Score": "76",
     "International Research Network": "80.4",
     "H-Index citations": "81.3",
@@ -1152,6 +1267,7 @@
   {
     "World Rank": "=113",
     "University name": "Yonsei University",
+    "Location": "Seoul, South Korea",
     "Overall Score": "76",
     "International Research Network": "66.2",
     "H-Index citations": "68.6",
@@ -1162,6 +1278,7 @@
   {
     "World Rank": "117",
     "University name": "Universitat Aut\u00f2noma de Barcelona",
+    "Location": "Barcelona, Spain",
     "Overall Score": "75.9",
     "International Research Network": "78.8",
     "H-Index citations": "77.1",
@@ -1172,6 +1289,7 @@
   {
     "World Rank": "=118",
     "University name": "University of California, Davis",
+    "Location": "Davis, United States",
     "Overall Score": "75.8",
     "International Research Network": "74.5",
     "H-Index citations": "78.4",
@@ -1182,6 +1300,7 @@
   {
     "World Rank": "=118",
     "University name": "University of Glasgow",
+    "Location": "Glasgow, United Kingdom",
     "Overall Score": "75.8",
     "International Research Network": "86.5",
     "H-Index citations": "79.9",
@@ -1192,6 +1311,7 @@
   {
     "World Rank": "=120",
     "University name": "The Ohio State University",
+    "Location": "Columbus, United States",
     "Overall Score": "75.6",
     "International Research Network": "79.9",
     "H-Index citations": "81.3",
@@ -1202,6 +1322,7 @@
   {
     "World Rank": "=120",
     "University name": "University of Zurich",
+    "Location": "Z\u00fcrich, Switzerland",
     "Overall Score": "75.6",
     "International Research Network": "80",
     "H-Index citations": "81.9",
@@ -1212,6 +1333,7 @@
   {
     "World Rank": "=122",
     "University name": "Michigan State University",
+    "Location": "East Lansing, United States",
     "Overall Score": "75.5",
     "International Research Network": "84.6",
     "H-Index citations": "79.1",
@@ -1222,6 +1344,7 @@
   {
     "World Rank": "=122",
     "University name": "Universit\u00e4t Hamburg",
+    "Location": "Hamburg, Germany",
     "Overall Score": "75.5",
     "International Research Network": "79.7",
     "H-Index citations": "79.6",
@@ -1232,6 +1355,7 @@
   {
     "World Rank": "=124",
     "University name": "Saint Petersburg State University",
+    "Location": "Saint Petersburg, Russia",
     "Overall Score": "75.4",
     "International Research Network": "73.8",
     "H-Index citations": "64.4",
@@ -1242,6 +1366,7 @@
   {
     "World Rank": "=124",
     "University name": "Technische Universit\u00e4t Dresden",
+    "Location": "Dresden, Germany",
     "Overall Score": "75.4",
     "International Research Network": "87.6",
     "H-Index citations": "75.7",
@@ -1252,6 +1377,7 @@
   {
     "World Rank": "=124",
     "University name": "The University of Adelaide",
+    "Location": "Adelaide, Australia",
     "Overall Score": "75.4",
     "International Research Network": "69.3",
     "H-Index citations": "78.9",
@@ -1262,6 +1388,7 @@
   {
     "World Rank": "127",
     "University name": "King's College London",
+    "Location": "London, United Kingdom",
     "Overall Score": "75.2",
     "International Research Network": "67.3",
     "H-Index citations": "78.6",
@@ -1272,6 +1399,7 @@
   {
     "World Rank": "=128",
     "University name": "National Tsing Hua University",
+    "Location": "Hsinchu City, Taiwan",
     "Overall Score": "75.1",
     "International Research Network": "59.2",
     "H-Index citations": "74.5",
@@ -1282,6 +1410,7 @@
   {
     "World Rank": "=128",
     "University name": "University of Leeds",
+    "Location": "Leeds, United Kingdom",
     "Overall Score": "75.1",
     "International Research Network": "90.4",
     "H-Index citations": "71.6",
@@ -1292,6 +1421,7 @@
   {
     "World Rank": "=128",
     "University name": "Wageningen University & Research",
+    "Location": "Wageningen, Netherlands",
     "Overall Score": "75.1",
     "International Research Network": "79.8",
     "H-Index citations": "71.9",
@@ -1302,6 +1432,7 @@
   {
     "World Rank": "131",
     "University name": "Kyushu University",
+    "Location": "Fukuoka City, Japan",
     "Overall Score": "74.9",
     "International Research Network": "76.3",
     "H-Index citations": "74.2",
@@ -1312,6 +1443,7 @@
   {
     "World Rank": "=132",
     "University name": "King Abdulaziz University (KAU)",
+    "Location": "Jeddah, Saudi Arabia",
     "Overall Score": "74.8",
     "International Research Network": "90.2",
     "H-Index citations": "74.2",
@@ -1322,6 +1454,7 @@
   {
     "World Rank": "=132",
     "University name": "The University of Auckland",
+    "Location": "Auckland, New Zealand",
     "Overall Score": "74.8",
     "International Research Network": "70.9",
     "H-Index citations": "71.2",
@@ -1332,6 +1465,7 @@
   {
     "World Rank": "=132",
     "University name": "University of Birmingham",
+    "Location": "Birmingham, United Kingdom",
     "Overall Score": "74.8",
     "International Research Network": "79.9",
     "H-Index citations": "81.9",
@@ -1342,6 +1476,7 @@
   {
     "World Rank": "=132",
     "University name": "University of Vienna",
+    "Location": "Vienna, Austria",
     "Overall Score": "74.8",
     "International Research Network": "81.2",
     "H-Index citations": "69.8",
@@ -1352,6 +1487,7 @@
   {
     "World Rank": "=136",
     "University name": "Leiden University",
+    "Location": "Leiden, Netherlands",
     "Overall Score": "74.6",
     "International Research Network": "70.6",
     "H-Index citations": "74.8",
@@ -1362,6 +1498,7 @@
   {
     "World Rank": "=136",
     "University name": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+    "Location": "Moscow, Russia",
     "Overall Score": "74.6",
     "International Research Network": "73.2",
     "H-Index citations": "78.6",
@@ -1372,6 +1509,7 @@
   {
     "World Rank": "=136",
     "University name": "The Chinese University of Hong Kong (CUHK)",
+    "Location": "Hong Kong SAR, Hong Kong SAR",
     "Overall Score": "74.6",
     "International Research Network": "45.1",
     "H-Index citations": "75.7",
@@ -1382,6 +1520,7 @@
   {
     "World Rank": "139",
     "University name": "Freie Universitaet Berlin",
+    "Location": "Berlin, Germany",
     "Overall Score": "74.5",
     "International Research Network": "69.6",
     "H-Index citations": "71.9",
@@ -1392,6 +1531,7 @@
   {
     "World Rank": "=140",
     "University name": "The University of Arizona",
+    "Location": "Tucson, United States",
     "Overall Score": "74.4",
     "International Research Network": "91",
     "H-Index citations": "76.5",
@@ -1402,6 +1542,7 @@
   {
     "World Rank": "=140",
     "University name": "Universidade Estadual de Campinas (Unicamp)",
+    "Location": "Campinas, Brazil",
     "Overall Score": "74.4",
     "International Research Network": "72.2",
     "H-Index citations": "72.9",
@@ -1412,6 +1553,7 @@
   {
     "World Rank": "=142",
     "University name": "Boston University",
+    "Location": "Boston, United States",
     "Overall Score": "74.3",
     "International Research Network": "80",
     "H-Index citations": "78.9",
@@ -1422,6 +1564,7 @@
   {
     "World Rank": "=142",
     "University name": "Indian Institute of Technology Bombay (IITB)",
+    "Location": "Mumbai, India",
     "Overall Score": "74.3",
     "International Research Network": "57.7",
     "H-Index citations": "66.6",
@@ -1432,6 +1575,7 @@
   {
     "World Rank": "=142",
     "University name": "University of Bern",
+    "Location": "Bern, Switzerland",
     "Overall Score": "74.3",
     "International Research Network": "84.7",
     "H-Index citations": "79.1",
@@ -1442,6 +1586,7 @@
   {
     "World Rank": "=142",
     "University name": "Universit\u00e9 de Strasbourg",
+    "Location": "Strasbourg, France",
     "Overall Score": "74.3",
     "International Research Network": "83.4",
     "H-Index citations": "79.4",
@@ -1452,6 +1597,7 @@
   {
     "World Rank": "146",
     "University name": "Technische Universit\u00e4t Wien",
+    "Location": "Vienna, Austria",
     "Overall Score": "74.2",
     "International Research Network": "78.4",
     "H-Index citations": "74.8",
@@ -1462,6 +1608,7 @@
   {
     "World Rank": "147",
     "University name": "University of Helsinki",
+    "Location": "Helsinki, Finland",
     "Overall Score": "74",
     "International Research Network": "77.5",
     "H-Index citations": "81.3",
@@ -1472,6 +1619,7 @@
   {
     "World Rank": "148",
     "University name": "University of G\u00f6ttingen",
+    "Location": "G\u00f6ttingen, Germany",
     "Overall Score": "73.9",
     "International Research Network": "74.7",
     "H-Index citations": "73.2",
@@ -1482,6 +1630,7 @@
   {
     "World Rank": "149",
     "University name": "Brown University",
+    "Location": "Providence, United States",
     "Overall Score": "73.8",
     "International Research Network": "67.9",
     "H-Index citations": "76",
@@ -1492,6 +1641,7 @@
   {
     "World Rank": "=150",
     "University name": "Rutgers University\u2013New Brunswick",
+    "Location": "New Brunswick, United States",
     "Overall Score": "73.7",
     "International Research Network": "73.5",
     "H-Index citations": "78.1",
@@ -1502,6 +1652,7 @@
   {
     "World Rank": "=150",
     "University name": "Technical University of Denmark",
+    "Location": "Kongens Lyngby, Denmark",
     "Overall Score": "73.7",
     "International Research Network": "71.9",
     "H-Index citations": "67.9",
@@ -1512,6 +1663,7 @@
   {
     "World Rank": "=152",
     "University name": "University of Alberta",
+    "Location": "Edmonton, Canada",
     "Overall Score": "73.6",
     "International Research Network": "72.4",
     "H-Index citations": "74.8",
@@ -1522,6 +1674,7 @@
   {
     "World Rank": "=152",
     "University name": "University of Groningen",
+    "Location": "Groningen, Netherlands",
     "Overall Score": "73.6",
     "International Research Network": "73.5",
     "H-Index citations": "77.9",
@@ -1532,6 +1685,7 @@
   {
     "World Rank": "154",
     "University name": "Hanyang University",
+    "Location": "Seoul, South Korea",
     "Overall Score": "73.5",
     "International Research Network": "67.5",
     "H-Index citations": "75.4",
@@ -1542,6 +1696,7 @@
   {
     "World Rank": "=155",
     "University name": "Ghent University",
+    "Location": "Ghent, Belgium",
     "Overall Score": "73.4",
     "International Research Network": "94.8",
     "H-Index citations": "77.1",
@@ -1552,6 +1707,7 @@
   {
     "World Rank": "=155",
     "University name": "Rice University",
+    "Location": "Houston, United States",
     "Overall Score": "73.4",
     "International Research Network": "62.1",
     "H-Index citations": "77.1",
@@ -1562,6 +1718,7 @@
   {
     "World Rank": "=157",
     "University name": "Hokkaido University",
+    "Location": "Sapporo, Japan",
     "Overall Score": "73.3",
     "International Research Network": "66.7",
     "H-Index citations": "65.7",
@@ -1572,6 +1729,7 @@
   {
     "World Rank": "=157",
     "University name": "University of Florida",
+    "Location": "Gainesville, United States",
     "Overall Score": "73.3",
     "International Research Network": "88.1",
     "H-Index citations": "81.3",
@@ -1582,6 +1740,7 @@
   {
     "World Rank": "=157",
     "University name": "University of Warsaw",
+    "Location": "Warsaw, Poland",
     "Overall Score": "73.3",
     "International Research Network": "82.8",
     "H-Index citations": "77.3",
@@ -1592,6 +1751,7 @@
   {
     "World Rank": "=160",
     "University name": "Complutense University of Madrid",
+    "Location": "Madrid, Spain",
     "Overall Score": "72.8",
     "International Research Network": "81.4",
     "H-Index citations": "69.4",
@@ -1602,6 +1762,7 @@
   {
     "World Rank": "=160",
     "University name": "Pontificia Universidad Cat\u00f3lica de Chile (UC)",
+    "Location": "Santiago, Chile",
     "Overall Score": "72.8",
     "International Research Network": "72.2",
     "H-Index citations": "72.3",
@@ -1612,6 +1773,7 @@
   {
     "World Rank": "=160",
     "University name": "University of St Andrews",
+    "Location": "St. Andrews, United Kingdom",
     "Overall Score": "72.8",
     "International Research Network": "73.2",
     "H-Index citations": "70.5",
@@ -1622,6 +1784,7 @@
   {
     "World Rank": "=163",
     "University name": "Eindhoven University of Technology",
+    "Location": "Eindhoven, Netherlands",
     "Overall Score": "72.7",
     "International Research Network": "65.3",
     "H-Index citations": "62.9",
@@ -1632,6 +1795,7 @@
   {
     "World Rank": "=163",
     "University name": "University of Rome \"Tor Vergata\"",
+    "Location": "Rome, Italy",
     "Overall Score": "72.7",
     "International Research Network": "71.3",
     "H-Index citations": "77.9",
@@ -1642,6 +1806,7 @@
   {
     "World Rank": "=165",
     "University name": "Charles University",
+    "Location": "Prague, Czechia",
     "Overall Score": "72.6",
     "International Research Network": "78.3",
     "H-Index citations": "78.9",
@@ -1652,6 +1817,7 @@
   {
     "World Rank": "=165",
     "University name": "Stony Brook University, State University of New York",
+    "Location": "Stony Brook, United States",
     "Overall Score": "72.6",
     "International Research Network": "68.7",
     "H-Index citations": "80.8",
@@ -1662,6 +1828,7 @@
   {
     "World Rank": "=165",
     "University name": "University of Milan",
+    "Location": "Milan, Italy",
     "Overall Score": "72.6",
     "International Research Network": "68.4",
     "H-Index citations": "76",
@@ -1672,6 +1839,7 @@
   {
     "World Rank": "168",
     "University name": "University of California, Irvine",
+    "Location": "Irvine, United States",
     "Overall Score": "72.5",
     "International Research Network": "62.5",
     "H-Index citations": "81.3",
@@ -1682,6 +1850,7 @@
   {
     "World Rank": "=169",
     "University name": "Arizona State University",
+    "Location": "Phoenix, United States",
     "Overall Score": "72.4",
     "International Research Network": "73.1",
     "H-Index citations": "75.4",
@@ -1692,6 +1861,7 @@
   {
     "World Rank": "=169",
     "University name": "Universitat de Valencia",
+    "Location": "Val\u00e8ncia, Spain",
     "Overall Score": "72.4",
     "International Research Network": "82.4",
     "H-Index citations": "85.4",
@@ -1702,6 +1872,7 @@
   {
     "World Rank": "=169",
     "University name": "University of Liverpool",
+    "Location": "Liverpool, United Kingdom",
     "Overall Score": "72.4",
     "International Research Network": "74",
     "H-Index citations": "76.8",
@@ -1712,6 +1883,7 @@
   {
     "World Rank": "=169",
     "University name": "University of Nottingham",
+    "Location": "Nottingham, United Kingdom",
     "Overall Score": "72.4",
     "International Research Network": "78.5",
     "H-Index citations": "72.6",
@@ -1722,6 +1894,7 @@
   {
     "World Rank": "=173",
     "University name": "Universidad de Buenos Aires (UBA)",
+    "Location": "Buenos Aires, Argentina",
     "Overall Score": "72.3",
     "International Research Network": "60.3",
     "H-Index citations": "72.6",
@@ -1732,6 +1905,7 @@
   {
     "World Rank": "=173",
     "University name": "Universite libre de Bruxelles",
+    "Location": "Brussels, Belgium",
     "Overall Score": "72.3",
     "International Research Network": "72.4",
     "H-Index citations": "78.1",
@@ -1742,6 +1916,7 @@
   {
     "World Rank": "=173",
     "University name": "University of Lisbon",
+    "Location": "Lisbon , Portugal",
     "Overall Score": "72.3",
     "International Research Network": "86.4",
     "H-Index citations": "83.2",
@@ -1752,6 +1927,7 @@
   {
     "World Rank": "=176",
     "University name": "Chalmers University of Technology",
+    "Location": "Gothenburg, Sweden",
     "Overall Score": "72.1",
     "International Research Network": "77.9",
     "H-Index citations": "67.4",
@@ -1762,6 +1938,7 @@
   {
     "World Rank": "=176",
     "University name": "Indian Institute of Technology Madras (IITM)",
+    "Location": "Chennai, India",
     "Overall Score": "72.1",
     "International Research Network": "59.1",
     "H-Index citations": "70.9",
@@ -1772,6 +1949,7 @@
   {
     "World Rank": "=176",
     "University name": "University of Oslo",
+    "Location": "Oslo, Norway",
     "Overall Score": "72.1",
     "International Research Network": "80",
     "H-Index citations": "79.6",
@@ -1782,6 +1960,7 @@
   {
     "World Rank": "=179",
     "University name": "Aix-Marseille University",
+    "Location": "Marseille, France",
     "Overall Score": "72",
     "International Research Network": "97.8",
     "H-Index citations": "85",
@@ -1792,6 +1971,7 @@
   {
     "World Rank": "=179",
     "University name": "Universidade Federal do Rio de Janeiro",
+    "Location": "Rio de Janeiro, Brazil",
     "Overall Score": "72",
     "International Research Network": "68.1",
     "H-Index citations": "74.2",
@@ -1802,6 +1982,7 @@
   {
     "World Rank": "=179",
     "University name": "Universit\u00e9 Claude Bernard Lyon 1",
+    "Location": "Villeurbanne, France",
     "Overall Score": "72",
     "International Research Network": "88.3",
     "H-Index citations": "83.4",
@@ -1812,6 +1993,7 @@
   {
     "World Rank": "=182",
     "University name": "The University of Sheffield",
+    "Location": "Sheffield, United Kingdom",
     "Overall Score": "71.9",
     "International Research Network": "74.9",
     "H-Index citations": "78.1",
@@ -1822,6 +2004,7 @@
   {
     "World Rank": "=182",
     "University name": "Universitat Polit\u00e8cnica de Catalunya \u00b7 BarcelonaTech (UPC)",
+    "Location": "Barcelona, Spain",
     "Overall Score": "71.9",
     "International Research Network": "82.6",
     "H-Index citations": "71.9",
@@ -1832,6 +2015,7 @@
   {
     "World Rank": "=184",
     "University name": "Curtin University",
+    "Location": "Perth, Australia",
     "Overall Score": "71.8",
     "International Research Network": "76.9",
     "H-Index citations": "73.2",
@@ -1842,6 +2026,7 @@
   {
     "World Rank": "=184",
     "University name": "Goethe-University Frankfurt am Main",
+    "Location": "Frankfurt, Germany",
     "Overall Score": "71.8",
     "International Research Network": "75.9",
     "H-Index citations": "77.1",
@@ -1852,6 +2037,7 @@
   {
     "World Rank": "=184",
     "University name": "Johannes Gutenberg Universit\u00e4t Mainz",
+    "Location": "Mainz, Germany",
     "Overall Score": "71.8",
     "International Research Network": "79.1",
     "H-Index citations": "80.3",
@@ -1862,6 +2048,7 @@
   {
     "World Rank": "=184",
     "University name": "Universit\u00e9 de Montr\u00e9al",
+    "Location": "Montreal, Canada",
     "Overall Score": "71.8",
     "International Research Network": "61.8",
     "H-Index citations": "72.9",
@@ -1872,6 +2059,7 @@
   {
     "World Rank": "=188",
     "University name": "Politecnico di Torino",
+    "Location": "Turin, Italy",
     "Overall Score": "71.7",
     "International Research Network": "84.9",
     "H-Index citations": "59.7",
@@ -1882,6 +2070,7 @@
   {
     "World Rank": "=188",
     "University name": "Universidad de Chile",
+    "Location": "Santiago, Chile",
     "Overall Score": "71.7",
     "International Research Network": "71.2",
     "H-Index citations": "66.2",
@@ -1892,6 +2081,7 @@
   {
     "World Rank": "=190",
     "University name": "Macquarie University",
+    "Location": "Sydney, Australia",
     "Overall Score": "71.3",
     "International Research Network": "72.9",
     "H-Index citations": "70.9",
@@ -1902,6 +2092,7 @@
   {
     "World Rank": "=190",
     "University name": "University of Bordeaux",
+    "Location": "Talence, France",
     "Overall Score": "71.3",
     "International Research Network": "95",
     "H-Index citations": "71.2",
@@ -1912,6 +2103,7 @@
   {
     "World Rank": "=192",
     "University name": "Tomsk State University",
+    "Location": "Tomsk, Russia",
     "Overall Score": "71.2",
     "International Research Network": "69.8",
     "H-Index citations": "71.9",
@@ -1922,6 +2114,7 @@
   {
     "World Rank": "=192",
     "University name": "Universit\u00e9 catholique de Louvain (UCLouvain)",
+    "Location": "Louvain-la-Neuve, Belgium",
     "Overall Score": "71.2",
     "International Research Network": "70.3",
     "H-Index citations": "76.2",
@@ -1932,6 +2125,7 @@
   {
     "World Rank": "194",
     "University name": "Wuhan University",
+    "Location": "Wuhan, China (Mainland)",
     "Overall Score": "71.1",
     "International Research Network": "59.1",
     "H-Index citations": "76.8",
@@ -1942,6 +2136,7 @@
   {
     "World Rank": "195",
     "University name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+    "Location": "Erlangen, Germany",
     "Overall Score": "71",
     "International Research Network": "91.5",
     "H-Index citations": "71.2",
@@ -1952,6 +2147,7 @@
   {
     "World Rank": "=196",
     "University name": "Aalto University",
+    "Location": "Espoo, Finland",
     "Overall Score": "70.9",
     "International Research Network": "73.8",
     "H-Index citations": "77.6",
@@ -1962,6 +2158,7 @@
   {
     "World Rank": "=196",
     "University name": "Technical University of Darmstadt",
+    "Location": "Darmstadt, Germany",
     "Overall Score": "70.9",
     "International Research Network": "84.1",
     "H-Index citations": "69",
@@ -1972,6 +2169,7 @@
   {
     "World Rank": "198",
     "University name": "Queen Mary University of London",
+    "Location": "London, United Kingdom",
     "Overall Score": "70.8",
     "International Research Network": "75.8",
     "H-Index citations": "73.9",
@@ -1982,6 +2180,7 @@
   {
     "World Rank": "=199",
     "University name": "Sun Yat-sen University",
+    "Location": "Guangzhou, China (Mainland)",
     "Overall Score": "70.6",
     "International Research Network": "68.8",
     "H-Index citations": "77.1",
@@ -1992,6 +2191,7 @@
   {
     "World Rank": "=199",
     "University name": "Technion - Israel Institute of Technology",
+    "Location": "Haifa, Israel",
     "Overall Score": "70.6",
     "International Research Network": "58.7",
     "H-Index citations": "74.5",
@@ -2002,6 +2202,7 @@
   {
     "World Rank": "=201",
     "University name": "Aarhus University",
+    "Location": "Aarhus, Denmark",
     "Overall Score": "70.4",
     "International Research Network": "72.5",
     "H-Index citations": "67.4",
@@ -2012,6 +2213,7 @@
   {
     "World Rank": "=201",
     "University name": "City University of Hong Kong",
+    "Location": " Hong Kong SAR",
     "Overall Score": "70.4",
     "International Research Network": "60",
     "H-Index citations": "60.3",
@@ -2022,6 +2224,7 @@
   {
     "World Rank": "=201",
     "University name": "Florida State University",
+    "Location": "Tallahassee, United States",
     "Overall Score": "70.4",
     "International Research Network": "73.4",
     "H-Index citations": "77.6",
@@ -2032,6 +2235,7 @@
   {
     "World Rank": "=201",
     "University name": "King Abdullah University of Science & Technology (KAUST)",
+    "Location": "Thuwal, Saudi Arabia",
     "Overall Score": "70.4",
     "International Research Network": "66.1",
     "H-Index citations": "68.6",
@@ -2042,6 +2246,7 @@
   {
     "World Rank": "=201",
     "University name": "University of Exeter",
+    "Location": "Exeter, United Kingdom",
     "Overall Score": "70.4",
     "International Research Network": "72.7",
     "H-Index citations": "74.5",
@@ -2052,6 +2257,7 @@
   {
     "World Rank": "=201",
     "University name": "Trinity College Dublin, The University of Dublin",
+    "Location": "Dublin, Ireland",
     "Overall Score": "70.4",
     "International Research Network": "64.6",
     "H-Index citations": "61.4",
@@ -2062,6 +2268,7 @@
   {
     "World Rank": "=201",
     "University name": "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+    "Location": "Lyon, France",
     "Overall Score": "70.4",
     "International Research Network": "46.9",
     "H-Index citations": "65.3",
@@ -2072,6 +2279,7 @@
   {
     "World Rank": "=208",
     "University name": "University of Canterbury | Te Whare W\u0101nanga o Waitaha",
+    "Location": "Christchurch, New Zealand",
     "Overall Score": "70.3",
     "International Research Network": "66.1",
     "H-Index citations": "71.9",
@@ -2082,6 +2290,7 @@
   {
     "World Rank": "=208",
     "University name": "University of Twente",
+    "Location": "Enschede, Netherlands",
     "Overall Score": "70.3",
     "International Research Network": "70.7",
     "H-Index citations": "70.5",
@@ -2092,6 +2301,7 @@
   {
     "World Rank": "=210",
     "University name": "Colorado State University",
+    "Location": "Fort Collins, United States",
     "Overall Score": "70.2",
     "International Research Network": "60.6",
     "H-Index citations": "75.4",
@@ -2102,6 +2312,7 @@
   {
     "World Rank": "=210",
     "University name": "University of North Carolina at Chapel Hill",
+    "Location": "Chapel Hill, United States",
     "Overall Score": "70.2",
     "International Research Network": "68.1",
     "H-Index citations": "65.3",
@@ -2112,6 +2323,7 @@
   {
     "World Rank": "=210",
     "University name": "University of M\u00fcnster",
+    "Location": "Munster, Germany",
     "Overall Score": "70.2",
     "International Research Network": "76.2",
     "H-Index citations": "71.2",
@@ -2122,6 +2334,7 @@
   {
     "World Rank": "=213",
     "University name": "Albert-Ludwigs-Universitaet Freiburg",
+    "Location": "Freiburg im Breisgau, Germany",
     "Overall Score": "70.1",
     "International Research Network": "71.4",
     "H-Index citations": "75.1",
@@ -2132,6 +2345,7 @@
   {
     "World Rank": "=213",
     "University name": "Quaid-i-Azam University",
+    "Location": "Islamabad, Pakistan",
     "Overall Score": "70.1",
     "International Research Network": "72.7",
     "H-Index citations": "70.9",
@@ -2142,6 +2356,7 @@
   {
     "World Rank": "=213",
     "University name": "University of Massachusetts Amherst",
+    "Location": "Amherst, United States",
     "Overall Score": "70.1",
     "International Research Network": "66.6",
     "H-Index citations": "77.6",
@@ -2152,6 +2367,7 @@
   {
     "World Rank": "=213",
     "University name": "Vrije Universiteit Amsterdam",
+    "Location": "Amsterdam, Netherlands",
     "Overall Score": "70.1",
     "International Research Network": "66.3",
     "H-Index citations": "77.1",
@@ -2162,6 +2378,7 @@
   {
     "World Rank": "=217",
     "University name": "Indian Institute of Technology Delhi (IITD)",
+    "Location": "New Delhi, India",
     "Overall Score": "70",
     "International Research Network": "57.5",
     "H-Index citations": "50.6",
@@ -2172,6 +2389,7 @@
   {
     "World Rank": "=217",
     "University name": "UNESP",
+    "Location": "Sao Paulo, Brazil",
     "Overall Score": "70",
     "International Research Network": "62.9",
     "H-Index citations": "75.1",
@@ -2182,6 +2400,7 @@
   {
     "World Rank": "=217",
     "University name": "University of Illinois at Chicago (UIC)",
+    "Location": "Chicago, United States",
     "Overall Score": "70",
     "International Research Network": "75.1",
     "H-Index citations": "73.2",
@@ -2192,6 +2411,7 @@
   {
     "World Rank": "=217",
     "University name": "University of Naples - Federico II",
+    "Location": "Naples, Italy",
     "Overall Score": "70",
     "International Research Network": "83.8",
     "H-Index citations": "80.6",
@@ -2202,6 +2422,7 @@
   {
     "World Rank": "=217",
     "University name": "University of Tsukuba",
+    "Location": "Tsukuba City, Japan",
     "Overall Score": "70",
     "International Research Network": "73.5",
     "H-Index citations": "74.2",
@@ -2212,6 +2433,7 @@
   {
     "World Rank": "=222",
     "University name": "Jagiellonian University",
+    "Location": "Krakow, Poland",
     "Overall Score": "69.9",
     "International Research Network": "82.2",
     "H-Index citations": "72.3",
@@ -2222,6 +2444,7 @@
   {
     "World Rank": "=222",
     "University name": "Universit\u00e9 Paul Sabatier Toulouse III",
+    "Location": "Toulouse, France",
     "Overall Score": "69.9",
     "International Research Network": "84.7",
     "H-Index citations": "68.6",
@@ -2232,6 +2455,7 @@
   {
     "World Rank": "=224",
     "University name": "University of Wollongong",
+    "Location": "Wollongong, Australia",
     "Overall Score": "69.8",
     "International Research Network": "71.8",
     "H-Index citations": "63.4",
@@ -2242,6 +2466,7 @@
   {
     "World Rank": "=224",
     "University name": "Weizmann Institute of Science",
+    "Location": "Rehovot, Israel",
     "Overall Score": "69.8",
     "International Research Network": "56.7",
     "H-Index citations": "79.1",
@@ -2252,6 +2477,7 @@
   {
     "World Rank": "=226",
     "University name": "Chulalongkorn University",
+    "Location": "Bangkok, Thailand",
     "Overall Score": "69.7",
     "International Research Network": "69.4",
     "H-Index citations": "70.9",
@@ -2262,6 +2488,7 @@
   {
     "World Rank": "=226",
     "University name": "The Hong Kong Polytechnic University",
+    "Location": "Hong Kong SAR, Hong Kong SAR",
     "Overall Score": "69.7",
     "International Research Network": "56.7",
     "H-Index citations": "63.9",
@@ -2272,6 +2499,7 @@
   {
     "World Rank": "=228",
     "University name": "University College Dublin",
+    "Location": "Dublin, Ireland",
     "Overall Score": "69.6",
     "International Research Network": "69",
     "H-Index citations": "75.7",
@@ -2282,6 +2510,7 @@
   {
     "World Rank": "=228",
     "University name": "University of Florence",
+    "Location": "Florence, Italy",
     "Overall Score": "69.6",
     "International Research Network": "80.8",
     "H-Index citations": "76.2",
@@ -2292,6 +2521,7 @@
   {
     "World Rank": "=228",
     "University name": "University of Milano-Bicocca",
+    "Location": "Milan, Italy",
     "Overall Score": "69.6",
     "International Research Network": "65.8",
     "H-Index citations": "77.6",
@@ -2302,6 +2532,7 @@
   {
     "World Rank": "=228",
     "University name": "Universit\u00e9 de Montpellier",
+    "Location": "Montpellier, France",
     "Overall Score": "69.6",
     "International Research Network": "94.5",
     "H-Index citations": "70.5",
@@ -2312,6 +2543,7 @@
   {
     "World Rank": "=232",
     "University name": "ITMO University",
+    "Location": "St. Petersburg, Russia",
     "Overall Score": "69.4",
     "International Research Network": "62.9",
     "H-Index citations": "58.5",
@@ -2322,6 +2554,7 @@
   {
     "World Rank": "=232",
     "University name": "University of Bath",
+    "Location": "Bath, United Kingdom",
     "Overall Score": "69.4",
     "International Research Network": "69.3",
     "H-Index citations": "63.4",
@@ -2332,6 +2565,7 @@
   {
     "World Rank": "=234",
     "University name": "Beijing Normal University",
+    "Location": "Beijing, China (Mainland)",
     "Overall Score": "69.3",
     "International Research Network": "54",
     "H-Index citations": "79.1",
@@ -2342,6 +2576,7 @@
   {
     "World Rank": "=234",
     "University name": "RUDN University",
+    "Location": "Moscow, Russia",
     "Overall Score": "69.3",
     "International Research Network": "95.6",
     "H-Index citations": "48.9",
@@ -2352,6 +2587,7 @@
   {
     "World Rank": "=234",
     "University name": "Waseda University",
+    "Location": "Tokyo, Japan",
     "Overall Score": "69.3",
     "International Research Network": "60.5",
     "H-Index citations": "72.9",
@@ -2362,6 +2598,7 @@
   {
     "World Rank": "237",
     "University name": "University of Rochester",
+    "Location": "Rochester, United States",
     "Overall Score": "69.2",
     "International Research Network": "78.7",
     "H-Index citations": "77.3",
@@ -2372,6 +2609,7 @@
   {
     "World Rank": "=238",
     "University name": "Czech Technical University in Prague",
+    "Location": "Prague, Czechia",
     "Overall Score": "69.1",
     "International Research Network": "71.6",
     "H-Index citations": "74.5",
@@ -2382,6 +2620,7 @@
   {
     "World Rank": "=238",
     "University name": "University of Cape Town",
+    "Location": "Cape Town, South Africa",
     "Overall Score": "69.1",
     "International Research Network": "78.3",
     "H-Index citations": "73.2",
@@ -2392,6 +2631,7 @@
   {
     "World Rank": "=238",
     "University name": "University of Turin",
+    "Location": "Turin, Italy",
     "Overall Score": "69.1",
     "International Research Network": "78.3",
     "H-Index citations": "77.1",
@@ -2402,6 +2642,7 @@
   {
     "World Rank": "=241",
     "University name": "Middle East Technical University",
+    "Location": "Ankara, Turkey",
     "Overall Score": "69",
     "International Research Network": "71.6",
     "H-Index citations": "71.2",
@@ -2412,6 +2653,7 @@
   {
     "World Rank": "=241",
     "University name": "University of Calgary",
+    "Location": "Calgary, Canada",
     "Overall Score": "69",
     "International Research Network": "68",
     "H-Index citations": "66.6",
@@ -2422,6 +2664,7 @@
   {
     "World Rank": "=241",
     "University name": "University of Southern California",
+    "Location": "Los Angeles, United States",
     "Overall Score": "69",
     "International Research Network": "71.1",
     "H-Index citations": "67.4",
@@ -2432,6 +2675,7 @@
   {
     "World Rank": "=244",
     "University name": "Eberhard Karls Universit\u00e4t T\u00fcbingen",
+    "Location": "T\u00fcbingen, Germany",
     "Overall Score": "68.9",
     "International Research Network": "83.4",
     "H-Index citations": "67",
@@ -2442,6 +2686,7 @@
   {
     "World Rank": "=244",
     "University name": "Universiti Teknologi Malaysia",
+    "Location": "Skudai, Malaysia",
     "Overall Score": "68.9",
     "International Research Network": "76.3",
     "H-Index citations": "58.5",
@@ -2452,6 +2697,7 @@
   {
     "World Rank": "246",
     "University name": "Tel Aviv University",
+    "Location": "Tel Aviv, Israel",
     "Overall Score": "68.8",
     "International Research Network": "71.3",
     "H-Index citations": "77.9",
@@ -2462,6 +2708,7 @@
   {
     "World Rank": "247",
     "University name": "Leibniz University Hannover",
+    "Location": "Hanover, Germany",
     "Overall Score": "68.6",
     "International Research Network": "72.4",
     "H-Index citations": "71.2",
@@ -2472,6 +2719,7 @@
   {
     "World Rank": "=248",
     "University name": "Cardiff University",
+    "Location": "Cardiff, United Kingdom",
     "Overall Score": "68.5",
     "International Research Network": "74.3",
     "H-Index citations": "68.6",
@@ -2482,6 +2730,7 @@
   {
     "World Rank": "=248",
     "University name": "Indian Institute of Technology Kanpur (IITK)",
+    "Location": "Kanpur, India",
     "Overall Score": "68.5",
     "International Research Network": "49.6",
     "H-Index citations": "57.3",
@@ -2492,6 +2741,7 @@
   {
     "World Rank": "=248",
     "University name": "Indiana University Bloomington",
+    "Location": "Bloomington, United States",
     "Overall Score": "68.5",
     "International Research Network": "75.2",
     "H-Index citations": "77.1",
@@ -2502,6 +2752,7 @@
   {
     "World Rank": "=251",
     "University name": "Newcastle University",
+    "Location": "Newcastle upon Tyne, United Kingdom",
     "Overall Score": "68.4",
     "International Research Network": "72.2",
     "H-Index citations": "71.9",
@@ -2512,6 +2763,7 @@
   {
     "World Rank": "=251",
     "University name": "Peter the Great St. Petersburg Polytechnic University",
+    "Location": "St. Petersburg, Russia",
     "Overall Score": "68.4",
     "International Research Network": "71.1",
     "H-Index citations": "75.4",
@@ -2522,6 +2774,7 @@
   {
     "World Rank": "=251",
     "University name": "Universiti Putra Malaysia (UPM)",
+    "Location": "Seri Kembangan, Malaysia",
     "Overall Score": "68.4",
     "International Research Network": "73.1",
     "H-Index citations": "59.1",
@@ -2532,6 +2785,7 @@
   {
     "World Rank": "254",
     "University name": "National Technical University of Athens",
+    "Location": "Athens, Greece",
     "Overall Score": "68.3",
     "International Research Network": "72.6",
     "H-Index citations": "75.4",
@@ -2542,6 +2796,7 @@
   {
     "World Rank": "=255",
     "University name": "Academy of Sciences of the Czech Republic",
+    "Location": "Prague, Czechia",
     "Overall Score": "68.2",
     "International Research Network": "90.2",
     "H-Index citations": "83.4",
@@ -2552,6 +2807,7 @@
   {
     "World Rank": "=255",
     "University name": "National Central University",
+    "Location": "Taoyuan City, Taiwan",
     "Overall Score": "68.2",
     "International Research Network": "62.9",
     "H-Index citations": "72.6",
@@ -2562,6 +2818,7 @@
   {
     "World Rank": "=255",
     "University name": "Universit\u00e4t Innsbruck",
+    "Location": "Innsbruck, Austria",
     "Overall Score": "68.2",
     "International Research Network": "73.7",
     "H-Index citations": "75.4",
@@ -2572,6 +2829,7 @@
   {
     "World Rank": "258",
     "University name": "Virginia Polytechnic Institute and State University",
+    "Location": "Blacksburg, United States",
     "Overall Score": "68.1",
     "International Research Network": "73.1",
     "H-Index citations": "69",
@@ -2582,6 +2840,7 @@
   {
     "World Rank": "=259",
     "University name": "University of Virginia",
+    "Location": "Charlottesville, United States",
     "Overall Score": "68",
     "International Research Network": "74.6",
     "H-Index citations": "73.9",
@@ -2592,6 +2851,7 @@
   {
     "World Rank": "=259",
     "University name": "Universit\u00e4t Stuttgart",
+    "Location": "Stuttgart, Germany",
     "Overall Score": "68",
     "International Research Network": "67",
     "H-Index citations": "62.9",
@@ -2602,6 +2862,7 @@
   {
     "World Rank": "261",
     "University name": "National Cheng Kung University (NCKU)",
+    "Location": "Tainan City, Taiwan",
     "Overall Score": "67.9",
     "International Research Network": "56.4",
     "H-Index citations": "57.9",
@@ -2612,6 +2873,7 @@
   {
     "World Rank": "=262",
     "University name": "University of Basel",
+    "Location": "Basel, Switzerland",
     "Overall Score": "67.8",
     "International Research Network": "62.6",
     "H-Index citations": "65.7",
@@ -2622,6 +2884,7 @@
   {
     "World Rank": "=262",
     "University name": "University of Cologne",
+    "Location": "Cologne, Germany",
     "Overall Score": "67.8",
     "International Research Network": "77",
     "H-Index citations": "67",
@@ -2632,6 +2895,7 @@
   {
     "World Rank": "=262",
     "University name": "University of Granada",
+    "Location": "Granada, Spain",
     "Overall Score": "67.8",
     "International Research Network": "76.6",
     "H-Index citations": "72.6",
@@ -2642,6 +2906,7 @@
   {
     "World Rank": "=262",
     "University name": "University of Hawai\u02bbi at M\u0101noa",
+    "Location": "Honolulu, United States",
     "Overall Score": "67.8",
     "International Research Network": "71.5",
     "H-Index citations": "73.9",
@@ -2652,6 +2917,7 @@
   {
     "World Rank": "=262",
     "University name": "University of Pittsburgh",
+    "Location": "Pittsburgh, United States",
     "Overall Score": "67.8",
     "International Research Network": "71.2",
     "H-Index citations": "74.8",
@@ -2662,6 +2928,7 @@
   {
     "World Rank": "=262",
     "University name": "Warsaw University of Technology",
+    "Location": "Warsaw, Poland",
     "Overall Score": "67.8",
     "International Research Network": "69.5",
     "H-Index citations": "72.6",
@@ -2672,6 +2939,7 @@
   {
     "World Rank": "=268",
     "University name": "National Yang Ming Chiao Tung University",
+    "Location": "Hsinchu City, Taiwan",
     "Overall Score": "67.7",
     "International Research Network": "55.4",
     "H-Index citations": "58.5",
@@ -2682,6 +2950,7 @@
   {
     "World Rank": "=268",
     "University name": "Universiti Sains Malaysia (USM)",
+    "Location": "Gelugor, Malaysia",
     "Overall Score": "67.7",
     "International Research Network": "70.8",
     "H-Index citations": "53.1",
@@ -2692,6 +2961,7 @@
   {
     "World Rank": "=268",
     "University name": "University of Bergen",
+    "Location": "Bergen, Norway",
     "Overall Score": "67.7",
     "International Research Network": "71.6",
     "H-Index citations": "76.2",
@@ -2702,6 +2972,7 @@
   {
     "World Rank": "=271",
     "University name": "University of Ottawa",
+    "Location": "Ottawa, Canada",
     "Overall Score": "67.6",
     "International Research Network": "70.4",
     "H-Index citations": "67.9",
@@ -2712,6 +2983,7 @@
   {
     "World Rank": "=271",
     "University name": "University of York",
+    "Location": "York, United Kingdom",
     "Overall Score": "67.6",
     "International Research Network": "75",
     "H-Index citations": "66.2",
@@ -2722,6 +2994,7 @@
   {
     "World Rank": "=273",
     "University name": "North Carolina State University",
+    "Location": "Raleigh, United States",
     "Overall Score": "67.5",
     "International Research Network": "65.9",
     "H-Index citations": "70.5",
@@ -2732,6 +3005,7 @@
   {
     "World Rank": "=273",
     "University name": "University of Reading",
+    "Location": "Reading, United Kingdom",
     "Overall Score": "67.5",
     "International Research Network": "59.5",
     "H-Index citations": "75.4",
@@ -2742,6 +3016,7 @@
   {
     "World Rank": "=275",
     "University name": "Indian Institute of Technology Kharagpur (IIT-KGP)",
+    "Location": "Kharagpur, India",
     "Overall Score": "67.4",
     "International Research Network": "64.4",
     "H-Index citations": "53.8",
@@ -2752,6 +3027,7 @@
   {
     "World Rank": "=275",
     "University name": "Lancaster University",
+    "Location": "Lancaster,, United Kingdom",
     "Overall Score": "67.4",
     "International Research Network": "68.8",
     "H-Index citations": "77.9",
@@ -2762,6 +3038,7 @@
   {
     "World Rank": "=275",
     "University name": "McMaster University",
+    "Location": "Hamilton, Canada",
     "Overall Score": "67.4",
     "International Research Network": "58.4",
     "H-Index citations": "56.6",
@@ -2772,6 +3049,7 @@
   {
     "World Rank": "=275",
     "University name": "Queen's University at Kingston",
+    "Location": "Kingston, Canada",
     "Overall Score": "67.4",
     "International Research Network": "66.2",
     "H-Index citations": "61.9",
@@ -2782,6 +3060,7 @@
   {
     "World Rank": "=275",
     "University name": "RMIT University",
+    "Location": "Melbourne, Australia",
     "Overall Score": "67.4",
     "International Research Network": "61.2",
     "H-Index citations": "66.6",
@@ -2792,6 +3071,7 @@
   {
     "World Rank": "=275",
     "University name": "University of Trento",
+    "Location": "Trento, Italy",
     "Overall Score": "67.4",
     "International Research Network": "68.7",
     "H-Index citations": "82.8",
@@ -2802,6 +3082,7 @@
   {
     "World Rank": "=281",
     "University name": "King Fahd University of Petroleum & Minerals",
+    "Location": "Dhahran, Saudi Arabia",
     "Overall Score": "67.3",
     "International Research Network": "73.4",
     "H-Index citations": "50.6",
@@ -2812,6 +3093,7 @@
   {
     "World Rank": "=281",
     "University name": "Nankai University",
+    "Location": "Tianjin, China (Mainland)",
     "Overall Score": "67.3",
     "International Research Network": "56.6",
     "H-Index citations": "73.9",
@@ -2822,6 +3104,7 @@
   {
     "World Rank": "=283",
     "University name": "City University of New York",
+    "Location": "New York City, United States",
     "Overall Score": "67.2",
     "International Research Network": "62.8",
     "H-Index citations": "77.3",
@@ -2832,6 +3115,7 @@
   {
     "World Rank": "=283",
     "University name": "University of Porto",
+    "Location": "Porto, Portugal",
     "Overall Score": "67.2",
     "International Research Network": "85.4",
     "H-Index citations": "70.5",
@@ -2842,6 +3126,7 @@
   {
     "World Rank": "=283",
     "University name": "Universit\u00e9 de Rennes 1",
+    "Location": "Rennes, France",
     "Overall Score": "67.2",
     "International Research Network": "80.4",
     "H-Index citations": "75.7",
@@ -2852,6 +3137,7 @@
   {
     "World Rank": "=283",
     "University name": "Xi\u2019an Jiaotong University",
+    "Location": "Xi'an, China (Mainland)",
     "Overall Score": "67.2",
     "International Research Network": "65.2",
     "H-Index citations": "67.9",
@@ -2862,6 +3148,7 @@
   {
     "World Rank": "=287",
     "University name": "E\u00f6tv\u00f6s Lor\u00e1nd University",
+    "Location": "Budapest, Hungary",
     "Overall Score": "67.1",
     "International Research Network": "57.7",
     "H-Index citations": "79.1",
@@ -2872,6 +3159,7 @@
   {
     "World Rank": "=287",
     "University name": "Iowa State University",
+    "Location": "Ames, United States",
     "Overall Score": "67.1",
     "International Research Network": "73",
     "H-Index citations": "74.8",
@@ -2882,6 +3170,7 @@
   {
     "World Rank": "=287",
     "University name": "Oregon State University",
+    "Location": "Corvallis, United States",
     "Overall Score": "67.1",
     "International Research Network": "67.8",
     "H-Index citations": "68.6",
@@ -2892,6 +3181,7 @@
   {
     "World Rank": "=287",
     "University name": "Queen's University Belfast",
+    "Location": "Belfast, United Kingdom",
     "Overall Score": "67.1",
     "International Research Network": "85.1",
     "H-Index citations": "60.8",
@@ -2902,6 +3192,7 @@
   {
     "World Rank": "=287",
     "University name": "The Hebrew University of Jerusalem",
+    "Location": "Jerusalem, Israel",
     "Overall Score": "67.1",
     "International Research Network": "58.7",
     "H-Index citations": "70.2",
@@ -2912,6 +3203,7 @@
   {
     "World Rank": "=292",
     "University name": "Cairo University",
+    "Location": "Giza, Egypt",
     "Overall Score": "67",
     "International Research Network": "70",
     "H-Index citations": "63.4",
@@ -2922,6 +3214,7 @@
   {
     "World Rank": "=292",
     "University name": "Instituto Polit\u00e9cnico Nacional (IPN)",
+    "Location": "Ciudad de M\u00e9xico, Mexico",
     "Overall Score": "67",
     "International Research Network": "66.8",
     "H-Index citations": "72.6",
@@ -2932,6 +3225,7 @@
   {
     "World Rank": "=292",
     "University name": "University of California, Santa Cruz",
+    "Location": "Santa Cruz, United States",
     "Overall Score": "67",
     "International Research Network": "64.7",
     "H-Index citations": "77.9",
@@ -2942,6 +3236,7 @@
   {
     "World Rank": "=295",
     "University name": "King Saud University",
+    "Location": "Riyadh, Saudi Arabia",
     "Overall Score": "66.9",
     "International Research Network": "91.9",
     "H-Index citations": "61.9",
@@ -2952,6 +3247,7 @@
   {
     "World Rank": "=295",
     "University name": "National Research Tomsk Polytechnic University",
+    "Location": " Russia",
     "Overall Score": "66.9",
     "International Research Network": "71.4",
     "H-Index citations": "63.4",
@@ -2962,6 +3258,7 @@
   {
     "World Rank": "=295",
     "University name": "The National University of Science and Technology MISIS",
+    "Location": "Moscow, Russia",
     "Overall Score": "66.9",
     "International Research Network": "68.2",
     "H-Index citations": "57.9",
@@ -2972,6 +3269,7 @@
   {
     "World Rank": "=295",
     "University name": "University of Notre Dame",
+    "Location": "Notre Dame, United States",
     "Overall Score": "66.9",
     "International Research Network": "72.9",
     "H-Index citations": "75.1",
@@ -2982,6 +3280,7 @@
   {
     "World Rank": "299",
     "University name": "Huazhong University of Science and Technology",
+    "Location": "Wuhan, China (Mainland)",
     "Overall Score": "66.8",
     "International Research Network": "62.9",
     "H-Index citations": "71.2",
@@ -2992,6 +3291,7 @@
   {
     "World Rank": "=300",
     "University name": "Radboud University",
+    "Location": "Nijmegen, Netherlands",
     "Overall Score": "66.7",
     "International Research Network": "67.7",
     "H-Index citations": "76.8",
@@ -3002,6 +3302,7 @@
   {
     "World Rank": "=300",
     "University name": "University of Strathclyde",
+    "Location": "Glasgow, United Kingdom",
     "Overall Score": "66.7",
     "International Research Network": "67",
     "H-Index citations": "69.4",
@@ -3012,6 +3313,7 @@
   {
     "World Rank": "=300",
     "University name": "University of Technology Sydney",
+    "Location": "Haymarket, Australia",
     "Overall Score": "66.7",
     "International Research Network": "63.5",
     "H-Index citations": "60.3",
@@ -3022,6 +3324,7 @@
   {
     "World Rank": "=303",
     "University name": "Aristotle University of Thessaloniki",
+    "Location": "Thessaloniki, Greece",
     "Overall Score": "66.6",
     "International Research Network": "83.6",
     "H-Index citations": "71.6",
@@ -3032,6 +3335,7 @@
   {
     "World Rank": "=303",
     "University name": "Christian-Albrechts-University zu Kiel",
+    "Location": "Kiel, Germany",
     "Overall Score": "66.6",
     "International Research Network": "82.4",
     "H-Index citations": "70.5",
@@ -3042,6 +3346,7 @@
   {
     "World Rank": "=303",
     "University name": "Istanbul Technical University",
+    "Location": "Maslak-Istanbul, Turkey",
     "Overall Score": "66.6",
     "International Research Network": "65.2",
     "H-Index citations": "71.6",
@@ -3052,6 +3357,7 @@
   {
     "World Rank": "=303",
     "University name": "Universidad Nacional de Colombia",
+    "Location": "Bogot\u00e1, Colombia",
     "Overall Score": "66.6",
     "International Research Network": "55.1",
     "H-Index citations": "63.4",
@@ -3062,6 +3368,7 @@
   {
     "World Rank": "=307",
     "University name": "Queensland University of Technology (QUT)",
+    "Location": "Brisbane, Australia",
     "Overall Score": "66.4",
     "International Research Network": "70.4",
     "H-Index citations": "57.3",
@@ -3072,6 +3379,7 @@
   {
     "World Rank": "=307",
     "University name": "University of Delhi",
+    "Location": "New Delhi, India",
     "Overall Score": "66.4",
     "International Research Network": "57.6",
     "H-Index citations": "71.2",
@@ -3082,6 +3390,7 @@
   {
     "World Rank": "=309",
     "University name": "Northeastern University",
+    "Location": "Boston, United States",
     "Overall Score": "66.3",
     "International Research Network": "70.2",
     "H-Index citations": "72.9",
@@ -3092,6 +3401,7 @@
   {
     "World Rank": "=309",
     "University name": "Norwegian University of Science And Technology",
+    "Location": "Trondheim, Norway",
     "Overall Score": "66.3",
     "International Research Network": "74.2",
     "H-Index citations": "57.9",
@@ -3102,6 +3412,7 @@
   {
     "World Rank": "=309",
     "University name": "Ruhr-Universit\u00e4t Bochum",
+    "Location": "Bochum, Germany",
     "Overall Score": "66.3",
     "International Research Network": "75.8",
     "H-Index citations": "66.6",
@@ -3112,6 +3423,7 @@
   {
     "World Rank": "=309",
     "University name": "Universit\u00e0 degli Studi di Pavia",
+    "Location": "Pavia, Italy",
     "Overall Score": "66.3",
     "International Research Network": "80.1",
     "H-Index citations": "76",
@@ -3122,6 +3434,7 @@
   {
     "World Rank": "=313",
     "University name": "Vrije Universiteit Brussel (VUB)",
+    "Location": "Brussels, Belgium",
     "Overall Score": "66.2",
     "International Research Network": "79.8",
     "H-Index citations": "73.2",
@@ -3132,6 +3445,7 @@
   {
     "World Rank": "=313",
     "University name": "Washington University in St. Louis",
+    "Location": "St. Louis, United States",
     "Overall Score": "66.2",
     "International Research Network": "60.2",
     "H-Index citations": "67.9",
@@ -3142,6 +3456,7 @@
   {
     "World Rank": "=315",
     "University name": "Kyungpook National University",
+    "Location": "Daegu, South Korea",
     "Overall Score": "66",
     "International Research Network": "66.5",
     "H-Index citations": "72.6",
@@ -3152,6 +3467,7 @@
   {
     "World Rank": "=315",
     "University name": "Swansea University",
+    "Location": "Swansea, United Kingdom",
     "Overall Score": "66",
     "International Research Network": "68.3",
     "H-Index citations": "62.4",
@@ -3162,6 +3478,7 @@
   {
     "World Rank": "=317",
     "University name": "Beihang University (former BUAA)",
+    "Location": "Beijing, China (Mainland)",
     "Overall Score": "65.9",
     "International Research Network": "65.8",
     "H-Index citations": "75.7",
@@ -3172,6 +3489,7 @@
   {
     "World Rank": "=317",
     "University name": "Harbin Institute of Technology",
+    "Location": "Harbin, China (Mainland)",
     "Overall Score": "65.9",
     "International Research Network": "61.7",
     "H-Index citations": "63.4",
@@ -3182,6 +3500,7 @@
   {
     "World Rank": "=317",
     "University name": "University of Antwerp",
+    "Location": "Antwerp, Belgium",
     "Overall Score": "65.9",
     "International Research Network": "80.6",
     "H-Index citations": "72.6",
@@ -3192,6 +3511,7 @@
   {
     "World Rank": "=317",
     "University name": "Washington State University",
+    "Location": "Pullman, United States",
     "Overall Score": "65.9",
     "International Research Network": "68.2",
     "H-Index citations": "66.2",
@@ -3202,6 +3522,7 @@
   {
     "World Rank": "321",
     "University name": "TU Dortmund University",
+    "Location": "Dortmund, Germany",
     "Overall Score": "65.7",
     "International Research Network": "81.5",
     "H-Index citations": "75.7",
@@ -3212,6 +3533,7 @@
   {
     "World Rank": "=322",
     "University name": "Heriot-Watt University",
+    "Location": "Edinburgh, United Kingdom",
     "Overall Score": "65.6",
     "International Research Network": "68.5",
     "H-Index citations": "63.9",
@@ -3222,6 +3544,7 @@
   {
     "World Rank": "=322",
     "University name": "Tata Institute of Fundamental Research",
+    "Location": "Pune, India",
     "Overall Score": "65.6",
     "International Research Network": "60",
     "H-Index citations": "77.1",
@@ -3232,6 +3555,7 @@
   {
     "World Rank": "=322",
     "University name": "Universidad Nacional de La Plata (UNLP)",
+    "Location": "La Plata, Argentina",
     "Overall Score": "65.6",
     "International Research Network": "59",
     "H-Index citations": "74.8",
@@ -3242,6 +3566,7 @@
   {
     "World Rank": "=322",
     "University name": "University of Ljubljana",
+    "Location": "Ljubljana, Slovenia",
     "Overall Score": "65.6",
     "International Research Network": "74.2",
     "H-Index citations": "73.6",
@@ -3252,6 +3577,7 @@
   {
     "World Rank": "=322",
     "University name": "University of Victoria (UVic)",
+    "Location": "Victoria, Canada",
     "Overall Score": "65.6",
     "International Research Network": "65.7",
     "H-Index citations": "76",
@@ -3262,6 +3588,7 @@
   {
     "World Rank": "=327",
     "University name": "The University of Tennessee, Knoxville",
+    "Location": "Knoxville, United States",
     "Overall Score": "65.5",
     "International Research Network": "64.9",
     "H-Index citations": "77.6",
@@ -3272,6 +3599,7 @@
   {
     "World Rank": "=327",
     "University name": "Universiti Kebangsaan Malaysia (UKM)",
+    "Location": "Bangi, Malaysia",
     "Overall Score": "65.5",
     "International Research Network": "65.2",
     "H-Index citations": "48.9",
@@ -3282,6 +3610,7 @@
   {
     "World Rank": "=327",
     "University name": "University of Tasmania",
+    "Location": "Hobart, Australia",
     "Overall Score": "65.5",
     "International Research Network": "70",
     "H-Index citations": "70.2",
@@ -3292,6 +3621,7 @@
   {
     "World Rank": "=327",
     "University name": "University of Utah",
+    "Location": "Salt Lake City, United States",
     "Overall Score": "65.5",
     "International Research Network": "77.2",
     "H-Index citations": "67.4",
@@ -3302,6 +3632,7 @@
   {
     "World Rank": "=331",
     "University name": "Griffith University",
+    "Location": "Nathan, Australia",
     "Overall Score": "65.4",
     "International Research Network": "73.3",
     "H-Index citations": "64.8",
@@ -3312,6 +3643,7 @@
   {
     "World Rank": "=331",
     "University name": "University of Otago",
+    "Location": "Dunedin, New Zealand",
     "Overall Score": "65.4",
     "International Research Network": "52.2",
     "H-Index citations": "58.5",
@@ -3322,6 +3654,7 @@
   {
     "World Rank": "=331",
     "University name": "Universit\u00e9 C\u00f4te d'Azur",
+    "Location": "Nice, France",
     "Overall Score": "65.4",
     "International Research Network": "84.2",
     "H-Index citations": "76",
@@ -3332,6 +3665,7 @@
   {
     "World Rank": "=334",
     "University name": "HSE University",
+    "Location": "Moscow, Russia",
     "Overall Score": "65.3",
     "International Research Network": "48",
     "H-Index citations": "53.8",
@@ -3342,6 +3676,7 @@
   {
     "World Rank": "=334",
     "University name": "Hiroshima University",
+    "Location": "Higashihiroshima City, Japan",
     "Overall Score": "65.3",
     "International Research Network": "71.6",
     "H-Index citations": "64.4",
@@ -3352,6 +3687,7 @@
   {
     "World Rank": "=334",
     "University name": "Kazan (Volga region) Federal University",
+    "Location": "Kazan, Russia",
     "Overall Score": "65.3",
     "International Research Network": "72.2",
     "H-Index citations": "53.1",
@@ -3362,6 +3698,7 @@
   {
     "World Rank": "=334",
     "University name": "Universidad de los Andes",
+    "Location": "Bogot\u00e1, Colombia",
     "Overall Score": "65.3",
     "International Research Network": "65.7",
     "H-Index citations": "70.9",
@@ -3372,6 +3709,7 @@
   {
     "World Rank": "=334",
     "University name": "University of California, Riverside",
+    "Location": "Riverside, United States",
     "Overall Score": "65.3",
     "International Research Network": "75.7",
     "H-Index citations": "76",
@@ -3382,6 +3720,7 @@
   {
     "World Rank": "=334",
     "University name": "University of Miami",
+    "Location": "Miami, United States",
     "Overall Score": "65.3",
     "International Research Network": "66.8",
     "H-Index citations": "73.2",
@@ -3392,6 +3731,7 @@
   {
     "World Rank": "=340",
     "University name": "Jilin University",
+    "Location": "Changchun, China (Mainland)",
     "Overall Score": "65.2",
     "International Research Network": "58.4",
     "H-Index citations": "72.3",
@@ -3402,6 +3742,7 @@
   {
     "World Rank": "=340",
     "University name": "Pusan National University",
+    "Location": "Busan, South Korea",
     "Overall Score": "65.2",
     "International Research Network": "48.9",
     "H-Index citations": "67.4",
@@ -3412,6 +3753,7 @@
   {
     "World Rank": "=340",
     "University name": "Victoria University of Wellington",
+    "Location": "Kelburn, Wellington, New Zealand",
     "Overall Score": "65.2",
     "International Research Network": "61.3",
     "H-Index citations": "56.6",
@@ -3422,6 +3764,7 @@
   {
     "World Rank": "343",
     "University name": "Xiamen University",
+    "Location": "Xiamen, China (Mainland)",
     "Overall Score": "65.1",
     "International Research Network": "52.8",
     "H-Index citations": "71.2",
@@ -3432,6 +3775,7 @@
   {
     "World Rank": "344",
     "University name": "Universidade de Santiago de Compostela",
+    "Location": "Santiago de Compostela, Spain",
     "Overall Score": "65",
     "International Research Network": "74.5",
     "H-Index citations": "71.6",
@@ -3442,6 +3786,7 @@
   {
     "World Rank": "=345",
     "University name": "Ulsan National Institute of Science and Technology (UNIST)",
+    "Location": " South Korea",
     "Overall Score": "64.9",
     "International Research Network": "37.8",
     "H-Index citations": "62.4",
@@ -3452,6 +3797,7 @@
   {
     "World Rank": "=345",
     "University name": "Universitat Politecnica de Valencia",
+    "Location": "Val\u00e8ncia, Spain",
     "Overall Score": "64.9",
     "International Research Network": "75.2",
     "H-Index citations": "61.4",
@@ -3462,6 +3808,7 @@
   {
     "World Rank": "=345",
     "University name": "University of Houston",
+    "Location": "Houston, United States",
     "Overall Score": "64.9",
     "International Research Network": "76.3",
     "H-Index citations": "71.6",
@@ -3472,6 +3819,7 @@
   {
     "World Rank": "=348",
     "University name": "Swinburne University of Technology",
+    "Location": "Melbourne, Australia",
     "Overall Score": "64.8",
     "International Research Network": "69.1",
     "H-Index citations": "68.6",
@@ -3482,6 +3830,7 @@
   {
     "World Rank": "=348",
     "University name": "The University of Newcastle, Australia (UON)",
+    "Location": "Callaghan, Australia",
     "Overall Score": "64.8",
     "International Research Network": "73",
     "H-Index citations": "55.9",
@@ -3492,6 +3841,7 @@
   {
     "World Rank": "=348",
     "University name": "Universit\u00e4t Jena",
+    "Location": "Jena, Germany",
     "Overall Score": "64.8",
     "International Research Network": "77.8",
     "H-Index citations": "69",
@@ -3502,6 +3852,7 @@
   {
     "World Rank": "=351",
     "University name": "COMSATS University Islamabad",
+    "Location": "Islamabad, Pakistan",
     "Overall Score": "64.7",
     "International Research Network": "81.8",
     "H-Index citations": "60.8",
@@ -3512,6 +3863,7 @@
   {
     "World Rank": "=351",
     "University name": "Tokyo University of Science",
+    "Location": "Kagurazaka, Japan",
     "Overall Score": "64.7",
     "International Research Network": "51.5",
     "H-Index citations": "57.9",
@@ -3522,6 +3874,7 @@
   {
     "World Rank": "=351",
     "University name": "University of Aberdeen",
+    "Location": "Aberdeen, United Kingdom",
     "Overall Score": "64.7",
     "International Research Network": "68.2",
     "H-Index citations": "61.4",
@@ -3532,6 +3885,7 @@
   {
     "World Rank": "=351",
     "University name": "Universit\u00e4t Bremen",
+    "Location": "Bremen, Germany",
     "Overall Score": "64.7",
     "International Research Network": "73.6",
     "H-Index citations": "66.6",
@@ -3542,6 +3896,7 @@
   {
     "World Rank": "=351",
     "University name": "Universit\u00e9 de Lille",
+    "Location": "Lille, France",
     "Overall Score": "64.7",
     "International Research Network": "75.3",
     "H-Index citations": "61.4",
@@ -3552,6 +3907,7 @@
   {
     "World Rank": "=351",
     "University name": "Western University",
+    "Location": "London, Canada",
     "Overall Score": "64.7",
     "International Research Network": "64",
     "H-Index citations": "59.1",
@@ -3562,6 +3918,7 @@
   {
     "World Rank": "=357",
     "University name": "University of East Anglia (UEA)",
+    "Location": "Norwich, United Kingdom",
     "Overall Score": "64.6",
     "International Research Network": "67.2",
     "H-Index citations": "72.3",
@@ -3572,6 +3929,7 @@
   {
     "World Rank": "=357",
     "University name": "University of the Basque Country",
+    "Location": "Leioa, Spain",
     "Overall Score": "64.6",
     "International Research Network": "83.3",
     "H-Index citations": "69.4",
@@ -3582,6 +3940,7 @@
   {
     "World Rank": "=357",
     "University name": "Ural Federal University - UrFU",
+    "Location": "Ekaterinburg, Russia",
     "Overall Score": "64.6",
     "International Research Network": "71.7",
     "H-Index citations": "45.9",
@@ -3592,6 +3951,7 @@
   {
     "World Rank": "360",
     "University name": "University of Witwatersrand",
+    "Location": "Johannesburg, South Africa",
     "Overall Score": "64.5",
     "International Research Network": "80.9",
     "H-Index citations": "72.3",
@@ -3602,6 +3962,7 @@
   {
     "World Rank": "=361",
     "University name": "Beijing Institute of Technology",
+    "Location": "Beijing, China (Mainland)",
     "Overall Score": "64.4",
     "International Research Network": "45.7",
     "H-Index citations": "62.4",
@@ -3612,6 +3973,7 @@
   {
     "World Rank": "=361",
     "University name": "University of Coimbra",
+    "Location": "Coimbra, Portugal",
     "Overall Score": "64.4",
     "International Research Network": "65.6",
     "H-Index citations": "74.2",
@@ -3622,6 +3984,7 @@
   {
     "World Rank": "=363",
     "University name": "Indian Institute of Technology Roorkee (IITR)",
+    "Location": "Roorkee, India",
     "Overall Score": "64.3",
     "International Research Network": "62.9",
     "H-Index citations": "54.5",
@@ -3632,6 +3995,7 @@
   {
     "World Rank": "=363",
     "University name": "Simon Fraser University",
+    "Location": "Burnaby, Canada",
     "Overall Score": "64.3",
     "International Research Network": "54.6",
     "H-Index citations": "70.9",
@@ -3642,6 +4006,7 @@
   {
     "World Rank": "=363",
     "University name": "University of Trieste",
+    "Location": "Trieste, Italy",
     "Overall Score": "64.3",
     "International Research Network": "76.5",
     "H-Index citations": "72.9",
@@ -3652,6 +4017,7 @@
   {
     "World Rank": "=363",
     "University name": "Vanderbilt University",
+    "Location": "Nashville, United States",
     "Overall Score": "64.3",
     "International Research Network": "72",
     "H-Index citations": "72.9",
@@ -3662,6 +4028,7 @@
   {
     "World Rank": "367",
     "University name": "National and Kapodistrian University of Athens",
+    "Location": "Athens, Greece",
     "Overall Score": "64.2",
     "International Research Network": "74.9",
     "H-Index citations": "76.8",
@@ -3672,6 +4039,7 @@
   {
     "World Rank": "368",
     "University name": "International School for Advanced Studies of Trieste",
+    "Location": "Trieste, Italy",
     "Overall Score": "64.1",
     "International Research Network": "49.8",
     "H-Index citations": "73.6",
@@ -3682,6 +4050,7 @@
   {
     "World Rank": "=369",
     "University name": "Colorado School of Mines",
+    "Location": "Golden, United States",
     "Overall Score": "64",
     "International Research Network": "63.6",
     "H-Index citations": "58.5",
@@ -3692,6 +4061,7 @@
   {
     "World Rank": "=369",
     "University name": "Shandong University",
+    "Location": "Jinan, China (Mainland)",
     "Overall Score": "64",
     "International Research Network": "59.8",
     "H-Index citations": "75.4",
@@ -3702,6 +4072,7 @@
   {
     "World Rank": "=369",
     "University name": "Tampere University",
+    "Location": "Tampere, Finland",
     "Overall Score": "64",
     "International Research Network": "73.3",
     "H-Index citations": "75.4",
@@ -3712,6 +4083,7 @@
   {
     "World Rank": "=372",
     "University name": "Bandung Institute of Technology (ITB)",
+    "Location": "Bandung, Indonesia",
     "Overall Score": "63.9",
     "International Research Network": "38.8",
     "H-Index citations": "42.5",
@@ -3722,6 +4094,7 @@
   {
     "World Rank": "=372",
     "University name": "Shanghai University",
+    "Location": "Shanghai, China (Mainland)",
     "Overall Score": "63.9",
     "International Research Network": "56.7",
     "H-Index citations": "64.4",
@@ -3732,6 +4105,7 @@
   {
     "World Rank": "=372",
     "University name": "Taras Shevchenko National University of Kyiv",
+    "Location": "Kyiv, Ukraine",
     "Overall Score": "63.9",
     "International Research Network": "67.1",
     "H-Index citations": "54.5",
@@ -3742,6 +4116,7 @@
   {
     "World Rank": "=375",
     "University name": "Julius-Maximilians-Universit\u00e4t W\u00fcrzburg",
+    "Location": "W\u00fcrzburg, Germany",
     "Overall Score": "63.8",
     "International Research Network": "70.9",
     "H-Index citations": "74.2",
@@ -3752,6 +4127,7 @@
   {
     "World Rank": "=375",
     "University name": "Universit\u00e9 de Li\u00e8ge",
+    "Location": "Li\u00e8ge, Belgium",
     "Overall Score": "63.8",
     "International Research Network": "73",
     "H-Index citations": "61.9",
@@ -3762,6 +4138,7 @@
   {
     "World Rank": "=377",
     "University name": "Kobe University",
+    "Location": "Kobe City, Japan",
     "Overall Score": "63.7",
     "International Research Network": "64",
     "H-Index citations": "70.9",
@@ -3772,6 +4149,7 @@
   {
     "World Rank": "=377",
     "University name": "University of Genoa",
+    "Location": "Genoa, Italy",
     "Overall Score": "63.7",
     "International Research Network": "71.7",
     "H-Index citations": "80.8",
@@ -3782,6 +4160,7 @@
   {
     "World Rank": "=377",
     "University name": "University of Gothenburg",
+    "Location": "Gothenburg, Sweden",
     "Overall Score": "63.7",
     "International Research Network": "68.1",
     "H-Index citations": "63.4",
@@ -3792,6 +4171,7 @@
   {
     "World Rank": "=377",
     "University name": "University of Iowa",
+    "Location": "Iowa City, United States",
     "Overall Score": "63.7",
     "International Research Network": "72.2",
     "H-Index citations": "77.6",
@@ -3802,6 +4182,7 @@
   {
     "World Rank": "=381",
     "University name": "Kyung Hee University",
+    "Location": " South Korea",
     "Overall Score": "63.6",
     "International Research Network": "74.3",
     "H-Index citations": "57.3",
@@ -3812,6 +4193,7 @@
   {
     "World Rank": "=381",
     "University name": "University of Science and Technology Beijing",
+    "Location": "Beijing, China (Mainland)",
     "Overall Score": "63.6",
     "International Research Network": "53",
     "H-Index citations": "60.3",
@@ -3822,6 +4204,7 @@
   {
     "World Rank": "=381",
     "University name": "Universit\u00e4t Potsdam",
+    "Location": "Potsdam, Germany",
     "Overall Score": "63.6",
     "International Research Network": "80.7",
     "H-Index citations": "63.4",
@@ -3832,6 +4215,7 @@
   {
     "World Rank": "=384",
     "University name": "Belarusian State University",
+    "Location": "Minsk, Belarus",
     "Overall Score": "63.5",
     "International Research Network": "73.6",
     "H-Index citations": "76",
@@ -3842,6 +4226,7 @@
   {
     "World Rank": "=384",
     "University name": "Jeonbuk National University",
+    "Location": "Jeonju, South Korea",
     "Overall Score": "63.5",
     "International Research Network": "61.8",
     "H-Index citations": "69.8",
@@ -3852,6 +4237,7 @@
   {
     "World Rank": "=384",
     "University name": "Link\u00f6ping University",
+    "Location": "Link\u00f6ping, Sweden",
     "Overall Score": "63.5",
     "International Research Network": "75.1",
     "H-Index citations": "57.3",
@@ -3862,6 +4248,7 @@
   {
     "World Rank": "=387",
     "University name": "Bauman Moscow State Technical University",
+    "Location": "Moscow, Russia",
     "Overall Score": "63.4",
     "International Research Network": "40.3",
     "H-Index citations": "40",
@@ -3872,6 +4259,7 @@
   {
     "World Rank": "=387",
     "University name": "National University of Sciences And Technology (NUST) Islamabad",
+    "Location": "Islamabad, Pakistan",
     "Overall Score": "63.4",
     "International Research Network": "59.2",
     "H-Index citations": "48.9",
@@ -3882,6 +4270,7 @@
   {
     "World Rank": "=389",
     "University name": "Tongji University",
+    "Location": "Shanghai, China (Mainland)",
     "Overall Score": "63.3",
     "International Research Network": "55.3",
     "H-Index citations": "66.2",
@@ -3892,6 +4281,7 @@
   {
     "World Rank": "=389",
     "University name": "Universidad de Zaragoza",
+    "Location": "Zaragoza, Spain",
     "Overall Score": "63.3",
     "International Research Network": "72.5",
     "H-Index citations": "62.4",
@@ -3902,6 +4292,7 @@
   {
     "World Rank": "=391",
     "University name": "Ewha Womans University",
+    "Location": "Seoul, South Korea",
     "Overall Score": "63.2",
     "International Research Network": "53.6",
     "H-Index citations": "65.3",
@@ -3912,6 +4303,7 @@
   {
     "World Rank": "=391",
     "University name": "Indian Institute of Technology Guwahati (IITG)",
+    "Location": "Guwahati, India",
     "Overall Score": "63.2",
     "International Research Network": "53.2",
     "H-Index citations": "61.9",
@@ -3922,6 +4314,7 @@
   {
     "World Rank": "=391",
     "University name": "University of Bari",
+    "Location": "Bari, Italy",
     "Overall Score": "63.2",
     "International Research Network": "77.5",
     "H-Index citations": "75.1",
@@ -3932,6 +4325,7 @@
   {
     "World Rank": "=391",
     "University name": "University of Lausanne",
+    "Location": "Lausanne, Switzerland",
     "Overall Score": "63.2",
     "International Research Network": "68.7",
     "H-Index citations": "60.3",
@@ -3942,6 +4336,7 @@
   {
     "World Rank": "=391",
     "University name": "University of New Mexico",
+    "Location": "Albuquerque, United States",
     "Overall Score": "63.2",
     "International Research Network": "68.3",
     "H-Index citations": "72.9",
@@ -3952,6 +4347,7 @@
   {
     "World Rank": "=396",
     "University name": "Keio University",
+    "Location": "Tokyo, Japan",
     "Overall Score": "63.1",
     "International Research Network": "49.1",
     "H-Index citations": "59.1",
@@ -3962,6 +4358,7 @@
   {
     "World Rank": "=396",
     "University name": "Universidad de Concepci\u00f3n",
+    "Location": "Concepci\u00f3n, Chile",
     "Overall Score": "63.1",
     "International Research Network": "64.1",
     "H-Index citations": "52.3",
@@ -3972,6 +4369,7 @@
   {
     "World Rank": "=396",
     "University name": "University of Central Florida",
+    "Location": "Orlando, United States",
     "Overall Score": "63.1",
     "International Research Network": "69.1",
     "H-Index citations": "61.4",
@@ -3982,6 +4380,7 @@
   {
     "World Rank": "=396",
     "University name": "Universit\u00e9 Laval",
+    "Location": "Qu\u00e9bec, Canada",
     "Overall Score": "63.1",
     "International Research Network": "68.1",
     "H-Index citations": "59.7",
@@ -3992,6 +4391,7 @@
   {
     "World Rank": "400",
     "University name": "University of Kansas",
+    "Location": "Lawrence, United States",
     "Overall Score": "63",
     "International Research Network": "70.2",
     "H-Index citations": "72.9",
@@ -4002,6 +4402,7 @@
   {
     "World Rank": "401-450",
     "University name": "AGH University of Science and Technology",
+    "Location": "Krakow, Poland",
     "Overall Score": "-",
     "International Research Network": "72.6",
     "H-Index citations": "74.5",
@@ -4012,6 +4413,7 @@
   {
     "World Rank": "401-450",
     "University name": "Ain Shams University",
+    "Location": "Cairo, Egypt",
     "Overall Score": "-",
     "International Research Network": "68.3",
     "H-Index citations": "66.6",
@@ -4022,6 +4424,7 @@
   {
     "World Rank": "401-450",
     "University name": "Bogazi\u00e7i \u00dcniversitesi",
+    "Location": "Istanbul, Turkey",
     "Overall Score": "-",
     "International Research Network": "49.2",
     "H-Index citations": "75.7",
@@ -4032,6 +4435,7 @@
   {
     "World Rank": "401-450",
     "University name": "Budapest University of Technology and Economics",
+    "Location": "Budapest, Hungary",
     "Overall Score": "-",
     "International Research Network": "67.9",
     "H-Index citations": "52.3",
@@ -4042,6 +4446,7 @@
   {
     "World Rank": "401-450",
     "University name": "Case Western Reserve University",
+    "Location": "Cleveland, United States",
     "Overall Score": "-",
     "International Research Network": "63.8",
     "H-Index citations": "61.9",
@@ -4052,6 +4457,7 @@
   {
     "World Rank": "401-450",
     "University name": "Catania University",
+    "Location": "Catania, Italy",
     "Overall Score": "-",
     "International Research Network": "75.3",
     "H-Index citations": "73.6",
@@ -4062,6 +4468,7 @@
   {
     "World Rank": "401-450",
     "University name": "Dalhousie University",
+    "Location": "Halifax, Canada",
     "Overall Score": "-",
     "International Research Network": "60.8",
     "H-Index citations": "61.9",
@@ -4072,6 +4479,7 @@
   {
     "World Rank": "401-450",
     "University name": "East China Normal University",
+    "Location": "Shanghai, China (Mainland)",
     "Overall Score": "-",
     "International Research Network": "48.7",
     "H-Index citations": "70.5",
@@ -4082,6 +4490,7 @@
   {
     "World Rank": "401-450",
     "University name": "Florida International University",
+    "Location": "Miami, United States",
     "Overall Score": "-",
     "International Research Network": "71.9",
     "H-Index citations": "73.6",
@@ -4092,6 +4501,7 @@
   {
     "World Rank": "401-450",
     "University name": "Gwangju Institute of Science and Technology (GIST)",
+    "Location": "Gwangju, South Korea",
     "Overall Score": "-",
     "International Research Network": "47.2",
     "H-Index citations": "51.5",
@@ -4102,6 +4512,7 @@
   {
     "World Rank": "401-450",
     "University name": "Hacettepe University",
+    "Location": "Ankara, Turkey",
     "Overall Score": "-",
     "International Research Network": "61.4",
     "H-Index citations": "63.4",
@@ -4112,6 +4523,7 @@
   {
     "World Rank": "401-450",
     "University name": "Institut National des Sciences Appliqu\u00e9es de Lyon (INSA)",
+    "Location": "Lyon, France",
     "Overall Score": "-",
     "International Research Network": "73.8",
     "H-Index citations": "53.1",
@@ -4122,6 +4534,7 @@
   {
     "World Rank": "401-450",
     "University name": "James Cook University",
+    "Location": "Townsville, Australia",
     "Overall Score": "-",
     "International Research Network": "60.6",
     "H-Index citations": "57.3",
@@ -4132,6 +4545,7 @@
   {
     "World Rank": "401-450",
     "University name": "Loughborough University",
+    "Location": "Loughborough, United Kingdom",
     "Overall Score": "-",
     "International Research Network": "69.5",
     "H-Index citations": "54.5",
@@ -4142,6 +4556,7 @@
   {
     "World Rank": "401-450",
     "University name": "Louisiana State University",
+    "Location": "Baton Rouge, United States",
     "Overall Score": "-",
     "International Research Network": "65.6",
     "H-Index citations": "70.5",
@@ -4152,6 +4567,7 @@
   {
     "World Rank": "401-450",
     "University name": "National Sun Yat-sen University",
+    "Location": "Kaohsiung City, Taiwan",
     "Overall Score": "-",
     "International Research Network": "44",
     "H-Index citations": "50.6",
@@ -4162,6 +4578,7 @@
   {
     "World Rank": "401-450",
     "University name": "National University of Ireland Galway",
+    "Location": "Galway, Ireland",
     "Overall Score": "-",
     "International Research Network": "69.5",
     "H-Index citations": "49.8",
@@ -4172,6 +4589,7 @@
   {
     "World Rank": "401-450",
     "University name": "Palack\u00fd University Olomouc",
+    "Location": "Olomouc,, Czechia",
     "Overall Score": "-",
     "International Research Network": "65",
     "H-Index citations": "71.9",
@@ -4182,6 +4600,7 @@
   {
     "World Rank": "401-450",
     "University name": "South China University of Technology",
+    "Location": "Guangzhou, China (Mainland)",
     "Overall Score": "-",
     "International Research Network": "45.8",
     "H-Index citations": "70.9",
@@ -4192,6 +4611,7 @@
   {
     "World Rank": "401-450",
     "University name": "Texas Tech University",
+    "Location": "Lubbock, United States",
     "Overall Score": "-",
     "International Research Network": "68.6",
     "H-Index citations": "74.2",
@@ -4202,6 +4622,7 @@
   {
     "World Rank": "401-450",
     "University name": "Tianjin University",
+    "Location": "Tianjin, China (Mainland)",
     "Overall Score": "-",
     "International Research Network": "55.2",
     "H-Index citations": "70.9",
@@ -4212,6 +4633,7 @@
   {
     "World Rank": "401-450",
     "University name": "Universidad T\u00e9cnica Federico Santa Mar\u00eda (USM)",
+    "Location": "Valpara\u00edso, Chile",
     "Overall Score": "-",
     "International Research Network": "61.7",
     "H-Index citations": "71.2",
@@ -4222,6 +4644,7 @@
   {
     "World Rank": "401-450",
     "University name": "Universidad de Sevilla",
+    "Location": "Seville, Spain",
     "Overall Score": "-",
     "International Research Network": "72.2",
     "H-Index citations": "52.3",
@@ -4232,6 +4655,7 @@
   {
     "World Rank": "401-450",
     "University name": "Universidade Federal de Minas Gerais",
+    "Location": "Belo Horizonte, Brazil",
     "Overall Score": "-",
     "International Research Network": "50.4",
     "H-Index citations": "51.5",
@@ -4242,6 +4666,7 @@
   {
     "World Rank": "401-450",
     "University name": "Universidade Federal do Rio Grande Do Sul",
+    "Location": "Porto Alegre, Brazil",
     "Overall Score": "-",
     "International Research Network": "65.2",
     "H-Index citations": "59.7",
@@ -4252,6 +4677,7 @@
   {
     "World Rank": "401-450",
     "University name": "Universidade Nova de Lisboa",
+    "Location": "Lisbon, Portugal",
     "Overall Score": "-",
     "International Research Network": "66.9",
     "H-Index citations": "67.9",
@@ -4262,6 +4688,7 @@
   {
     "World Rank": "401-450",
     "University name": "University at Buffalo SUNY",
+    "Location": "Buffalo, United States",
     "Overall Score": "-",
     "International Research Network": "58.7",
     "H-Index citations": "72.6",
@@ -4272,6 +4699,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Aveiro",
+    "Location": "Aveiro, Portugal",
     "Overall Score": "-",
     "International Research Network": "85.8",
     "H-Index citations": "67.9",
@@ -4282,6 +4710,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Belgrade",
+    "Location": "Belgrade, Serbia",
     "Overall Score": "-",
     "International Research Network": "89.7",
     "H-Index citations": "78.9",
@@ -4292,6 +4721,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Cincinnati",
+    "Location": "Cincinnati, United States",
     "Overall Score": "-",
     "International Research Network": "62.2",
     "H-Index citations": "74.2",
@@ -4302,6 +4732,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Connecticut",
+    "Location": "Storrs, United States",
     "Overall Score": "-",
     "International Research Network": "67.2",
     "H-Index citations": "66.6",
@@ -4312,6 +4743,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Delaware",
+    "Location": "Newark, United States",
     "Overall Score": "-",
     "International Research Network": "71.5",
     "H-Index citations": "69.8",
@@ -4322,6 +4754,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Jyv\u00e4skyl\u00e4",
+    "Location": "Jyv\u00e4skyl\u00e4, Finland",
     "Overall Score": "-",
     "International Research Network": "66.5",
     "H-Index citations": "78.1",
@@ -4332,6 +4765,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Leicester",
+    "Location": "Leicester, United Kingdom",
     "Overall Score": "-",
     "International Research Network": "75.4",
     "H-Index citations": "65.7",
@@ -4342,6 +4776,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Nebraska - Lincoln",
+    "Location": "Lincoln, United States",
     "Overall Score": "-",
     "International Research Network": "62.1",
     "H-Index citations": "75.4",
@@ -4352,6 +4787,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Oklahoma",
+    "Location": "Norman, United States",
     "Overall Score": "-",
     "International Research Network": "64.6",
     "H-Index citations": "74.8",
@@ -4362,6 +4798,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Oregon",
+    "Location": "Eugene, United States",
     "Overall Score": "-",
     "International Research Network": "50.2",
     "H-Index citations": "76",
@@ -4372,6 +4809,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of South Carolina",
+    "Location": "Columbia, United States",
     "Overall Score": "-",
     "International Research Network": "65.9",
     "H-Index citations": "71.6",
@@ -4382,6 +4820,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Surrey",
+    "Location": "Guildford, United Kingdom",
     "Overall Score": "-",
     "International Research Network": "75.6",
     "H-Index citations": "56.6",
@@ -4392,6 +4831,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Sussex",
+    "Location": "Brighton, United Kingdom",
     "Overall Score": "-",
     "International Research Network": "69.6",
     "H-Index citations": "76.5",
@@ -4402,6 +4842,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Tartu",
+    "Location": "Tartu, Estonia",
     "Overall Score": "-",
     "International Research Network": "67.4",
     "H-Index citations": "60.8",
@@ -4412,6 +4853,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Tehran",
+    "Location": "Tehran, Iran",
     "Overall Score": "-",
     "International Research Network": "74.4",
     "H-Index citations": "66.2",
@@ -4422,6 +4864,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of Texas Dallas",
+    "Location": "Richardson, United States",
     "Overall Score": "-",
     "International Research Network": "59.7",
     "H-Index citations": "73.6",
@@ -4432,6 +4875,7 @@
   {
     "World Rank": "401-450",
     "University name": "University of the Punjab",
+    "Location": "Lahore, Pakistan",
     "Overall Score": "-",
     "International Research Network": "52.8",
     "H-Index citations": "52.3",
@@ -4442,6 +4886,7 @@
   {
     "World Rank": "401-450",
     "University name": "Universit\u00e0 degli studi Roma Tre",
+    "Location": "Rome, Italy",
     "Overall Score": "-",
     "International Research Network": "69.6",
     "H-Index citations": "72.6",
@@ -4452,6 +4897,7 @@
   {
     "World Rank": "401-450",
     "University name": "Universit\u00e4t Leipzig",
+    "Location": "Leipzig, Germany",
     "Overall Score": "-",
     "International Research Network": "72.1",
     "H-Index citations": "60.8",
@@ -4462,6 +4908,7 @@
   {
     "World Rank": "401-450",
     "University name": "Universit\u00e9 de Lorraine",
+    "Location": "Nancy, France",
     "Overall Score": "-",
     "International Research Network": "94.4",
     "H-Index citations": "61.9",
@@ -4472,6 +4919,7 @@
   {
     "World Rank": "401-450",
     "University name": "Nantes University",
+    "Location": "Nantes, France",
     "Overall Score": "-",
     "International Research Network": "80.1",
     "H-Index citations": "72.6",
@@ -4482,6 +4930,7 @@
   {
     "World Rank": "401-450",
     "University name": "Universit\u00e9 du Qu\u00e9bec",
+    "Location": "Qu\u00e9bec, Canada",
     "Overall Score": "-",
     "International Research Network": "72",
     "H-Index citations": "61.4",
@@ -4492,6 +4941,7 @@
   {
     "World Rank": "401-450",
     "University name": "Vietnam National University, Hanoi",
+    "Location": "Hanoi, Vietnam",
     "Overall Score": "-",
     "International Research Network": "55.3",
     "H-Index citations": "60.3",
@@ -4502,6 +4952,7 @@
   {
     "World Rank": "401-450",
     "University name": "Vilnius University",
+    "Location": "Vilnius, Lithuania",
     "Overall Score": "-",
     "International Research Network": "67.3",
     "H-Index citations": "70.9",
@@ -4512,6 +4963,7 @@
   {
     "World Rank": "451-500",
     "University name": "Al-Farabi Kazakh National University",
+    "Location": "Almaty, Kazakhstan",
     "Overall Score": "-",
     "International Research Network": "52.4",
     "H-Index citations": "37.1",
@@ -4522,6 +4974,7 @@
   {
     "World Rank": "451-500",
     "University name": "Babes-Bolyai University",
+    "Location": "Cluj-Napoca, Romania",
     "Overall Score": "-",
     "International Research Network": "71.7",
     "H-Index citations": "50.6",
@@ -4532,6 +4985,7 @@
   {
     "World Rank": "451-500",
     "University name": "Bilkent University",
+    "Location": "Ankara, Turkey",
     "Overall Score": "-",
     "International Research Network": "48.7",
     "H-Index citations": "45.9",
@@ -4542,6 +4996,7 @@
   {
     "World Rank": "451-500",
     "University name": "College of William and Mary",
+    "Location": "Williamsburg, United States",
     "Overall Score": "-",
     "International Research Network": "60.3",
     "H-Index citations": "72.3",
@@ -4552,6 +5007,7 @@
   {
     "World Rank": "451-500",
     "University name": "Deakin University",
+    "Location": "Burwood, Australia",
     "Overall Score": "-",
     "International Research Network": "61.1",
     "H-Index citations": "51.5",
@@ -4562,6 +5018,7 @@
   {
     "World Rank": "451-500",
     "University name": "East China University of Science and Technology",
+    "Location": "Shanghai, China (Mainland)",
     "Overall Score": "-",
     "International Research Network": "49.3",
     "H-Index citations": "70.2",
@@ -4572,6 +5029,7 @@
   {
     "World Rank": "451-500",
     "University name": "Emory University",
+    "Location": "Atlanta, United States",
     "Overall Score": "-",
     "International Research Network": "61.2",
     "H-Index citations": "61.9",
@@ -4582,6 +5040,7 @@
   {
     "World Rank": "451-500",
     "University name": "Gadjah Mada University",
+    "Location": "Yogyakarta, Indonesia",
     "Overall Score": "-",
     "International Research Network": "27.7",
     "H-Index citations": "40",
@@ -4592,6 +5051,7 @@
   {
     "World Rank": "451-500",
     "University name": "George Washington University",
+    "Location": "Washington D.C., United States",
     "Overall Score": "-",
     "International Research Network": "70.6",
     "H-Index citations": "60.3",
@@ -4602,6 +5062,7 @@
   {
     "World Rank": "451-500",
     "University name": "Graz University of Technology",
+    "Location": "Graz, Austria",
     "Overall Score": "-",
     "International Research Network": "57.3",
     "H-Index citations": "49.8",
@@ -4612,6 +5073,7 @@
   {
     "World Rank": "451-500",
     "University name": "Justus-Liebig-University Giessen",
+    "Location": "Giessen, Germany",
     "Overall Score": "-",
     "International Research Network": "75.3",
     "H-Index citations": "72.9",
@@ -4622,6 +5084,7 @@
   {
     "World Rank": "451-500",
     "University name": "Kansas State University",
+    "Location": "Manhattan, United States",
     "Overall Score": "-",
     "International Research Network": "66.2",
     "H-Index citations": "70.9",
@@ -4632,6 +5095,7 @@
   {
     "World Rank": "451-500",
     "University name": "Karl-Franzens-Universitaet Graz",
+    "Location": "Graz, Austria",
     "Overall Score": "-",
     "International Research Network": "62.2",
     "H-Index citations": "57.3",
@@ -4642,6 +5106,7 @@
   {
     "World Rank": "451-500",
     "University name": "Lanzhou University",
+    "Location": "Lanzhou, China (Mainland)",
     "Overall Score": "-",
     "International Research Network": "52.5",
     "H-Index citations": "71.9",
@@ -4652,6 +5117,7 @@
   {
     "World Rank": "451-500",
     "University name": "Mahidol University",
+    "Location": "Nakhon Pathom, Thailand",
     "Overall Score": "-",
     "International Research Network": "45.1",
     "H-Index citations": "44.8",
@@ -4662,6 +5128,7 @@
   {
     "World Rank": "451-500",
     "University name": "Masaryk University",
+    "Location": "Brno, Czechia",
     "Overall Score": "-",
     "International Research Network": "62.6",
     "H-Index citations": "54.5",
@@ -4672,6 +5139,7 @@
   {
     "World Rank": "451-500",
     "University name": "Massey University",
+    "Location": "Palmerston North, New Zealand",
     "Overall Score": "-",
     "International Research Network": "68.1",
     "H-Index citations": "48.9",
@@ -4682,6 +5150,7 @@
   {
     "World Rank": "451-500",
     "University name": "National Taiwan University of Science and Technology (Taiwan Tech)",
+    "Location": "Taipei City, Taiwan",
     "Overall Score": "-",
     "International Research Network": "48.4",
     "H-Index citations": "33.8",
@@ -4692,6 +5161,7 @@
   {
     "World Rank": "451-500",
     "University name": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro",
+    "Location": "Rio de Janeiro, Brazil",
     "Overall Score": "-",
     "International Research Network": "49.1",
     "H-Index citations": "62.9",
@@ -4702,6 +5172,7 @@
   {
     "World Rank": "451-500",
     "University name": "Rensselaer Polytechnic Institute",
+    "Location": "Troy, United States",
     "Overall Score": "-",
     "International Research Network": "56.4",
     "H-Index citations": "62.9",
@@ -4712,6 +5183,7 @@
   {
     "World Rank": "451-500",
     "University name": "Sejong University",
+    "Location": "Seoul, South Korea",
     "Overall Score": "-",
     "International Research Network": "64.2",
     "H-Index citations": "65.3",
@@ -4722,6 +5194,7 @@
   {
     "World Rank": "451-500",
     "University name": "Sharif University of Technology",
+    "Location": "Tehran, Iran",
     "Overall Score": "-",
     "International Research Network": "63",
     "H-Index citations": "53.1",
@@ -4732,6 +5205,7 @@
   {
     "World Rank": "451-500",
     "University name": "Stellenbosch University",
+    "Location": "Stellenbosch, South Africa",
     "Overall Score": "-",
     "International Research Network": "63",
     "H-Index citations": "55.3",
@@ -4742,6 +5216,7 @@
   {
     "World Rank": "451-500",
     "University name": "Syracuse University",
+    "Location": "Syracuse, United States",
     "Overall Score": "-",
     "International Research Network": "63.4",
     "H-Index citations": "75.4",
@@ -4752,6 +5227,7 @@
   {
     "World Rank": "451-500",
     "University name": "The Scripps Research Institute (TSRI)",
+    "Location": " United States",
     "Overall Score": "-",
     "International Research Network": "40.3",
     "H-Index citations": "55.9",
@@ -4762,6 +5238,7 @@
   {
     "World Rank": "451-500",
     "University name": "The University of Alabama",
+    "Location": "Tuscaloosa, United States",
     "Overall Score": "-",
     "International Research Network": "67.3",
     "H-Index citations": "72.9",
@@ -4772,6 +5249,7 @@
   {
     "World Rank": "451-500",
     "University name": "The University of Georgia",
+    "Location": "Athens, United States",
     "Overall Score": "-",
     "International Research Network": "59.4",
     "H-Index citations": "60.3",
@@ -4782,6 +5260,7 @@
   {
     "World Rank": "451-500",
     "University name": "Tokyo Metropolitan University",
+    "Location": "Tokyo, Japan",
     "Overall Score": "-",
     "International Research Network": "56.8",
     "H-Index citations": "71.2",
@@ -4792,6 +5271,7 @@
   {
     "World Rank": "451-500",
     "University name": "Tufts University",
+    "Location": "Medford, United States",
     "Overall Score": "-",
     "International Research Network": "49.8",
     "H-Index citations": "72.3",
@@ -4802,6 +5282,7 @@
   {
     "World Rank": "451-500",
     "University name": "Universidad de Santiago de Chile (USACH)",
+    "Location": "Santiago, Chile",
     "Overall Score": "-",
     "International Research Network": "53.8",
     "H-Index citations": "46.9",
@@ -4812,6 +5293,7 @@
   {
     "World Rank": "451-500",
     "University name": "Universidade Federal de S\u00e3o Carlos (UFSCar)",
+    "Location": "S\u00e3o Paulo, Brazil",
     "Overall Score": "-",
     "International Research Network": "53.5",
     "H-Index citations": "52.3",
@@ -4822,6 +5304,7 @@
   {
     "World Rank": "451-500",
     "University name": "University College Cork",
+    "Location": "Cork, Ireland",
     "Overall Score": "-",
     "International Research Network": "60.7",
     "H-Index citations": "55.3",
@@ -4832,6 +5315,7 @@
   {
     "World Rank": "451-500",
     "University name": "Ulm University",
+    "Location": "Ulm, Germany",
     "Overall Score": "-",
     "International Research Network": "58.1",
     "H-Index citations": "63.9",
@@ -4842,6 +5326,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Bayreuth",
+    "Location": "Bayreuth, Germany",
     "Overall Score": "-",
     "International Research Network": "68.3",
     "H-Index citations": "64.4",
@@ -4852,6 +5337,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Bucharest",
+    "Location": "Bucharest, Romania",
     "Overall Score": "-",
     "International Research Network": "70",
     "H-Index citations": "52.3",
@@ -4862,6 +5348,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Debrecen",
+    "Location": "Debrecen, Hungary",
     "Overall Score": "-",
     "International Research Network": "60.3",
     "H-Index citations": "73.2",
@@ -4872,6 +5359,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Guelph",
+    "Location": "Guelph, Canada",
     "Overall Score": "-",
     "International Research Network": "59.2",
     "H-Index citations": "58.5",
@@ -4882,6 +5370,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Johannesburg",
+    "Location": "Johannesburg, South Africa",
     "Overall Score": "-",
     "International Research Network": "73.8",
     "H-Index citations": "70.2",
@@ -4892,6 +5381,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Kentucky",
+    "Location": "Lexington, United States",
     "Overall Score": "-",
     "International Research Network": "68",
     "H-Index citations": "66.6",
@@ -4902,6 +5392,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Kwazulu-Natal",
+    "Location": "Pinetown, South Africa",
     "Overall Score": "-",
     "International Research Network": "75.1",
     "H-Index citations": "63.4",
@@ -4912,6 +5403,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Saskatchewan",
+    "Location": "Saskatoon, Canada",
     "Overall Score": "-",
     "International Research Network": "63.4",
     "H-Index citations": "66.2",
@@ -4922,6 +5414,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of South Australia",
+    "Location": "Adelaide, Australia",
     "Overall Score": "-",
     "International Research Network": "61.5",
     "H-Index citations": "52.3",
@@ -4932,6 +5425,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Turku",
+    "Location": "Turku, Finland",
     "Overall Score": "-",
     "International Research Network": "72.2",
     "H-Index citations": "57.9",
@@ -4942,6 +5436,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Wroclaw",
+    "Location": "Wroclaw, Poland",
     "Overall Score": "-",
     "International Research Network": "61",
     "H-Index citations": "59.1",
@@ -4952,6 +5447,7 @@
   {
     "World Rank": "451-500",
     "University name": "University of Zagreb",
+    "Location": "Zagreb, Croatia",
     "Overall Score": "-",
     "International Research Network": "72.7",
     "H-Index citations": "64.8",
@@ -4962,6 +5458,7 @@
   {
     "World Rank": "451-500",
     "University name": "Universit\u00e0 degli Studi di Perugia",
+    "Location": "Perugia, Italy",
     "Overall Score": "-",
     "International Research Network": "64",
     "H-Index citations": "78.4",
@@ -4972,6 +5469,7 @@
   {
     "World Rank": "451-500",
     "University name": "Universit\u00e4t Duisburg-Essen",
+    "Location": "Duisburg, Germany",
     "Overall Score": "-",
     "International Research Network": "76.4",
     "H-Index citations": "54.5",
@@ -4982,6 +5480,7 @@
   {
     "World Rank": "451-500",
     "University name": "Universit\u00e4t Regensburg",
+    "Location": "Regensburg, Germany",
     "Overall Score": "-",
     "International Research Network": "59.8",
     "H-Index citations": "67.9",
@@ -4992,6 +5491,7 @@
   {
     "World Rank": "451-500",
     "University name": "Universit\u00e9 de Savoie, Chambery, Annecy",
+    "Location": "Annecy, France",
     "Overall Score": "-",
     "International Research Network": "71.3",
     "H-Index citations": "86.3",
@@ -5002,6 +5502,7 @@
   {
     "World Rank": "451-500",
     "University name": "Wayne State University",
+    "Location": "Detroit, United States",
     "Overall Score": "-",
     "International Research Network": "67.2",
     "H-Index citations": "74.2",
@@ -5012,6 +5513,7 @@
   {
     "World Rank": "451-500",
     "University name": "Wroclaw University of Science and Technology (WRUST)",
+    "Location": "Wroclaw , Poland",
     "Overall Score": "-",
     "International Research Network": "72.6",
     "H-Index citations": "52.3",
@@ -5022,6 +5524,7 @@
   {
     "World Rank": "451-500",
     "University name": "York University",
+    "Location": "Toronto, Canada",
     "Overall Score": "-",
     "International Research Network": "59.3",
     "H-Index citations": "71.6",
