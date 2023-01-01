@@ -36,7 +36,7 @@ pip install -r requirements.txt
 4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads 
 5. Run the scraper
 ```bash
-python selenium_scraper/scraper.py --chromedriver_path <path_to_chromedriver>
+python selenium_scraper/scrape.py --chromedriver_path <path_to_chromedriver>
 ```
 
 
