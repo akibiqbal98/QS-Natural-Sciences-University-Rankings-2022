@@ -24,26 +24,19 @@ driver.get('https://www.topuniversities.com/university-rankings/university-subje
 
 # Find and interact with an element on the page
 XPATH = '//div[@class="ranking_tabs quik-tabs"]//ul//li[2]'
+
 # Wait for the element to appear
 wait = WebDriverWait(driver, 50)
 element: WebElement = wait.until(EC.presence_of_element_located((By.XPATH, XPATH)))
 # print(element.get_attribute('outerHTML'))
 # print(element.is_displayed(), element.is_enabled())
 
-# Click on the element
-# element.click()  # Not working
-
-# actions.move_to_element(element).perform()  # Not working
-
-# Simulate a click on the element using JavaScript
 driver.execute_script("arguments[0].click();", element)  # Working
 
 
-# Wait for the element to appear
-# wait = WebDriverWait(driver, 10)
+
 element: WebElement = wait.until(EC.presence_of_element_located((By.ID, 'ranking-data-load_ind')))
-# print(element.get_attribute('outerHTML'))
-# print(element.is_displayed(), element.is_enabled())
+
 
 
 def change_perpagedata():
