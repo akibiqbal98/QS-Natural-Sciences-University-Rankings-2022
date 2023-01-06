@@ -1,0 +1,100 @@
+,World Rank,University name,City,Country,GMAT,IELTS,TOEFL,SAT,GRE,GPA,Total faculty staff,International students,Total students
+0,1,Massachusetts Institute of Technology (MIT),Cambridge,United States,728.0,7.0,100.0,1520.0,308.125,3.0,2919.0,3627.0,11035.0
+1,2,Harvard University,Cambridge,United States,610.0,6.0,80.0,1470.0,308.125,3.0,4480.0,5379.0,21877.0
+4,5,Stanford University,Stanford,United States,600.0,6.0,101.0,1420.0,308.125,3.0,4694.0,3318.0,14518.0
+6,7,California Institute of Technology (Caltech),Pasadena,United States,597.1984732824427,6.0,110.0,1520.0,308.125,3.0,969.0,683.0,2240.0
+7,8,"University of California, Berkeley (UCB)",Berkeley,United States,690.0,7.0,80.0,1340.0,308.125,3.0,3405.0,8989.0,40468.0
+11,11,Princeton University,Princeton,United States,597.1984732824427,7.0,100.0,1460.0,308.125,3.0,1066.0,1813.0,7767.0
+17,18,"University of California, Los Angeles (UCLA)",Los Angeles,United States,680.0,7.0,100.0,1370.0,308.125,3.0,4532.0,6647.0,45771.0
+18,19,University of Chicago,Chicago,United States,610.0,7.0,100.0,1020.0,308.125,3.0,2703.0,4442.0,16325.0
+30,31,Yale University,New Haven,United States,690.0,7.0,100.0,1450.0,308.125,3.0,5527.0,3118.0,11283.0
+31,32,Cornell University,Ithaca,United States,650.0,7.0,100.0,1390.0,308.125,3.0,2838.0,5015.0,23188.0
+32,33,University of Texas at Austin,Austin,United States,597.1984732824427,6.0,79.0,1170.0,308.125,3.0,2974.0,4074.0,48128.0
+33,34,University of Michigan-Ann Arbor,Ann Arbor,United States,680.0,7.0,100.0,1227.675,308.125,3.0,7132.0,7341.0,45651.0
+34,35,Columbia University,New York City,United States,530.0,7.0,100.0,1227.675,308.125,3.0,7401.0,8686.0,25914.0
+35,36,"University of California, San Diego (UCSD)",San Diego,United States,668.0,7.0,83.0,1390.0,308.125,3.0,4476.0,8184.0,38568.0
+38,38,University of Washington,Seattle,United States,650.0,6.0,76.0,1310.0,308.125,3.0,2796.0,7352.0,43692.0
+42,42,University of Illinois at Urbana-Champaign,Champaign,United States,647.0,6.0,102.0,1270.0,308.125,3.0,2818.0,8969.0,46173.0
+44,45,"University of California, Santa Barbara (UCSB)",Santa Barbara,United States,597.1984732824427,6.0,80.0,1270.0,308.125,3.0,1620.0,3774.0,25553.0
+49,50,Northwestern University,Evanston,United States,590.0,7.0,100.0,1227.675,308.125,3.0,3579.0,3384.0,19273.0
+50,50,University of Wisconsin-Madison,Madison,United States,620.0,7.0,95.0,1330.0,308.125,3.0,5332.0,5458.0,40700.0
+55,56,Georgia Institute of Technology,Atlanta,United States,625.0,6.0,90.0,1400.0,308.125,3.0,3828.0,5631.0,26081.0
+67,68,Pennsylvania State University,University Park,United States,560.0,6.0,80.0,1330.0,308.125,3.0,4207.0,6943.0,44827.0
+71,71,University of Colorado Boulder,Boulder,United States,610.0,6.0,75.0,1253.0,308.125,3.0,4039.0,1781.0,32480.0
+72,71,"University of Maryland, College Park",College Park,United States,660.0,7.0,100.0,1380.0,308.125,3.0,3651.0,3818.0,37081.0
+79,80,University of Pennsylvania,Philadelphia,United States,500.0,7.0,100.0,1420.0,308.125,3.0,5069.0,5426.0,22261.0
+84,84,Purdue University,West Lafayette,United States,597.1984732824427,6.0,80.0,1227.675,308.125,3.0,2622.0,8034.0,40335.0
+88,89,Johns Hopkins University,Baltimore,United States,650.0,7.0,100.0,1520.0,308.125,3.0,4969.0,4251.0,14891.0
+96,96,Texas A&M University,College Station,United States,570.0,6.0,80.0,1360.0,308.125,3.0,3049.0,6522.0,64752.0
+105,106,Carnegie Mellon University,Pittsburgh,United States,597.1984732824427,7.0,105.0,1330.0,308.125,3.0,1537.0,4786.0,12692.0
+106,106,Duke University,Durham,United States,597.1984732824427,7.0,100.0,1490.0,308.125,3.0,5608.0,3445.0,15969.0
+112,113,New York University (NYU),New York City,United States,660.0,7.0,100.0,1290.0,308.125,3.0,7386.0,11936.0,33331.0
+114,113,University of Minnesota Twin Cities,Minneapolis,United States,690.0,6.0,79.0,1220.0,308.125,3.0,5058.0,2747.0,33764.0
+117,118,"University of California, Davis",Davis,United States,620.0,7.0,80.0,1260.0,308.125,3.0,3050.0,8842.0,34934.0
+119,120,The Ohio State University,Columbus,United States,530.0,7.0,79.0,1300.0,308.125,3.0,6191.0,5991.0,55381.0
+121,122,Michigan State University,East Lansing,United States,674.0,6.0,79.0,1130.0,308.125,3.0,3030.0,4934.0,44513.0
+139,140,The University of Arizona,Tucson,United States,665.0,7.0,70.0,1260.0,308.125,3.0,5487.0,3474.0,35766.0
+141,142,Boston University,Boston,United States,620.0,7.0,90.0,1360.0,308.125,3.0,2589.0,7577.0,25448.0
+148,149,Brown University,Providence,United States,597.1984732824427,7.0,100.0,1488.0,308.125,3.0,1477.0,2088.0,10308.0
+149,150,Rutgers University–New Brunswick,New Brunswick,United States,597.1984732824427,7.0,79.0,550.0,308.125,3.0,5009.0,7589.0,44731.0
+155,155,Rice University,Houston,United States,660.0,7.0,100.0,1460.0,308.125,3.0,1014.0,2765.0,7956.0
+157,157,University of Florida,Gainesville,United States,465.0,6.0,80.0,1360.0,308.125,3.0,6249.0,4143.0,47381.0
+165,165,"Stony Brook University, State University of New York",Stony Brook,United States,550.0,6.0,80.0,1230.0,308.125,3.0,2322.0,5706.0,24982.0
+167,168,"University of California, Irvine",Irvine,United States,642.0,7.0,80.0,1195.0,308.125,3.0,2811.0,8959.0,35562.0
+168,169,Arizona State University,Phoenix,United States,650.0,6.0,61.0,1120.0,308.125,3.0,2856.0,8478.0,49502.0
+202,201,Florida State University,Tallahassee,United States,550.0,6.0,80.0,1120.0,308.125,3.0,2211.0,1584.0,38241.0
+209,210,Colorado State University,Fort Collins,United States,500.0,6.0,80.0,1050.0,308.125,3.0,3121.0,1233.0,24060.0
+210,210,University of North Carolina at Chapel Hill,Chapel Hill,United States,597.1984732824427,7.0,100.0,1310.0,308.125,3.0,4713.0,2666.0,33018.0
+214,213,University of Massachusetts Amherst,Amherst,United States,639.0,6.0,80.0,1190.0,308.125,3.0,1844.0,3465.0,26550.0
+218,217,University of Illinois at Chicago (UIC),Chicago,United States,500.0,6.0,80.0,1030.0,308.125,3.0,2878.0,3115.0,29694.0
+236,237,University of Rochester,Rochester,United States,610.0,7.0,100.0,1280.0,308.125,3.0,1687.0,3775.0,10364.0
+242,241,University of Southern California,Los Angeles,United States,680.0,6.0,100.0,1360.0,308.125,3.0,3165.0,12224.0,44156.0
+249,248,Indiana University Bloomington,Bloomington,United States,664.0,6.0,79.0,1040.0,308.125,3.0,3905.0,3909.0,43693.0
+257,258,Virginia Polytechnic Institute and State University,Blacksburg,United States,600.0,6.0,80.0,1100.0,308.125,3.0,2759.0,4064.0,34860.0
+258,259,University of Virginia,Charlottesville,United States,718.0,7.0,90.0,1320.0,308.125,3.0,2865.0,2015.0,23690.0
+264,262,University of Hawaiʻi at Mānoa,Honolulu,United States,530.0,6.0,100.0,1100.0,308.125,3.0,1586.0,1493.0,14936.0
+265,262,University of Pittsburgh,Pittsburgh,United States,640.0,6.0,80.0,1250.0,308.125,3.0,4861.0,2695.0,27425.0
+272,273,North Carolina State University,Raleigh,United States,625.0,6.0,85.0,1344.0,308.125,3.0,1960.0,3339.0,31124.0
+282,283,City University of New York,New York City,United States,570.0,5.0,45.0,1250.0,308.125,3.0,7782.0,6462.0,123893.0
+287,287,Iowa State University,Ames,United States,515.0,6.0,71.0,1060.0,308.125,3.0,1558.0,2421.0,29458.0
+288,287,Oregon State University,Corvallis,United States,500.0,6.0,80.0,1060.0,308.125,3.0,2092.0,2441.0,24835.0
+293,292,"University of California, Santa Cruz",Santa Cruz,United States,600.0,6.0,80.0,1150.0,308.125,3.0,1126.0,1830.0,18881.0
+297,295,University of Notre Dame,Notre Dame,United States,690.0,7.0,100.0,1410.0,308.125,3.0,1535.0,1315.0,12617.0
+308,309,Northeastern University,Boston,United States,627.0,7.0,100.0,1400.0,308.125,3.0,1909.0,9822.0,26442.0
+313,313,Washington University in St. Louis,St. Louis,United States,693.0,7.0,90.0,1480.0,308.125,3.0,3219.0,2987.0,13854.0
+319,317,Washington State University,Pullman,United States,600.0,6.0,79.0,1010.0,308.125,3.0,1916.0,1569.0,26520.0
+326,327,"The University of Tennessee, Knoxville",Knoxville,United States,597.1984732824427,6.0,84.33009708737865,1227.675,308.125,3.0,,,
+329,327,University of Utah,Salt Lake City,United States,600.0,6.0,80.0,1110.0,308.125,3.0,3382.0,2109.0,27572.0
+337,334,"University of California, Riverside",Riverside,United States,594.0,6.0,80.0,1110.0,308.125,3.0,1471.0,1994.0,25735.0
+338,334,University of Miami,Miami,United States,550.0,6.0,80.0,1320.0,308.125,3.0,2961.0,2318.0,16722.0
+346,345,University of Houston,Houston,United States,610.0,6.0,79.0,1080.0,308.125,3.0,1703.0,2880.0,38027.0
+365,363,Vanderbilt University,Nashville,United States,688.0,7.0,100.0,1460.0,308.125,3.0,3736.0,1932.0,12696.0
+368,369,Colorado School of Mines,Golden,United States,597.1984732824427,6.0,84.33009708737865,1400.0,308.125,3.0,538.0,556.0,6303.0
+379,377,University of Iowa,Iowa City,United States,520.0,7.0,80.0,1220.0,308.125,3.0,2914.0,1488.0,26717.0
+394,391,University of New Mexico,Albuquerque,United States,500.0,6.0,68.0,1060.0,308.125,3.0,2073.0,755.0,17346.0
+397,396,University of Central Florida,Orlando,United States,560.0,6.0,80.0,1328.0,308.125,3.0,2047.0,2631.0,56091.0
+399,400,University of Kansas,Lawrence,United States,550.0,6.0,79.0,1060.0,308.125,3.0,3349.0,1654.0,23459.0
+404,401-450,Case Western Reserve University,Cleveland,United States,613.0,7.0,90.0,1310.0,308.125,3.0,1717.0,2575.0,10744.0
+408,401-450,Florida International University,Miami,United States,500.0,6.0,80.0,1030.0,308.125,3.0,2293.0,3308.0,34409.0
+414,401-450,Louisiana State University,Baton Rouge,United States,600.0,6.0,79.0,1360.0,308.125,3.0,1916.0,1448.0,31292.0
+419,401-450,Texas Tech University,Lubbock,United States,597.1984732824427,6.0,79.0,1180.0,308.125,3.0,1855.0,1994.0,35583.0
+426,401-450,University at Buffalo SUNY,Buffalo,United States,597.1984732824427,6.0,79.0,1180.0,308.125,3.0,1546.0,5367.0,29441.0
+429,401-450,University of Cincinnati,Cincinnati,United States,597.1984732824427,6.0,66.0,1227.675,308.125,3.0,2713.0,2321.0,32517.0
+430,401-450,University of Connecticut,Storrs,United States,620.0,6.0,79.0,1220.0,308.125,3.0,1328.0,3372.0,24780.0
+431,401-450,University of Delaware,Newark,United States,550.0,6.0,90.0,1220.0,308.0,3.0,1272.0,2337.0,21747.0
+434,401-450,University of Nebraska - Lincoln,Lincoln,United States,550.0,6.0,79.0,1090.0,308.125,3.0,1843.0,2040.0,23525.0
+435,401-450,University of Oklahoma,Norman,United States,580.0,6.0,79.0,1227.675,308.125,3.0,1758.0,1268.0,23692.0
+436,401-450,University of Oregon,Eugene,United States,588.0,7.0,88.0,1174.0,308.125,3.0,1391.0,1199.0,20387.0
+437,401-450,University of South Carolina,Columbia,United States,650.0,6.0,77.0,1200.0,308.125,3.0,2146.0,1444.0,32884.0
+442,401-450,University of Texas Dallas,Richardson,United States,600.0,6.0,80.0,1210.0,308.125,3.0,1109.0,4582.0,27265.0
+454,451-500,College of William and Mary,Williamsburg,United States,620.0,6.0,100.0,1310.0,308.125,3.0,789.0,583.0,8709.0
+457,451-500,Emory University,Atlanta,United States,570.0,6.0,100.0,1420.0,308.125,3.0,2613.0,2043.0,13153.0
+459,451-500,George Washington University,Washington D.C.,United States,591.0,6.0,90.0,1227.675,308.125,3.0,1877.0,3197.0,20290.0
+462,451-500,Kansas State University,Manhattan,United States,597.1984732824427,6.0,79.0,1060.0,308.125,3.0,1173.0,1164.0,17599.0
+470,451-500,Rensselaer Polytechnic Institute,Troy,United States,690.0,6.0,88.0,1320.0,308.125,3.0,567.0,1490.0,7427.0
+474,451-500,Syracuse University,Syracuse,United States,600.0,7.0,80.0,1271.0,308.125,3.0,1392.0,3573.0,19621.0
+476,451-500,The University of Alabama,Tuscaloosa,United States,500.0,6.0,79.0,1060.0,308.125,3.0,1673.0,1091.0,33264.0
+477,451-500,The University of Georgia,Athens,United States,610.0,6.0,80.0,1320.0,308.125,3.0,2387.0,1647.0,36322.0
+479,451-500,Tufts University,Medford,United States,640.0,6.0,100.0,1410.0,308.125,3.0,1405.0,1787.0,11160.0
+489,451-500,University of Kentucky,Lexington,United States,591.0,6.0,71.0,1175.0,308.125,3.0,2207.0,1196.0,27329.0
+500,451-500,Wayne State University,Detroit,United States,530.0,6.0,79.0,1060.0,308.125,3.0,2530.0,1058.0,21139.0
