@@ -10,9 +10,9 @@ Later we utilized the scraped data to understand the following demographics and 
 3. Barchart of H-Index citations for each university, sorted by country
 4. Map of H-Index citations of European countries.
 
-You can visit the public dashboard [here](https://public.tableau.com/app/profile/md.akib.iqbal.majumder/viz/2022QSWorldUniversityRankingsbyNaturalSciencesSubject/Dashboard1). 
+You can visit the public dashboard [here](https://public.tableau.com/app/profile/md.akib.iqbal.majumder/viz/WorldUniversitydemographyofNaturalSciencesSubject/Dashboard1). 
 
-## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/md.akib.iqbal.majumder/viz/2022QSWorldUniversityRankingsbyNaturalSciencesSubject/Dashboard1)
+## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/md.akib.iqbal.majumder/viz/WorldUniversitydemographyofNaturalSciencesSubject/Dashboard1)
 1. Université Paris Cité has perfect score in International Research Network. 
 2. Princtone university and Stanford university has the most average academic reputation and citation per paper. 
 3. All the top 5 rank universities has the most Academic and Employer reputation.
