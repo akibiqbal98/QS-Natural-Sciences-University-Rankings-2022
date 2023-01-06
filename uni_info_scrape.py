@@ -7,10 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1p2GBpBCChhcRfjK1u2puFFl9PNgkPUKk
 """
 
-!pip install selenium
-!apt-get update # to update ubuntu to correctly run apt install
-!apt install chromium-chromedriver
-!cp /usr/lib/chromium-browser/chromedriver /usr/bin
+# !pip install selenium
+# !apt-get update # to update ubuntu to correctly run apt install
+# !apt install chromium-chromedriver
+# !cp /usr/lib/chromium-browser/chromedriver /usr/bin
 
 import sys
 sys.path.insert(0,'/usr/lib/chromium-browser/chromedriver')
@@ -23,7 +23,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import pandas as pd
+
 
 def create_driver_and_wait(waiting_time=10):
     chrome_options = webdriver.ChromeOptions()

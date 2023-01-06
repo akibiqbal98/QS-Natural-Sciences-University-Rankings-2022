@@ -1,0 +1,504 @@
+World Rank,City,Country
+1,Cambridge,United States
+2,Cambridge,United States
+3,Cambridge,United Kingdom
+4,Oxford,United Kingdom
+5,Stanford,United States
+6,Zürich,Switzerland
+7,Pasadena,United States
+8,Berkeley,United States
+9,London,United Kingdom
+10,Tokyo,Japan
+11,Lausanne,Switzerland
+11,Princeton,United States
+13,Singapore,Singapore
+14,Paris,France
+15,Singapore,Singapore
+16,Moscow,Russia
+17,Paris,France
+18,Los Angeles,United States
+19,Chicago,United States
+20,"Gif-sur-Yvette,",France
+21,Beijing,China (Mainland)
+22,Palaiseau Cedex,France
+23,Beijing,China (Mainland)
+24,Toronto,Canada
+25,Kyoto,Japan
+26,Vancouver,Canada
+27,Canberra,Australia
+28,Munich,Germany
+29,Seoul,South Korea
+30,Tokyo,Japan
+31,New Haven,United States
+32,Ithaca,United States
+33,Austin,United States
+34,Ann Arbor,United States
+35,New York City,United States
+36,San Diego,United States
+37,London,United Kingdom
+38,Parkville,Australia
+38,Seattle,United States
+40,Edinburgh,United Kingdom
+40,Manchester,United Kingdom
+42,Delft,Netherlands
+42,Champaign,United States
+44,Rome,Italy
+45,Santa Barbara,United States
+46,Munich,Germany
+47,Daejeon,South Korea
+48,Karlsruhe,Germany
+49,Sydney,Australia
+50,Evanston,United States
+50,Madison,United States
+52,Heidelberg,Germany
+53,Sydney,Australia
+54,Hong Kong SAR,Hong Kong SAR
+55,Melbourne,Australia
+56,Atlanta,United States
+57,, Hong Kong SAR
+58,Taipei City,Taiwan
+58,Paris,France
+60,Bristol,United Kingdom
+60,Copenhagen,Denmark
+60,Hefei,China (Mainland)
+63,Montreal,Canada
+64,Dolgoprudny,Russia
+64,Osaka City,Japan
+66,Barcelona,Spain
+67,Aachen,Germany
+68,University Park,United States
+68,Amsterdam,Netherlands
+70,Shanghai,China (Mainland)
+71,Sendai City,Japan
+71,Boulder,United States
+71,College Park,United States
+71,Grenoble,France
+75,Berlin,Germany
+76,Stockholm,Sweden
+77,São Paulo,Brazil
+78,Stockholm,Sweden
+79,Madrid,Spain
+80,Philadelphia,United States
+81,Shanghai,China (Mainland)
+82,Bologna,Italy
+82,Novosibirsk ,Russia
+84,Nanjing,China (Mainland)
+84,West Lafayette,United States
+86,Lund,Sweden
+86,Nagoya,Japan
+86,Mexico City,Mexico
+89,Baltimore,United States
+90,Seoul,South Korea
+90,Brisbane City,Australia
+90,Hangzhou,China (Mainland)
+93,Leuven,Belgium
+93,Waterloo,Canada
+95,Coventry,United Kingdom
+96,Pohang ,South Korea
+96,College Station,United States
+96,Utrecht,Netherlands
+99,Durham,United Kingdom
+99,Southampton,United Kingdom
+101,Milan,Italy
+101,Bonn,Germany
+103,Bangalore,India
+103,Suwon,South Korea
+105,Perth,Australia
+106,Pittsburgh,United States
+106,Durham,United States
+108,Berlin,Germany
+108,Geneva,Switzerland
+108,Pisa,Italy
+111,Padova,Italy
+112,Uppsala,Sweden
+113,New York City,United States
+113,Kuala Lumpur,Malaysia
+113,Minneapolis,United States
+113,Seoul,South Korea
+117,Barcelona,Spain
+118,Davis,United States
+118,Glasgow,United Kingdom
+120,Columbus,United States
+120,Zürich,Switzerland
+122,East Lansing,United States
+122,Hamburg,Germany
+124,Saint Petersburg,Russia
+124,Dresden,Germany
+124,Adelaide,Australia
+127,London,United Kingdom
+128,Hsinchu City,Taiwan
+128,Leeds,United Kingdom
+128,Wageningen,Netherlands
+131,Fukuoka City,Japan
+132,Jeddah,Saudi Arabia
+132,Auckland,New Zealand
+132,Birmingham,United Kingdom
+132,Vienna,Austria
+136,Leiden,Netherlands
+136,Moscow,Russia
+136,Hong Kong SAR,Hong Kong SAR
+139,Berlin,Germany
+140,Tucson,United States
+140,Campinas,Brazil
+142,Boston,United States
+142,Mumbai,India
+142,Bern,Switzerland
+142,Strasbourg,France
+146,Vienna,Austria
+147,Helsinki,Finland
+148,Göttingen,Germany
+149,Providence,United States
+150,New Brunswick,United States
+150,Kongens Lyngby,Denmark
+152,Edmonton,Canada
+152,Groningen,Netherlands
+154,Seoul,South Korea
+155,Ghent,Belgium
+155,Houston,United States
+157,Sapporo,Japan
+157,Gainesville,United States
+157,Warsaw,Poland
+160,Madrid,Spain
+160,Santiago,Chile
+160,St. Andrews,United Kingdom
+163,Eindhoven,Netherlands
+163,Rome,Italy
+165,Prague,Czechia
+165,Stony Brook,United States
+165,Milan,Italy
+168,Irvine,United States
+169,Phoenix,United States
+169,València,Spain
+169,Liverpool,United Kingdom
+169,Nottingham,United Kingdom
+173,Buenos Aires,Argentina
+173,Brussels,Belgium
+173,Lisbon ,Portugal
+176,Gothenburg,Sweden
+176,Chennai,India
+176,Oslo,Norway
+179,Marseille,France
+179,Rio de Janeiro,Brazil
+179,Villeurbanne,France
+182,Sheffield,United Kingdom
+182,Barcelona,Spain
+184,Perth,Australia
+184,Frankfurt,Germany
+184,Mainz,Germany
+184,Montreal,Canada
+188,Turin,Italy
+188,Santiago,Chile
+190,Sydney,Australia
+190,Talence,France
+192,Tomsk,Russia
+192,Louvain-la-Neuve,Belgium
+194,Wuhan,China (Mainland)
+195,Erlangen,Germany
+196,Espoo,Finland
+196,Darmstadt,Germany
+198,London,United Kingdom
+199,Guangzhou,China (Mainland)
+199,Haifa,Israel
+201,Aarhus,Denmark
+201,, Hong Kong SAR
+201,Tallahassee,United States
+201,Thuwal,Saudi Arabia
+201,Exeter,United Kingdom
+201,Dublin,Ireland
+201,Lyon,France
+208,Christchurch,New Zealand
+208,Enschede,Netherlands
+210,Fort Collins,United States
+210,Chapel Hill,United States
+210,Munster,Germany
+213,Freiburg im Breisgau,Germany
+213,Islamabad,Pakistan
+213,Amherst,United States
+213,Amsterdam,Netherlands
+217,New Delhi,India
+217,Sao Paulo,Brazil
+217,Chicago,United States
+217,Naples,Italy
+217,Tsukuba City,Japan
+222,Krakow,Poland
+222,Toulouse,France
+224,Wollongong,Australia
+224,Rehovot,Israel
+226,Bangkok,Thailand
+226,Hong Kong SAR,Hong Kong SAR
+228,Dublin,Ireland
+228,Florence,Italy
+228,Milan,Italy
+228,Montpellier,France
+232,St. Petersburg,Russia
+232,Bath,United Kingdom
+234,Beijing,China (Mainland)
+234,Moscow,Russia
+234,Tokyo,Japan
+237,Rochester,United States
+238,Prague,Czechia
+238,Cape Town,South Africa
+238,Turin,Italy
+241,Ankara,Turkey
+241,Calgary,Canada
+241,Los Angeles,United States
+244,Tübingen,Germany
+244,Skudai,Malaysia
+246,Tel Aviv,Israel
+247,Hanover,Germany
+248,Cardiff,United Kingdom
+248,Kanpur,India
+248,Bloomington,United States
+251,Newcastle upon Tyne,United Kingdom
+251,St. Petersburg,Russia
+251,Seri Kembangan,Malaysia
+254,Athens,Greece
+255,Prague,Czechia
+255,Taoyuan City,Taiwan
+255,Innsbruck,Austria
+258,Blacksburg,United States
+259,Charlottesville,United States
+259,Stuttgart,Germany
+261,Tainan City,Taiwan
+262,Basel,Switzerland
+262,Cologne,Germany
+262,Granada,Spain
+262,Honolulu,United States
+262,Pittsburgh,United States
+262,Warsaw,Poland
+268,Hsinchu City,Taiwan
+268,Gelugor,Malaysia
+268,Bergen,Norway
+271,Ottawa,Canada
+271,York,United Kingdom
+273,Raleigh,United States
+273,Reading,United Kingdom
+275,Kharagpur,India
+275,"Lancaster,",United Kingdom
+275,Hamilton,Canada
+275,Kingston,Canada
+275,Melbourne,Australia
+275,Trento,Italy
+281,Dhahran,Saudi Arabia
+281,Tianjin,China (Mainland)
+283,New York City,United States
+283,Porto,Portugal
+283,Rennes,France
+283,Xi'an,China (Mainland)
+287,Budapest,Hungary
+287,Ames,United States
+287,Corvallis,United States
+287,Belfast,United Kingdom
+287,Jerusalem,Israel
+292,Giza,Egypt
+292,Ciudad de México,Mexico
+292,Santa Cruz,United States
+295,Riyadh,Saudi Arabia
+295,, Russia
+295,Moscow,Russia
+295,Notre Dame,United States
+299,Wuhan,China (Mainland)
+300,Nijmegen,Netherlands
+300,Glasgow,United Kingdom
+300,Haymarket,Australia
+303,Thessaloniki,Greece
+303,Kiel,Germany
+303,Maslak-Istanbul,Turkey
+303,Bogotá,Colombia
+307,Brisbane,Australia
+307,New Delhi,India
+309,Boston,United States
+309,Trondheim,Norway
+309,Bochum,Germany
+309,Pavia,Italy
+313,Brussels,Belgium
+313,St. Louis,United States
+315,Daegu,South Korea
+315,Swansea,United Kingdom
+317,Beijing,China (Mainland)
+317,Harbin,China (Mainland)
+317,Antwerp,Belgium
+317,Pullman,United States
+321,Dortmund,Germany
+322,Edinburgh,United Kingdom
+322,Pune,India
+322,La Plata,Argentina
+322,Ljubljana,Slovenia
+322,Victoria,Canada
+327,Knoxville,United States
+327,Bangi,Malaysia
+327,Hobart,Australia
+327,Salt Lake City,United States
+331,Nathan,Australia
+331,Dunedin,New Zealand
+331,Nice,France
+334,Moscow,Russia
+334,Higashihiroshima City,Japan
+334,Kazan,Russia
+334,Bogotá,Colombia
+334,Riverside,United States
+334,Miami,United States
+340,Changchun,China (Mainland)
+340,Busan,South Korea
+340,"Kelburn, Wellington",New Zealand
+343,Xiamen,China (Mainland)
+344,Santiago de Compostela,Spain
+345,, South Korea
+345,València,Spain
+345,Houston,United States
+348,Melbourne,Australia
+348,Callaghan,Australia
+348,Jena,Germany
+351,Islamabad,Pakistan
+351,Kagurazaka,Japan
+351,Aberdeen,United Kingdom
+351,Bremen,Germany
+351,Lille,France
+351,London,Canada
+357,Norwich,United Kingdom
+357,Leioa,Spain
+357,Ekaterinburg,Russia
+360,Johannesburg,South Africa
+361,Beijing,China (Mainland)
+361,Coimbra,Portugal
+363,Roorkee,India
+363,Burnaby,Canada
+363,Trieste,Italy
+363,Nashville,United States
+367,Athens,Greece
+368,Trieste,Italy
+369,Golden,United States
+369,Jinan,China (Mainland)
+369,Tampere,Finland
+372,Bandung,Indonesia
+372,Shanghai,China (Mainland)
+372,Kyiv,Ukraine
+375,Würzburg,Germany
+375,Liège,Belgium
+377,Kobe City,Japan
+377,Genoa,Italy
+377,Gothenburg,Sweden
+377,Iowa City,United States
+381,, South Korea
+381,Beijing,China (Mainland)
+381,Potsdam,Germany
+384,Minsk,Belarus
+384,Jeonju,South Korea
+384,Linköping,Sweden
+387,Moscow,Russia
+387,Islamabad,Pakistan
+389,Shanghai,China (Mainland)
+389,Zaragoza,Spain
+391,Seoul,South Korea
+391,Guwahati,India
+391,Bari,Italy
+391,Lausanne,Switzerland
+391,Albuquerque,United States
+396,Tokyo,Japan
+396,Concepción,Chile
+396,Orlando,United States
+396,Québec,Canada
+400,Lawrence,United States
+401-450,Krakow,Poland
+401-450,Cairo,Egypt
+401-450,Istanbul,Turkey
+401-450,Budapest,Hungary
+401-450,Cleveland,United States
+401-450,Catania,Italy
+401-450,Halifax,Canada
+401-450,Shanghai,China (Mainland)
+401-450,Miami,United States
+401-450,Gwangju,South Korea
+401-450,Ankara,Turkey
+401-450,Lyon,France
+401-450,Townsville,Australia
+401-450,Loughborough,United Kingdom
+401-450,Baton Rouge,United States
+401-450,Kaohsiung City,Taiwan
+401-450,Galway,Ireland
+401-450,"Olomouc,",Czechia
+401-450,Guangzhou,China (Mainland)
+401-450,Lubbock,United States
+401-450,Tianjin,China (Mainland)
+401-450,Valparaíso,Chile
+401-450,Seville,Spain
+401-450,Belo Horizonte,Brazil
+401-450,Porto Alegre,Brazil
+401-450,Lisbon,Portugal
+401-450,Buffalo,United States
+401-450,Aveiro,Portugal
+401-450,Belgrade,Serbia
+401-450,Cincinnati,United States
+401-450,Storrs,United States
+401-450,Newark,United States
+401-450,Jyväskylä,Finland
+401-450,Leicester,United Kingdom
+401-450,Lincoln,United States
+401-450,Norman,United States
+401-450,Eugene,United States
+401-450,Columbia,United States
+401-450,Guildford,United Kingdom
+401-450,Brighton,United Kingdom
+401-450,Tartu,Estonia
+401-450,Tehran,Iran
+401-450,Richardson,United States
+401-450,Lahore,Pakistan
+401-450,Rome,Italy
+401-450,Leipzig,Germany
+401-450,Nancy,France
+401-450,Nantes,France
+401-450,Québec,Canada
+401-450,Hanoi,Vietnam
+401-450,Vilnius,Lithuania
+451-500,Almaty,Kazakhstan
+451-500,Cluj-Napoca,Romania
+451-500,Ankara,Turkey
+451-500,Williamsburg,United States
+451-500,Burwood,Australia
+451-500,Shanghai,China (Mainland)
+451-500,Atlanta,United States
+451-500,Yogyakarta,Indonesia
+451-500,Washington D.C.,United States
+451-500,Graz,Austria
+451-500,Giessen,Germany
+451-500,Manhattan,United States
+451-500,Graz,Austria
+451-500,Lanzhou,China (Mainland)
+451-500,Nakhon Pathom,Thailand
+451-500,Brno,Czechia
+451-500,Palmerston North,New Zealand
+451-500,Taipei City,Taiwan
+451-500,Rio de Janeiro,Brazil
+451-500,Troy,United States
+451-500,Seoul,South Korea
+451-500,Tehran,Iran
+451-500,Stellenbosch,South Africa
+451-500,Syracuse,United States
+451-500,, United States
+451-500,Tuscaloosa,United States
+451-500,Athens,United States
+451-500,Tokyo,Japan
+451-500,Medford,United States
+451-500,Santiago,Chile
+451-500,São Paulo,Brazil
+451-500,Cork,Ireland
+451-500,Ulm,Germany
+451-500,Bayreuth,Germany
+451-500,Bucharest,Romania
+451-500,Debrecen,Hungary
+451-500,Guelph,Canada
+451-500,Johannesburg,South Africa
+451-500,Lexington,United States
+451-500,Pinetown,South Africa
+451-500,Saskatoon,Canada
+451-500,Adelaide,Australia
+451-500,Turku,Finland
+451-500,Wroclaw,Poland
+451-500,Zagreb,Croatia
+451-500,Perugia,Italy
+451-500,Duisburg,Germany
+451-500,Regensburg,Germany
+451-500,Annecy,France
+451-500,Detroit,United States
+451-500,Wroclaw ,Poland
+451-500,Toronto,Canada
